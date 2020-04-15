@@ -1,0 +1,215 @@
+# DND day 3
+Attendees: Carlor, Dagon, Harix, Oberon, Thor
+* Group decides to that crits should be 2 damage rolls instead of doubling 1 roll
+
+- (continue in keep after getting caught trying to loot the Lady's chest)
+- In the keep
+    - We convince the guards to help us in exchange for the contents of the chest and we will give the Lady a proper burial
+- The group leaves the keep together
+    - We pretend the guards are our hostages
+        - We tell the guards that the hostages know where the treasure is hidden
+        - The guards are not convinced, they want the guards to be killed
+        - We convince the guards that Xolkin might want to question the guards
+    - The group tries to jump the gap
+        - Dagon makes the jump
+        - Thor falls and takes 5 damage and is now prone on the end of the bridge
+        - Carlor nimble as fuck, jumps and does a pretty flip across
+        - The guards shimmy across the rope
+        - Harix also fails the jump, and takes 7 damage
+        - Oberon makes the jump
+    - We see the flying snake fluttering by on the left side, heading to the South
+    - Combat begins
+        - Thor makes a surprise attack for 12 attack on Seven Snake 1
+            - He flies into the water and we don't see him again
+            - The horse is skittish
+        - Dagon attempts a surprise shove on Seven Snake 2 and slips in the mud, falling to the ground
+        - Dagon attacks the horse
+            - Main attack for 8 damage
+            - Bonus attack for 5 damager Gregor Clemain-ing the horse
+            - The Seven Snake 2 falls prone on the ground
+        - Oberon attempts to attack the flying snake but misses
+        - Guard 1 attacks Seven Snake 2 & hits for 5 damage
+        - Guard 2 attacks Seven Snake 2 & murders with 7 damage
+        - Thor takes an opportunity attack on the spooked horse for 12 damage, slowing it down
+        - Guard 3 realizes the horse needs to be murdered, runs out and misses
+        - Thor runs over and rolls a nat 20, and finishes off the horse
+        - Dagon finds a money pouch on the Seven Snake 2, and finds 13 gold pieces
+            - Dagon takes 3gp
+            - The rest take 2gp each
+            - Dagon also cuts the ear off the Seven Snake 2
+                - This spooks the guards a bit, but they don't do anything
+    - It's around 5am, not much light
+    - Head toward the two guards guarding the drawbridge
+        - Thor & Harix sneak up on the guards
+        - They can see about 30ft ahead, and don't see anyone
+        - Thor continues to approach, tries to sneak up to the guard tower
+            - There are two levels, doesn't see anybody or hear anything in the tower (doesn't check the second level)
+        - Harix & Carlor scout the first floor of the second tower, don't see or hear anything
+        - Dagon sneaks to a boulder to get a better look (nat 20 on the sneaking)
+            - Sees a Seven Snake in the courtyard, he is still unaware
+            - Dagon passes the news on to the gang
+        - Carlor makes it to the top of a guard tower, and preps with the bow
+        - Sneak attacks & ensuing dialogue
+            - Carlor misses a longbow sneak attack
+            - Oberon takes a sneak attack at the guard in the courtyard
+                - Hits for 10 damage and knocks him off his horse (to prone)
+            - We hear
+                - "What the fuck is going on there?"
+                - Dagon replies: "You're the Fucktard Five now instead of the Seven"
+            - 5 Seven Snakes are visible in the courtyard, along with Kella
+            - Dagon tries to sneak attack the fallen Seven Snake with a dart, but misses and hits the horse for 1 damage
+            - Carlor runs to join the group
+            - Xolkin: "What is this, I thought we had an agreement?"
+            - Thor: "I'm coming to kill you because you're evil"
+            - Dagon: "I WANT YOUR EARS!"
+            - Xolkin: "If a fight is what you want, a fight is what you'll get
+        - Combat begins
+            - Harix begins by attacking the downed Seven Snake
+                - Hits for 9 damage, bashes his skull in
+                - Xolkin sees this & becomes furious, he takes something out of his pocket and puts it in his mouth
+            - Oberon casts Faerie Fire
+                - Lights up Kella & horse, other two are unaffected
+            - Oberon uses bonus action to give Thor a bardic inspiration
+            - Seven Snake 1 comes up and super smisses his attack on Harix
+            - Seven Snake 2 crits Harix for 11 damage
+                - Stone's endurance reduces damage to only 0
+            - Guard 1 hits Seven Snake 2 for 6 damage
+            - Guard 2 misses Seven Snake 1
+            - Seven Snake 3 hits Guard 2 for 3 damage
+            - Kella hits Harix for 7 damage + 7 damage = 14
+            - Carlor marks Kella with a Hunter's Mark
+            - Carlor hits Kella for 8 damage
+            - Dagon swings at Seven Snake 3
+                - Misses once
+                - Bonus attack his for 8 damage
+                - Moves back to the boulder, Seven Snake 3 gets an opportunity strike for 7 damage
+            - Thor misses (nat 1) Seven Snake 1
+                - Thor casts Shield of Faith on himself
+            - Xolkin runs up to Kella, gets off his horse
+            - Xolkin throws a dagger at Carlor but misses
+            - Guard 3 swings & misses Seven Snake 3
+            - Harix hits Seven Snake 1 for 9 damage, cracked some ribs but he's still alive
+            - Harix uses second wind to heal for 10
+            - Oberon runs to Dagon, and blasts Seven Snake 3
+                - Hits for 4 damage
+                - Splatters him to the ground
+            - Seven Snake 2 swings at Harix and misses
+            - Seven Snake 1 swings at Harix as well, but super misses
+            - Guard 1 swings at Seven Snake 2, but misses
+            - Guard 2 goes after Seven Snake 1
+                - Hits for 5 damage, spears in right through the chin
+            - Kella moves a little further into battle, and shoots her crossbow at Thor
+                - Near miss due to Harix's protection
+            - Carlor sends an arrow at Xolkin, hits for 10 damage
+                - Minor injury, but Xolkin is unphased
+            - Dagon runs up towards the Kella group, spews his breath weapon
+                - Hits horse for 2 damage
+                - Xolkin hits for 2 damage
+                - Kella also hit for 2 damage
+            - Dagon uses his bonus action to try and hit the horse with an unarmed strike
+                - Hits for 4 damage
+                - Spooks the rest of the horse away
+                - Tries an opportunity strike but misses
+                - Uses key point to get dodge for the next round
+            - Thor charges towards Xolkin
+                - Seven Snake 1 takes an opportunity strike on Thor for 2 damage
+            - Thor swings at Xolkin and hits
+                - Uses Divine Smite to bump the damage to 16 damage
+            - Guard 3 super murders Seven Snake 1
+            - Xolkin tries to attack Thor
+                - All 3 strike attempts do not connect
+            - Harix misses Xolkin
+            - Oberon blasts Kella with an elder blast for 1 measly damage
+            - Guard 1 & 2 move in closer to Kella & Xorkin
+            - Kella attacks Kyle with her shortsword, misses thanks to Harix's protection
+            - Carlor runs up, sends in an arrow at Kella and hit for 5 damage
+            - Dagon hits Kella for 6 damage
+                - Goes for a bonus attack, hits for 4 additional damage
+                - Kella is pretty dazed and bleeding pretty good
+                - Uses more monk shit to make yet another attack
+                - 6 more damage!
+                - Dagon grabs Kella from the hair, and "fist fucks" her face, bashing in her skull (she dead)
+            - Thor strikes Xolkin for 13 damage
+                - Xolkin is barely phased yet again, just angered
+            - Guard 3 charges in, can't strike yet though
+            - Xolkin attacks Thor (3 swings, all at disadvantage)
+                - All miss!
+            - Harix takes multiple strikes at Xolkin, one lands (uses Action Surge)
+                - 5 damage
+            - Oberon comes in closer to get a better shot, tries to blast Xolkin
+                - Hits for 8 damage
+            - Guard 1 & 2 try to attack, but both miss  
+            - Carlor throws his longbow on the group, charges in, misses once, but second attack hits Xolkin for 4 damage
+            - Dagon runs up and tries to grapple Xolkin
+                - Grapple succeeds
+                - Dagon threatens to throw him into the well
+                - Dagon asks "What did you send with your flying snake?"
+                - Xorkin sees Kella's corpse, spits in Dagon's face and is now visibly enraged
+            - Thor swings at Xorkin, uses bardic inspiration; shouldn't have hit with 15 but DM overruled
+                - Hits for 13 damage
+                - Xolkin is STILL unphased
+            - Xolkin takes 3 strikes at Dagon (at disadvantage due to Harix's protection)
+                - Miss, miss, miss!!!
+            - Guard 3 misses
+            - Harix misses
+            - Oberon rolls and blasts and misses
+            - Guard 1 hits for 6 damage
+            - Guard 2 misses
+            - Carlor swings & hits for 8 damage
+                - Takes a bonus attack as well but it misses
+            - Carlor runs towards Kella, dodging an opportunity strike
+            - Dagon jumps into the well with Xolkin
+                - Tries to intimidate Xolkin to figure out what message was sent with the flying snake
+                - Xolkin: "OK OK OK, I sent the snake to Dagerford"
+                - Dagon: "Tell me the message bitch!"
+                - Xolkin: "We told him that we took control of the town"
+                - Dagon tries to climb out of the well
+                - Xolkin misses his opportunity attack (nat 1)!
+            - Thor uses Lay on Hands Pool to heal Dagon for 5 HP
+            - Xolkin tries to escape the well
+                - Pops out, strikes at Dagon
+                - First scimitar hits for 5 damage
+                - Second scimitar hits for 7 damage
+                - Dagger hits for hits for 6 damage (loses 1 saving throw)
+            - Guard 3 hits for 6 damage
+            - Harix hits a rib dealing 3 damage (cracks a rib but he's still OK)
+            - Oberon blasts Xorkin for 5 damage (still unphased)
+            - Guard 1 hits for 3 damage
+                - Spear hits his knee, Xorkin might finally be feeling pain
+            - Guard 2 moves up and misses
+            - Carlor tries to loot Kella, finds
+                - Hand crossbow
+                - Shortsword
+            - Dagon fails his saving throw (1 left)
+            - Thor uses healing potion on Dagon to heal 7hp
+            - Thor swings at Xorkin and misses
+            - Xolkin attacks Guard 3
+                - Miss, miss, miss
+            - Guard 3 spears Xorkin for 4 damage
+            - Harix misses
+            - Oberon sends out a failed blast
+            - Guard 1 misses
+            - Guard 2 hits for 3 damage
+            - Carlor hits Xorkin for 7 damage
+                - Goes for bonus strike but misses
+            - Dagon takes his shortsword, says "XORO", but misses
+                - Takes bonus attack to punch him in the dick for 5 damage
+            - Thor swings with the warhammer but misses
+            - Xolkin swings at Guard 2 (Harix's protection saves the day yet again, preventing a nat 20 as well)
+                - Miss, miss, miss
+            - Guard 3 misses
+            - Harix misses
+            - Oberon jumps up on a boulder for the high ground, misses the blast
+            - Guard 1 hits for 7 damage
+                - Xolkin is pretty fucked at this point
+            - Guard 2 misses
+            - Carlor misses first strike, but bonus attack smashes some testies for 4 damage, killing Xorkin
+        - Carlor 
+        - Loot:
+            - Gold ring (symbol of the black network, guard says something about Zhentarin, meaning black network)
+            - 4 platinum
+            - 46gp
+            - 13gp
+            - 5 gemstones
+            - Finds an empty vial of a potion of invulnerability
+            - 3 get 17gp, 3 get 16gp (Harix, Carlor & Dagon)

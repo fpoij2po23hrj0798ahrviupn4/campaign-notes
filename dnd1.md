@@ -1,0 +1,249 @@
+# DND day 1
+Attendees: Carlor, Dagon, Harix, Oberon, Techno, Thor
+
+- Carlor (Ranger - Variant Human) is heading to Nightstone (10 miles, walked 4)
+- Met Thor (Paladin - Dragonborn)
+    - Were travelling north, Nightstone was inland (Eastward)
+    - Dagerford to Waterdeep
+    - West of the the road (miles & miles) is Sword Coast
+    - We came from the West
+- Met Oberon (Bard - Variant Human)
+    - Oberon sings to the dead
+    - Came from waterdeep
+- It's around noon
+- Saw a pitiful Dragonborn creature getting attacked
+    - Missing tail
+    - Tribal tatoos and burned scales on right arm
+    - Can't breathe fire
+    - This is Dagon (Monk - Dragonborn)
+- Harix (Fighter - Goliath) popped out of the woods, scared away the things attacking 
+- Decide to head towards surrounding area of Nightstone to kill Orcs
+- Get to Nightstone at around noon
+    - Going to get dark in 3 hours
+    - Approach village
+        - See figure when approaching Nightstone
+        - Moat, river encircles entire area
+        - Approach, can see side view?
+        - Bell ringing non-stop
+        - Destroyed bridge leads to a keep above
+    - Get to character in front of Village, he says something is out of the ordinary
+        - Techno (Druid - Wood Elf) the wood elf is the character
+        - Tall & lanky
+        - From Ardeep forest, full of wood elves
+        - Elves have long time-time feud with orcs
+        - Problem with Nightstone but are at shaky peace now
+    - Apparently there are goblins in the town of Nightstone
+    - Do not hear anything other than the bell from the steeple
+    - Techno says bell usually only goes off at scheduled intervals & during scheduled meetings
+    - Walk towards village, see drawbridge
+    - Carlor climbs, falls and hits every branch
+    - March in to the town!
+        - Massive boulders, 3 of them, each 3ft diameter
+        - A lot of the buildings have damaged roofs
+        - North, we see the entrance to the church (source of ringing)
+        - South, see the edge of a field
+            - Residence source of the gates (and more boulders)
+        - Nothing seems interesting about the boulders, all seem to have come from straight down
+    - Investigate church
+        - Door is ajar, take a peek inside
+        - We don't see anything, yet another bad roll
+        - Modest church built of wood
+        - Wooden pews facing north
+        - Wooden pulpit way at the back
+        - 4 stained glass windows at the north, can see into the chamber (empty)
+        - Steeple is attached to the western side of the building, still ringing
+        - Go up
+            - Pushes up against door, sees 2 goblins hanging off the ropes of the bell, having a time
+            - Don't notice us
+            - Boot door, it's a bedroom
+            - We barge in, they grab scimitars, mad!
+            - Goblins attack first, go after Thor
+                - Miss Thor
+            - Second Goblin attacks
+                - Misses
+            - Thor attacks
+                - Misses
+            - Carlor hits him over the head, daze him
+                - Bonus attack, daze again
+            - 2 goblins are now facing Thor and Carlor
+            - Harix goes for a swing
+                - Misses
+            - Oberon hits the goblin and murders the fuck out of him
+            - Remaining goblin jumps on the ropes and tries to escape
+            - Thor tries to intimidate
+                - Runs up, yells, goblin laughs and continues
+            - Carlor fucks up trying to climb a rope
+            - Harix doesn't fuck around, rips the rope right out of the bell
+            - Goblin falls to the ground and takes 1 bludgeoning damage from the fall
+            - Harix guards the other rope
+            - Oberon tries to lasso him with the broken rope
+                - Makes a good attempt, but attaches to a coat rack instead
+            - Goblin hits Harix
+                - Harix takes 3 damage
+            - Thor helps Carlor, grab the fuck out of that Goblin
+            - Harix tries to tie him up
+                - Hogtied him up and dumped in on the ground
+            - Dagon runs in and smacks a bitch
+                - Asks him how many Goblins there are
+                    - Many
+                - Why you ring bell?
+                    - Treasure
+                - Where did the boulders come from?
+                    - Sky
+                - What treasure are you looking for?
+                    - Things people have!
+                - Who is your leader?
+                    - No leader, no leader here
+                - Where is your encamptment?
+                    - No tell you!
+                - Dagon gets mad, stoner bashing time - he dead
+            - Try to loot goblins, find a sack with his name on it (Beato)
+                - Contains 3 blocks of incense, a silver holy symbol of mielikki (shape of a unicorn head) and other worthless goods
+            - Lady Valrossa wants goblin heads
+                - Dagon cuts off the goblin ears, puts it in his man purse all bloody-like
+        - Techno heads to the house
+            - Door is closed
+            - Walks in and it appears to have been rummaged
+            - Rolls nat 20, scans the fuck out of the house, and finds nada
+        - It's starting to get dark
+            - Harix, Thor & Techno head to windmill
+            - Thor heads to the house
+            - Carlor & Dagon do a quick scout (plan is to end at the windmill)
+        - @Windmill
+            - Techno opens the door
+            - It's really dark, filled with windmill internals
+            - Can hear footsteps & whispers in the rafters
+            - Sounds like a mix of two languages, maybe common &&|| goblin
+            - Techno investigates further
+                - Looks up, sees goblins jumping around in the rafters
+                - They spot Techno & start firing short bows
+                - Combat!
+                    - Rolls 12 initiative, one goblin is faster
+                    - 4+4 roll, misses
+                    - Techno tries to leave
+                    - Both goblins go for opportunity attacks
+                        - First attack, nat 20!
+                            - Hits for 10 points
+                        - Second attack 17
+                            - Hits for 7
+                        - Super dead
+                - Harix & Oberon see Techno getting super deaded
+                    - They don't see goblins
+                    - Oberon tries to heal Techno
+                        - Techno feels the heals, gets 5hp (has 5hp now)
+                    - Oberon stays back-ish, Harix goes right up to Techno
+                - Techno gives them the lowdown "they legit fucked me up, bing bang bow"
+                - Techno has managed to pick himself up, nothing is coming out of the door now
+                - Oberon tries to lure the goblins via coin sounds
+                    - Works, we see the head of a goblin pop through the doorway, upside down ?!
+                - Combat!
+                    - Harix tries to smash him in the head via sneak attack
+                        - Misses, but hits the door frame and shakes the goblin off the door
+                    - Harix tries for second attack
+                        - Another miss
+                    - Second (hidden) goblin has a turn, grumbles a bit but can't attack
+                    - Techno tries Frostbite
+                        - Fails
+                    - Oberon hits 1 goblin for 2 damage
+                    - Goblin swings at Harix
+                        - Miss!
+                    - Harix takes a swing
+                        - Hits for 4 damage
+                    - Techno attacks
+                        - Hits for 3 damage, pokes holes through dat bitch
+                    - Oberon tries to simulate the goblin crying out for help
+                        - Goblin suspects a trick doesn't come out
+                    - Harix threatens to huff & puff & burn the place down
+                        - Goblin doesn't dare come out, so he climbs to the top of the windmill and tries to escape by jumping off the roof
+                        - Goblin splatters onto the ground, is gasping for air
+                        - What were you doing in the windmill?
+                            - Playing!
+                        - Who's in the village?
+                            - Lots of goblins! Looking for treasure
+                        - Did you find anything yet?
+                            - Nothing!
+                        - So where do we find the treasure?
+                            - Find what?
+                        - Find the preciouses!
+                            - Goblin is about to die
+                        - Who's your leader?
+                            - The goblin king!
+                        - Goblin dies
+                        - Harix finds some copper on the goblins
+            - Carlor & Dagon's scouting mission
+                - Find a well, boulders, and see 2 large dog like creatures feasting on corpses
+                - Carlor does a survival check on the beasts
+                    - Seems 10 feet long body wise?
+                    - Looks like a wolf, might be a warg
+                - Dagon tries to determine what's up with the body, it's super dead
+                - Dagon jumps on boulder and throws dart
+                    - Dagon missed the sneak attack, botches the hell out of it
+                    - Beasts don't notice it
+                - Carlor runs the fuck away towards Thor and gives him a sitrep
+                - Dagon throws more daggers
+                    - Deals 4 damage
+                - Carlor shoots longbow, misses
+                - Carlor takes second shot
+                    - Hits the rib cage, pretty angry but lots of energy left
+                - Thor hits for 6 damage
+                - Beast goes for a bite out of Thor
+                    - Hit!
+                    - 10 damage
+                    - Just manages to avoid getting knocked on his ass
+                - Dagon spits green breath at the beasts
+                    - 6 damage to the injured beast
+                        - Straight shot to the kisser, takes it down
+                    - 3 damage to the other beast
+                - Reinforcements come in
+                - Oberon damaged the remaining beast for 2 damage
+                - Oberon pops in and bards Thor up 1 extra 1d6
+                - Carlor hits longbow for 10 damage
+                    - Definitely hurts, but it's still DTF
+                - Thor takes a stab at the beast
+                    - 9 damage
+                    - The beast still ain't been deaded yet
+                - Thor runs away screaming
+                - All the ruckus has stirred up a goblin!
+                - Shoots at Carlor, but misses :+1:
+                - Harix sprints in, isn't able to attack
+                - Beasty-boy time!
+                    - Tastes a bite at Thor, but misses
+                - A wild goblin appears!
+                    - Takes a sneak attack on Thor, miss!
+                - Dagon barges after the goblin
+                    - Takes a swing & a miss with his shortsword
+                    - Uses bonus action unarmed attack
+                    - Damages for 6
+                    - Still standing
+                - Yet another goblin appears
+                    - Shoots at Dagon for 6 damage
+                - Techno sends some mystical healing prowess Thor's way
+                    - Heals Thor for 6hp
+                - Oberon takes his second round
+                    - Blasts the fuck out of the beast
+                    - 5 damage through his mouth, out of his butthole
+                    - He dead
+                - Carlor sends a longbow after the Goblin near Dagon
+                    - Super miss
+                - Thor hits a Goblin for 9 damage for a kill
+                - Goblin sends an arrow at Carlor
+                    - Hits for 3 damage
+                - Harix tries to retaliate but misses
+                - Dagon attacks the remaining goblin, but misses twice
+                - Goblin goes after Dagon
+                    - Swings and hits for 5 damage
+                    - Dagon is knocked that fuck out
+                - Techno heals Dagon for 7
+                - Oberon hits for 1 damage
+                - Carlor rolls nat 20 to insta kill one goblin
+                - Thor swings & miss
+                - Dagon swings
+                    - Hits for 4 damage
+                    - Misses his second pop
+                - Goblin misses an attempt on Dagon
+                - Techno tries to frostbite the goblin
+                    - Hits for 5 damage
+                    - Something about a frosty vagina..
+                    - Goblin dies
+                - Dagon takes all the ears
+- End of day 1

@@ -1,0 +1,246 @@
+# DND day 2
+Attendees: Carlor, Dagon, Harix, Oberon, Techno, Thor
+
+- (continued after beast & goblin battle)
+- Post battle checks
+    - Collect arrows/darts/scan for treasure/Dagon adds ears to his necklace
+        - Find gold ring in Pojo's pouch
+    - Hole looks like something was there & removed (not a boulder)
+        - About 5ft
+    - Wargs were eating a dog
+    - Dagon gets one of the jaws
+    - Carlor gets 2 wolfish livers
+    - Oberon found water in the well
+- We now have a good general idea of the town layout
+    - Nightstone Inn is next to us
+    - Stable to the right (with locations for horses)
+    - Plantation of some sort below plus anoter house
+    - Windmill visitors would have seen what looks like a keep but the bridge to it is destroyed
+- Currently ~6pm
+- Entering the inn
+    - Boulder has come through the roof (and passed through the second floor)
+    - Find a dead goblin
+        - Died recently, has a crossbolt through the chest
+        - No loot
+        - Dagon adds another ear to the books
+    - Enter next room
+        - Find a single goblin
+        - Carlor tries to setup a distraction
+        - Thor goes in, distraction failed & Thor misses
+        - Dagon also misses
+        - Oberon attempts to talk the goblin down
+            - Succeeds, but need to gives her an out
+            - What happened to the villagers?
+                - They left after the rocks came down
+            - Who killed her buddy with the crossbow?
+                - IDK
+            - What was in the hole in the square?
+                - Big rock
+            - Who took the rock?
+                - She doesn't know where it went, but usually there's a rock
+            - Is the rock special?
+                - No, they came to raid after the villagers left
+            - Did the orcs send the boulders?
+                - I don't think the earseekers didn't do this
+            - Who is your leader?
+                - King Hark
+            - Where is he?
+                - In the caves
+            - How do you get to the caves?
+                - I'll tell you.... (she runs)
+        - Check the room, find nothing (goblins took everything)
+    - Check upstairs, small room with 4 doors
+    - Dagon opens first door
+        - Was a guest bedroom, nothing valuable
+    - Harix opens next room
+        - Destroyed by boulder
+        - Almost smashes the desk with the crowbar, but no luck
+    - Thor investigates the next room, finds nothing
+    - Techno opens the final room
+        - Finds a human female in the room
+        - Wearing common clothes
+        - Approaches and shakes her, waking her
+        - A snake comes crawling out of her sleeve, it doesn't look dangerous, possibly a pet, appears to be a "flying snake"
+        - Techno attempts to make the snake his own
+            - Fails, snake stays with woman (assumed to be its owner)
+        - What happened to you?
+            - I'm a travelling monk, visiting the village. Was in her room, heard a loud bang and was knocked out
+        - I'm here with a group, would you like to stick with us?
+            - Sure
+        - Her name is Kella, and she shows Techno his pet snake
+        - We can assume that the boulders have likely hit today
+        - Dagon gives Techno 2 goblin ears as a thanks for the heals
+    - Take a long rest Dagon takes the first watch
+        - During the first watch, we hear some animal noises, and a shout "Are there any villagers, and can you come out?"
+        - Roughly 11pm now, everybody gets a short rest
+        - Dagon wakes the group & peers out at the square
+        - Gets a partial glimpse, sees 5 humanoids mounted on horses (medium sized, race unknown)
+        - No gleaming of swords
+    - We all move outside, see 7 mounted humanoids
+        - Some human, some might be elves or half-orcs
+        - Oberon approaches the leader and starts a conversation
+        - They claim to have come to village to rid it of the goblins
+        - Matt takes a look at the figures, might have seen them at a tavern before but can't remember (nat 1)
+        - Oberon approaches the leader, gives him a summary
+        - We lie & tell them we've cleared all the goblins, and found a snake lady
+        - Where are you from?
+            - Came from Dagerford, were sent by a villager from Nightstone
+        - What do you know of Lady Nandar?
+            - She's watched over the village for about a year since her husband passed, they would usually stay in the keep
+        - What is your name?
+            - Xolkin is the name of the leader
+        - What was in the hole?
+            - Big obsidian rock, nobody could discern whether it was of any value
+        - Xolkin gives a signal and 2 at the back head to close the drawbridge, the other 4 guards take station in the middle of the square, and calls dibs on the town
+        - Try to see if they seem dangerous, they seem to be very well equipped
+        - They are the 7 snakes of the black network, they are taking the village by the order of their leader Snail
+        - As we're talking, Kella walks up to Xolkin and the Snake flies over to Xolkin
+        - Techno sees this and remembers that the black network uses Flying Snakes to send messages
+        - We agree to clear the village
+        - Oberon takes the group over to the keep
+            - Xolkin sees this and says "Hey! I said clear the village, not the keep)
+    - Head to the stable
+        - See a giant boulder in the middle of the floor, appear to be 8-10 horses
+        - As Carlor walks in, an arrow flies just past him
+        - The goblin who fires the arrow is standing in the hay loft above (10 feet up)
+        - Harix dashes up the ladder up to the goblin
+        - Techno fails to hit the goblin with a ranged attack
+        - Thor also dashes up to the goblin
+        - Oberon attempts to blast the goblin, but misses
+        - Goblin runs to the other corner of the loft & shoots at Oberon
+            - Hits a nat 1 damage on a nat 20 roll for hit (4 damage)
+        - Dagon climbs a ladder and throws a dart for 5 damage
+        - Carlor drops his quarterstaff & grabs his bow to shoot at the goblin but misses
+        - Harix bashes the goblin & bashes his head in with 10 damage (ears intact)
+        - Carlor rolls nat 1 on searching the room, sees 9 horses (even though there are 10)
+        - Harix loots the goblin (nat 20)
+            - Finds Derp's sack with 1 copper piece & a wooden box engraved with a lion's head coster (emblem of a business)
+            - Box has 10 silver darts
+        - Dagon grabs more ears
+    - Little building north of the stable is empty
+    - Both guard towers at the north-east is empty
+    - Graveyard at the north is empty
+    - Graveyard at the north-west is empty
+        - Harix smashes the fuck out of the crypt-door and jumps in
+        - Lord Dreslin Nandar's coffin is in there
+        - Only bones in the coffin, no goodies
+        - No hidden switches detected
+        - Carlor disturbed the grave and a spectre appeared
+    - Spectre battle
+        - Spectre attacks Carlor and misses
+        - Harix swings at the spectre and hits for 10 damage
+        - Carlor hits for another 5 damage, but misses the bonus attack
+        - Oberon, Thor & Techno join the battle
+        - Spectre hits Carlor for 11 damage, plus halves Carlor's HP until the next long rest
+        - Harix hits for another 10 hp
+        - Carlor drops the skull, disengages and runs out of the crypt
+        - Oberon hits for 9 damage with a purple blast of elder blast, it almost goes does but comes back up ANGRY (but weak)!
+        - Thor runs in and hits for 5 damage - poof, spectre is gone
+    - Dagon sneaks down to the broken bridge in the south
+        - As he's walking by the farm, he can hear shuffling and giggling from the field
+        - Dagon ignores this and continues down to the broken bridge
+        - Isn't capable of making the jump, retreats to investigate the noise in the farm
+        - Hears the sound again, but it seems to be more than one so he retreats to the town center
+    - Thor investigates the house just south of the city square
+        - Appears to be thoroughly looted by goblins
+    - Dagon calls the gang over towards the farm
+        - Thor charges in, doesn't know what the fuck he's doing, swings at unknowns, and demolishes a scarecrow
+        - Two creatures charge in and take two opportunity strikes against Thor
+            - Both miss, but Thor notices that the goblins have pumpkins over their heads
+            - No holes are carved, so they are just swingly blindly
+        - Harix joins in and goes for an attack
+            - Smashes the pumpkin off the goblin's head, goblin is still alive but is dazed and hurting
+        - Thor comes in with a second attack, and the goblins is smashed to bits (maybe no ears leftover)
+        - Techno sends for an ice spike and hits for 4 damage
+        - Oberon attempts to blast the second goblin and hits for 1 damage (pumpkin remains)
+        - Dagon smacks the pumpkin headed goblin in the side for 3 damage and murders the goblin
+        - Dagon steals some ears as is tradition
+        - Thor scans the corpses and finds, 3 silver & 4 copper
+        - Carlor scans around the field and finds a pouch that contains
+            - A tinder box
+            - A teddy bear
+            - A pipe
+            - Box set of 3 dragon anti cards
+    - Thor & Harix investigate a house near the farm and find nothing
+    - Oberon & Dagon try to cross the broken bridge, but 2 of the black network members comes down to tell them to continue cleansing goblins
+        - They convince the black network that they have completed the task
+        - Black network asks where the rest of the party is
+        - Dagon says they are just clearing the remaining houses
+        - Guards say "But you haven't completed!"
+        - Dagon rolls a nat 20 and threatens the guard, telling him that it will be completed soon (needed a nat 20!!)
+        - The guards are OK with the response, but remain watching at the bridge and tell the 2 make sure to clear any guards they find
+        - Dagon & Oberon uses ropes & magic to setup a rope & climb across the broken bridge
+            - Mage hand succesfully loops the rope around the poteau
+            - Dagon secures the rope, him and Oberon shimmy across
+            - Dagon walks up the door and pushes it open
+            - ... to be continued
+    - Thor & Harix investigate the next house
+        - Appears to be a regular house, some kind of rune written on the wall
+        - Harix finds a locked chest under the bed
+        - Thor helps Harix bust the door open with the crowbar, only bust a chunk off the chest
+        - Thor smashes the chest open with his warhammer and smashes the chest to splinters
+            - Some golden object was smashes to dust, nothing useful remains
+            - Healers kit
+            - Healing potion (miraculously unbroken)
+    - Techno heals Carlor 10 hit points, but only 5 stick due to the 1/2 HP curse
+    - Harix & Thor search another house but don't find anything
+    - Carlor & Techno investigate yet another house, find nothing
+    - Harix takes a peek at the odd looking boulder, similar to the others, appears to have destroyed a house 
+    - Harix investigates the last guard tower with Thor, Carlor, Techno
+        - One goblin on the top floor, doesn't spot us yet
+        - Thor throws a javelin but misses, goblins are now aware of the attacker
+        - Thor equips his warhammer and runs up the stairs, hitting for 4 damage
+        - Techno runs up the stairs and swings his quarterstaff, hitting for 2 (nat 20, but nat 1 damage)
+        - Harix his for 6 damage, obliterating the goblin with his warhammer
+        - Techno takes the ears
+        - Carlor searches the body and nothing
+    - Harix, Carlor, Techno, Thor enter the trading post
+        - Find nothing, but see a doorway
+        - Enter the doorway and find a big storage room with shit everywhere, was looted by the goblins
+            - Carlor searches the storage room and finds 20 arrows
+    - Oberon & Dagon tried to sneak into the keep but failed, they roll into it clumsily
+        - ... to be continued
+    - Harix, Thor, Techno and Carlor approach the bridge
+        - Everybody makes it across and barge into the keep
+    - EVERYBODY LEVELS UP TO LVL2
+    - It's around 3am
+    - Walk into the keep and see 4 humans wielding spears and Oberon interrogates
+        - What are you doing here?
+            - This is our keep, we defend it!
+        - We inform them of the snakes & that the goblins are defeated
+        - We sheath our weapons to stop them them from being threatened
+        - The group notices Lady Nandoorn is lying dead on a table
+        - In response the the goblin ear debt
+            - Our kingdom has fallen! We don't care about the debt that we owe you
+        - The villagers have fled to goblin king cave, to the north in the Ardeep forest (a mile North)
+        - The boulders came from the sky, yesterday one of the cloud towers flew over and dropped boulders, and the cloud giants stole the obsidian stone
+        - The Nandoor's do not have any heir's
+        - Guards seem legit, probably good people to help
+        - Are there any secret passages out of the keep?
+            - No, only way you came in
+        - Will you assist us in defeating the seven serpents?
+            - They seem hesitant, Oberon then begins singing to the deceased Lady
+            - The guards are still unconvinced
+            - Techno the wood elf approaches, and the guards recognize that he is likely Ardeep forest. Unfortunately the elves are not on good terms with the humans.
+            - Oberon offers to perform the burial, but they want the Lady to be burried with the Lord
+            - We tell the guards we had witnessed the serpents defying the Lord's crypt
+            - The guards are irate and agree that the serpents must die
+            - The guards leave one behind to guard the Lady (3 will come)
+        - Dagon opens the door to the bridge, yells out to the 2 guards "Hey, we need help in here"
+            - They don't give a fuck
+        - We investigate the keep before continuing
+            - Thor searches a room and finds nothing much, but rips a piece of a page out of a book for himself
+            - Carlor goes up to the second level
+                - Opens a door and finds nothing
+            - Techno opens a door and finds nothing
+            - Carlor scans the remaining room, see an unlocked wooden chest and other things
+                - Finds some potentially good stuff, but the guards are very much not happy
+            - Thor sneaks up and opens the chest, but:
+                - A trap is triggered, the mounted sword has swung out and hit for 9 slashing damage
+                - Thor smashes the sword for 9 damage, the sword is still active
+                - Oberon and a guard run up the stairs to investigate the noise
+                - Sword hits Thor for another 13 damage (nat 20), he's knocked unconscious
+                - Oberon tries to fight the sword, but misses
+                - The guard walks in and disarms the sword, and tells everybody the leave immediately
+            - Oberon casts healing on Thor to heal for 5 damage
+        - Take a short rest, and end the night

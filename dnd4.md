@@ -1,0 +1,215 @@
+# DND day 4
+Attendees: Carlor, Dagon, Harix, Oberon, Thor
+
+* Notes: We used Techno for a few tasks despite him not being here
+* Edits to combat:
+    * Protection
+        * Works even if you are leaving, as long as your started near the shield man
+        * Only once per turn (shield bearer decides when)
+        * Only blocks one attack (so a multi-attack will only be affected on the first attack)
+    * Grappling
+        * Can still attack when grappled
+    * Short & long rests
+        * When you take a short rest, if you use a hit die, it is expended (can't be used on the next short rest)
+        * When you take a long rest, you only get half of your hit die back
+
+- (continue after big battle)
+- Dagon takes one ear from each body
+- It's now around 7am
+- 5 horses are still around, guards are rounding them up but there is no room in the barn
+- Oberon plays bagpipes to the dead
+- Things to do
+    - Rebuild the bridge to the keep (couple of hours)
+    - Help the guards gather the horses
+    - Open the chest in the Lady's chambers
+        - 180 silver pieces (give to guards)
+        - 4 amber stones
+        - Silver jewelry box, with 3 beautiful gold necklaces
+    - Give the lady a burial (and bury the rest of the bodies)
+        - Dagon says a prayer, Oberon then sings
+    - Take a long rest
+    - Talk to guards
+        - Where is the cave?
+            - 1 mile North (forest-y easy walk)
+        - Do you want to come with us?
+            - We'd prefer to secure the village
+        - Is there something we can tell the villagers to gain their trust?
+            - Tell them Syndiri sent you
+        - How many villagers are there?
+            - Around 50
+        - Do you know which cave the goblins came from?
+            - No, there are many caves up North
+- It's around 8pm
+- Try to head towards the cave
+- We get the guards to open the drawbridge, we let them know that the bagpipes will be our signal when we return
+- As the guards open the drawbridge, a javelin flies across and hits a guard
+- Drawbridge is still up, guard is wounded but not dead
+- Dagon helps the guard down the tower, so Thor can help
+- Techno sneaks up the tower and tries to see with his darksight
+    - Sees 2 orcs that are almost at the drawbridge, and another 4 further out
+    - He comes down, inspects the javelin and says "Oh god, it's the ear seekers, they're here"
+    - We ask Techno what the orcs are seek
+        - They seek the ears of forest elves as trophy's of their kills
+    - Techno climbs up again
+        - The orcs are closer
+        - 2 are swam across the rvier and are trying to climb but it isn't succesful
+- Carlor runs towards the keep to recruit the other 2 guards 
+- Group decides to watch the orcs struggle while they wait for Carlor to return
+- Techno sees another couple of orcs, and one is about to throw a javelin (8 orcs total now)
+    - Javelin misses
+- It sounds like there are more orcs now
+    - There are no elves here!
+        - No, village! We take the village! It must be ours!
+    - What are you seeking?
+        - Refuge
+    - What are you trying to seek refuge from?
+        - Garrrr, the elves!
+- Thor leaves his post to talk with Syndiri
+    - Are there any hidden tunnels?
+        - No, only the drawbridge
+- Carlor returns with the guards
+- Techno can now see about 10
+- Group decides to wait it out (unless the orcs start making headway)
+- Combat begins!
+    - Orc 3 tries a sneak attack against Dagon but it fails
+    - Oberon blasts Orc 3 for 5 damage
+    - Orc 3 bounces back and misses Dagon
+    - Dagon swings & misses, his bonus action hits for 3 damage
+    - Oberon blasts Orc 3 for another 4 damage
+        - Orc 3 is quite hurting
+    - Carlor jumps in, smashes Orc 4 for 7 damage, and another 6 damage on the bonus attack
+        - Orc 4 is very much hurting
+    - Orc 4 misses Carlor
+    - Orc 3 misses Dagon
+    - Dagon smacks Orc 3 across the nipples, for 8 damage
+        - Orc 3 falls to the ground dead
+        - Uses bonus attack on Orc 4 but misses
+    - Thor swings his warhammer at Orc 4 for 12 damage, deading it
+    - A javelin comes flying at Oberon, misses (came from the South)
+    - Orc 1 charges at Carlor, provoking an opporunity attack
+        - Carlor hits Orc 1 for 8 damage
+        - Orc 1 hits Carlor for 5 damage
+    - Orc 6 also appears, hitting Alara for 8 damage
+        - Alara is gravely wounded, but still standing
+    - Orc 5 appears, and swings at Kaelen, killing with a 14 damage hit
+    - Harix dashes in to battle
+    - Oberon misses
+    - Torem attempts to get revenage on Alara, hitting Orc 5 for 7 damage
+        - Orc 5 is still going strong
+    - Carlor casts Hunter's Mark, and kills Orc 1 with 11 damage
+    - Another javelin flies at Oberon but misses (from the South)
+    - Alara misses Orc 6
+    - Dagon throws a dart at Orc 6, hits for 3 damage
+    - Syndiri swings at Orc 5, hits for 6 damage
+    - Thor swings at Orc 5, hits for 7 damage
+        - Orc 5 is pretty dazes but it still going
+    - Orc 6 attacks Alara, misses
+    - Orc 5 misses Thor thanks to Harix's protection
+    - Harix hits Orc 5 for 6 damage, murdering it
+    - Oberon readies an Eldritch blast in response to a javelin attack
+        - Also yells out that there is an orc to the South
+    - Torem hits Orc 6 for 7 damage, piercing it to pieces
+    - Carlor moves, no attack (no visible Orcs)
+    - Alara moves, no attack
+    - Another javelin misses Oberon
+    - Dagon dashes to the South, sees Orc 2 (source of javelins)
+    - Syndiri stays put
+    - Thor dashes to the South, he also sees Orc 2
+    - Harix moves down next to Thor
+    - Oberon climbs down from the tower
+    - Carlor dashes forward and uses Hunter's Mark on Orc 2
+    - Orc 2 hits Dagon for 13 damage
+    - Dagon misses his nipple strike on Orc 2, and also his bonus attack
+        - Dagon uses Step of the Wind to disengage and run away
+    - Thor hits Orc 2 for 13 damage
+        - Orc 2 is barely standing
+    - Harix hits Orc 2 for 8 damage, killing it
+- Post combat, Dagon runs over to Techno and is healed via Cure Wounds for 11hp
+- Oberon is 44, has been doing this for awhile, rolls solo across the plains
+- Start walking the perimiter
+    - Find a crushed guard tower, but the wall is still intact so that shouldn't be the source of the orcs
+- Combat begins
+    - Orc 7 charges in an misses Thor
+    - Orc 8 charges in and also misses Thor
+    - Thor misses Orc 7 (nat 1)
+        - Uses bonus action to cast Shield of Faith 
+    - Carlor move his Hunter's Mark, drops his quarterstaff, equips longbow, and misses the shot
+    - Dagon hits some Orc 7 nipples for 6 damage
+        - Bonus attack hits for 6 damage
+        - Orc 7 is hurting
+    - Harix his Orc 8 for 7 damage
+    - Orc 8 swings at Harix and misses
+    - Oberon blasts Orc 7 for 2 damage
+        - Orc 7 is just barely hanging on
+    - Orc 7 misses Thor
+    - Thor kills Orc 7 with 6 damage
+    - Carlor hits Orc 8 for 5 & 2, and a bonus for 4
+    - Rogue javelin hits Carlor for 9 damage
+        - Concentration is maintained
+- Quick attack break
+- Dagon runs forward, sees 6 orcs
+    - Dagon poops a bit and retreats
+- Combat begins!
+    - Oberon readies Eldritch blast upon seeing an orc
+    - Orc 10 charges in
+        - Oberon's Eldritch blast flies forth, hitting for 8 damage
+        - Orc 10 misses his attack on Thor
+    - Orc 13 misses Harix
+    - Carlor moves Hunter's Mark to Orc 10, and hits with an arrow for 5 damage
+    - Orc 12 misses Harix (due to protection)
+    - Thor swings at Orc 10, slaying it with 8 damage
+    - Dagon jumps in and slices Orc 13s nipples for 7 damage
+        - Bonus gut punch for 6 damage
+        - Ki points to use Flurry of Blows, kiling with 3 damage
+    - Harix misses?
+    - Orc 9 swings and misses Harix
+    - Orc 11 appears, swing & a miss on Thor
+    - Oberon casts Faerie Fire on the 3 orcs
+        - Orc 12 & Orc 9 are affected
+    - Spectral Spear appears, but misses Harix
+    - Carlor moves Hunter's Mark onto Orc 9, and hits with an arrow for 9 damage
+    - Orc 12 hits Dagon for 8 damage
+    - Thor attacks Orc 9 and ends it with 9 damage
+    - Dagon swings at Orc 11's lower ballsack and hits for 5 damage
+        - Yells "your dick's hanging out" and swings at it for the bonus attack, hitting for 4 more damage
+    - Harix kills Orc 12 with 6 damage
+    - Orc 11 misses Dagon
+    - Orc 13 misses Harix
+    - Oberon misses Orc 11
+    - Spectral Spear misses Harix
+    - Carlor moves Hunter's Mark to Orc 11, but the arrow misses
+    - Thor misses Orc 11
+    - Dagon hits a lower ballsack on Orc 11 for 3 damage
+        - "dick's hanging out, uppercut to the dick" misses
+    - Harix misses Orc 11
+    - Orc 11 attacks Dagon for 13 damage, incapacitating him
+    - Oberon blasts Orc 11 for 7 damage
+        - Oberon uses healing ward on Dagon, healing him for 6hp
+    - Spectral Spear misses Thor
+    - Carlor misses Orc 11 with an arrow
+    - Thor hits Orc 11 for 13 damage, killing it into the ground
+    - We see 6 more regular orcs, and 2 odd looking ones
+    - Dagon hits Orc 14 for 5 damage
+    - Harix smashes Orc 14 for 8 damage
+    - Orc 14 swings at Harix, but misses
+    - Oberon blasts Orc 14 apart with 6 damage
+    - Orc 15 misses Harix
+    - Weird Orc 1 swings 2 times at Thor and misses (protection!)
+    - Spectral Spear misses Oberon
+    - Orc 20 swings & misses Harix
+    - Carlor moves Hunter's Mark to Weird Orc 1, hits an arrow for 8 damage
+    - Orc 19 hits Thor for 9 damage
+        - Thor maintains his concentration
+    - Orc 16 hits Thor for 15 damage, knocking Thor out
+    - Orc 18 misses Harix
+    - Thor misses saving throw 1
+    - Dagon spews his breath weapon
+        - Orc 16 takes 8
+        - Orc 19 takes 4 damage
+        - Weird Orc 1 takes 8 damage
+        - Bonus attack on Orc 16 for 4 damage
+    - Orc 17 hits Dagon for 13 damage, rendering him unconscious
+    - Harix swings at Weird Orc 1, hits for 5 damage
+        - Uses bonus action to hit again for 11 damage
+    - * a sudden flurry of arrows come in, killing Orc 15, 16, 17 & 20*
+    - ** end of round **
