@@ -209,12 +209,12 @@ Attendees: Carlor, Dagon, Harix, Oberon, Techno, Thor
             - This is our keep, we defend it!
         - We inform them of the snakes & that the goblins are defeated
         - We sheath our weapons to stop them them from being threatened
-        - The group notices Lady Nandoorn is lying dead on a table
+        - The group notices Lady Nandar is lying dead on a table
         - In response the the goblin ear debt
             - Our kingdom has fallen! We don't care about the debt that we owe you
         - The villagers have fled to goblin king cave, to the north in the Ardeep forest (a mile North)
         - The boulders came from the sky, yesterday one of the cloud towers flew over and dropped boulders, and the cloud giants stole the obsidian stone
-        - The Nandoor's do not have any heir's
+        - The Nandars do not have any heirs
         - Guards seem legit, probably good people to help
         - Are there any secret passages out of the keep?
             - No, only way you came in
