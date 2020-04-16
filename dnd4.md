@@ -166,7 +166,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor
     - Orc 11 appears, swing & a miss on Thor
     - Oberon casts Faerie Fire on the 3 orcs
         - Orc 12 & Orc 9 are affected
-    - Spectral Spear appears, but misses Harix
+    - Spiritual Weapon appears, but misses Harix
     - Carlor moves Hunter's Mark onto Orc 9, and hits with an arrow for 9 damage
     - Orc 12 hits Dagon for 8 damage
     - Thor attacks Orc 9 and ends it with 9 damage
@@ -176,7 +176,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor
     - Orc 11 misses Dagon
     - Orc 13 misses Harix
     - Oberon misses Orc 11
-    - Spectral Spear misses Harix
+    - Spiritual Weapon misses Harix
     - Carlor moves Hunter's Mark to Orc 11, but the arrow misses
     - Thor misses Orc 11
     - Dagon hits a lower ballsack on Orc 11 for 3 damage
@@ -185,7 +185,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor
     - Orc 11 attacks Dagon for 13 damage, incapacitating him
     - Oberon blasts Orc 11 for 7 damage
         - Oberon uses healing ward on Dagon, healing him for 6hp
-    - Spectral Spear misses Thor
+    - Spiritual Weapon misses Thor
     - Carlor misses Orc 11 with an arrow
     - Thor hits Orc 11 for 13 damage, killing it into the ground
     - We see 6 more regular orcs, and 2 odd looking ones
@@ -194,10 +194,10 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor
     - Orc 14 swings at Harix, but misses
     - Oberon blasts Orc 14 apart with 6 damage
     - Orc 15 misses Harix
-    - Weird Orc 1 swings 2 times at Thor and misses (protection!)
-    - Spectral Spear misses Oberon
+    - Weird Orc swings 2 times at Thor and misses (protection!)
+    - Spiritual Weapon misses Oberon
     - Orc 20 swings & misses Harix
-    - Carlor moves Hunter's Mark to Weird Orc 1, hits an arrow for 8 damage
+    - Carlor moves Hunter's Mark to Weird Orc, hits an arrow for 8 damage
     - Orc 19 hits Thor for 9 damage
         - Thor maintains his concentration
     - Orc 16 hits Thor for 15 damage, knocking Thor out
@@ -206,10 +206,10 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor
     - Dagon spews his breath weapon
         - Orc 16 takes 8
         - Orc 19 takes 4 damage
-        - Weird Orc 1 takes 8 damage
+        - Weird Orc takes 8 damage
         - Bonus attack on Orc 16 for 4 damage
     - Orc 17 hits Dagon for 13 damage, rendering him unconscious
-    - Harix swings at Weird Orc 1, hits for 5 damage
+    - Harix swings at Weird Orc, hits for 5 damage
         - Uses bonus action to hit again for 11 damage
-    - * a sudden flurry of arrows come in, killing Orc 15, 16, 17 & 20*
+    - * a sudden flurry of arrows come in, killing Orc 15, 16, 17, 19 & 20*
     - ** end of round **
