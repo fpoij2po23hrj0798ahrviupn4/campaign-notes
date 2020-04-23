@@ -1,0 +1,160 @@
+# DND day 7
+Attendees: Carlor, Dagon, Harix, Oberon, Techno, Thor
+
+- (continued after Snigbat leads us to big hole, and bats appear)
+- Quick convo with Snigbat
+    - Do you know how to get to the villagers?
+        - Wait until the bats go away, or fight them
+    - How long does it take for the bats to go away?
+        - Sometimes they take a long time to go away
+    - Is there another way to go across the ledge to where the villagers are?
+        - No, there's no other way
+- We send Snigbat into the tunnel where the monster is
+    - Dagon is throwing balls of fire as we go to illuminate the path
+    - Tunnel has a big stalagmite full of small holes in it
+    - Where's the treasure?
+        - It's in the rock
+    - Get it then
+        - I don't know how he got the treasure in it
+    - Dagon intimidates Snigbat
+        - OK, OK, treasure is down here
+    - Dagon throws fire in to the darkness
+        -  Sees more tunnel
+    - Carlor inspects the rock, sees that the holes are 4 inches in diameter
+    - Carlor puts in one of his quarterstaffs, hears sizzling and when it is pulled back out it is all corroded, gets a -1 to damage
+    - When we continue down the tunnel, we see a pool of water, alone with a little patch of mushrooms
+        - Get a strong whiff of the foul smell again
+        - Snigbat runs up and starts drinking from it
+    - Thor walks up behind Snigbat and uses his rope to hogtie her
+    - Oberon inspects the water, doesn't see to much, reaches in and it just feels like a regular bottom
+    - Dagon inspects the mushrooms
+        - They are green, doesn't know much about them
+        - Feeds Snigbat a mushroom
+            - She makes weird faces, swallows it and then says, "Ugh why did you do that"
+            - Dagon isn't able to determine if she was impacted by the mushroom
+        - You're going to eat more mushrooms if you don't tell us where the treasure is!
+            - The treasure is the mushrooms, the treasure is the mushrooms!
+    - As we are interrogating the mushrooms, Techno is attacked from behind
+        - Takes 6 bludgeoning damage and 10 acid damage
+        - Armor loses 1 AC due to corrosion damage
+    - We turn around to see that the whole wall around Techno is covered in black acid
+    - Combat begins!
+        - Techno disengages and moves all the way back to the water
+        - Thor uses Hunter's Mark on the Blob, then readies to switch with Thor
+        - Dagon uses 2 ki points to use Fist of Unbroken Air against the blob
+            - Hits for 8 damage
+            - He then switches spots with Thor
+        - Oberon readies his Eldrix Blast for when he sees the blob, then casts Bardic Inspiration on Harix
+        - Harix readies an attack on the beast
+        - Carlor throws Harix his waterskin
+        - Blob backs into the darkness
+        - Techno uses Healing Mark on himself to healt 5 HP
+        - Thor readies his javelin again
+        - Dagon runs to the corner, and yells can't see anything!
+            - Walks in a bit, and then backs up again
+            - Blob appears from the ceiling and then takes an opportunity strike
+                - 7 bludgeoning damage
+                - 15 acid damage
+                - Dagon is killed :'(
+        - Harix runs up and attacks, doing 6 bludgeoning damage
+            - Uses action surge to attack again for another 5 damage
+            - Warhammer gets seriously coroded, now has a -2 to damage
+        - Carlor casts Hunter's Mark on the blob, and hits for 10 damage
+        - Blob misses Harix
+            - Harix uses Riposte to strike in response to the miss, hitting for 6 damage (uses 1 superiority dice)
+        - Thor runs up and uses Channel Devinity: Vow of Enmity, then throws a javelin
+            - Hits for 14 damage
+        - Techno does nothing
+        - Oberon asks Snigbat if the ooze has a weakness
+            - No, it's killed many goblins, we don't come down here anymore. The treasure is in it though.  
+        - Harix hits the Blob for 1 damage, hammer takes another -1
+        - Carlor bounces his corroded quarterstaff off Thor, it lands at Harix's feet
+            - Also moves out of the way
+        - Blob misses Harix 
+        - Thor runs underneath Blob and strikes it with his javelin
+            - Hits for 16 damage
+            - Javelin gets -1 damage
+        - Techno comes forth and strikes Blob with Flame Blade
+            - Hits for 12 damage
+        - Oberon blasts the blob for 9 damage
+        - Harix hits the Blob (nat 20!)
+            - 4 damage
+            - Warhammer takes another -1 damage, destroying it
+        - Carlor shoots and arrow at Blob for 8 damage
+        - Blob drops from the ceiling onto Thor
+            - 16 damage
+            - Thor's armour takes -1 AC
+            - Blob attacks Techno for 8+12 damage
+                - Techno is knocked out
+        - Thor tries to escape from inside Blob but can't
+            - Attacks hits Blob (from inside it?) for 17 damage (uses Devine Smite)
+            - Blob is dead
+    - Post combat
+        - Oberon heals Techno for 4 damage
+        - Divy out Dagon's equipment across the party
+        - Thor murders Snigbat
+        - Oberon investigates the stalagmite, nothing comes out
+            - Sticks his dagger in, doesn't come out coroded
+        - Techno also pushes his staff in, it also comes out just fine
+        - Oberon shoves his whole arm in, can't find anything inside
+        - Harix drops a mushroom down the whole
+        - Oberon casts Detect Magic as a ritual, finds nothing
+        - Carlor searches the entire tunnel, also finds nothing
+        - Oberon searches Snigbat and finds anothing
+        - Thor goes back to the boulder nearby, and pushes on it, finding a little area behind it with a chest
+            - Uses the crowbar to open the chest
+            - Finds:
+                - 12gp
+                - 55sp
+                - 85cp
+                - Matching pair of silver S&P Shaker
+                - Thieves tool
+                - Holy symbol of Sylvanis, carved in wood
+                - Healing potion
+- Leave tunnel, bats are still flying around
+- Carlor gives Techno 4 HP and Thor 6 HP (via Goodberries)
+- Harix throws a mushroom down the pit, it does nothing
+- Combat begins!
+    - Harix does a superstar backflip into the hole (nat 20)
+        - Takes 1 damage as he passes through the bats
+        - Tries to walk a bit, takes another 3 damage
+    - Techno casts Thunderwave on the bats
+        - Bats take 3 damage (luckily DM forgot to also give Harrix damage)
+        - Half of the bats in the room die (still about 1000 left)
+    - Oberon moves up to see the bats
+        - Casts Sleep and 19 bats fall asleep, falling to the floor dead
+    - Carlor shoots an arrow, kills one bat
+    - Bats continue flying around
+    - Thor holds a dodge
+    - Harix climbs up the ledge
+        - Uses bonus action to light a torch
+        - Spots a bunch of villagers, cowering from the bats
+        - Are there more villagers?
+            - Many more, many more, on the ledges
+        - Nobody appears to have any weapons
+        - Visually they don't appear to be able to pass through the bat swarm and survive
+        - Swings at the bats and kills 5
+    - Techno casts Thunderwave 
+        - Kills another half of the bats
+    - Oberon blasts Eldrix Blast and kills about 10 damage (maybe 30 left)
+    - Carlor passes
+    - Bats all the sudden just fly the fuck away
+    - Carlor and Oberon try to sneak in and help the villagers out, but makes noise while bringing them down
+        - Each villager, Carlor and Oberon take 1 damage each
+        - On the second attempt, we're able to get a bunch out, but Carlor is stuck in the pit with 1 villager
+        - With help, Carlor and the villager escape
+- Group makes it out of the cave, there's a nice breeze, the smell dissipates but it is still lingering
+- Harix goes back in to try and get Dagon to drag him out, his corpse cannot be found
+    - Harix can see tracks of where Dagon was left, but maybe a second outline next to the body
+    - No drag marks of any kind
+    - The foul smell is no longer present
+- Group gives up on Dagon
+- Make our way on the journey back to Nightstone
+- The foul smells comes back very strong
+- As we continue on, the smell eventually dissipates
+- Thor investigates the smell, do not know the source, but it smells like rotting smell
+- Ask the villagers about the smell, they say it didn't smell like this until the group came around
+- Oberon tries to Detect Magic, but doesn't detect any
+- Carlor climbs up a tree to try to wait if anything was stalking the group
+    - He checked his bag, found out that the livers are covered in magots, it startles him and he falls out of the tree, taking 1 damage
+- End of session, long rest & level up!
