@@ -1,0 +1,217 @@
+# DND day 1
+Attendees: Carlor, Dagon, Harix, Oberon, Techno, Thor
+
+- (continued from our return to Nightstone)
+    - At the inn, heading downstairs to get breakfast
+    - Can hear Syndiri the guard talking to a short Dwarf-like character
+        - Character appears to be somewhat in charge here
+        - Syndiri is telling the character he'd like him to organize the villagers and assess the damage, the guards will fix up the fall and clean up the keep
+        - Going to send one of guards North on horseback to see if he can get assistance (~5 days)
+    - We approach Syndiri
+        - He introduces us to Morack, he's the keeper of the inn
+        - Quite a prominent member of the village, well respected
+        - Morack is originally from Nightstone, was a stable helper, his grandfather owned the stables
+        - He was also in the cave
+        - Rooms & drink are on the house for the rest of the week
+        - Needs more meat to feed the town, Carlor will take care of it
+            - Carlor needs a horse and a wagon
+            - Bring all meat to the kitchen at the inn
+            - Comes back with (sufficient for feeding the village)
+                - 1 boar
+                - 1 bear
+                - 1 deer
+                - 3 rabbit
+                - 1 fox
+                - 2 racoon
+                - 2 squirrel
+        - Farms need tending, Thor & Oberon will tackle it
+            - Get enough for supper
+        - Thor will help rebuild the inn
+        - Help the villagers rebuild homes/buildings, Harix will help out
+        - Boulders will be removed by Harix
+        - Harix to eventually help with rebuilding the homes
+            - Moves the boulders near the windmill
+        - Techno will collect the pigs
+            - Morphs into the pig, and convinces the pigs to go to the correct spot
+        - Oberon will host a vigil for the fallen villagers
+        - Morack also wants Techno to ease the relationship with the wood elves
+    - End of the night, at the inn
+        - Before supper, mainly speak to a Tierling named Destiny
+            - She mentions that the goblins had ransacked the house and bashed their chest and stolen their holy symbol (as well as a healing kit & potion)
+        - Morack is busy entertaining the guests
+        - Thor asks Morack to send Dagon's letter to Daggerford (will take around 10 days)
+        - Oberon asks Morack how many villagers were lost in the attack
+            - 3 by goblins, many more by the boulders
+            - Father of the Summerhawk family
+            - Nesper parents were lost (one to the boulders, and one to the goblins)
+    - Day 2
+        - Carlor goes hunting again
+            - 2 deer
+            - 2 ducks
+            - 4 rabbit
+        - Oberon goes to the Summerhawk family's place to get flowers for the vigil
+            - (house to the East)
+            - They are apothecaries
+            - Family of halflings
+            - Husband was killed by on of the boulders
+            - Fortunately the goblins didn't find their stash
+            - They supply Oberon with flowers for the vigil
+        - Oberon also goes to the Nesper residence
+            - Little boy is upset, the "goblins" took his teddy bear and a few other things
+        - Thor goes to the pumpkin squash farm
+            - Farm is in hard shape, sees the scarecrow he destroyed
+        - Harix was able to rebuild some of the inn
+        - Techno helped out somewhere
+    - Day 3
+        - Morack says the vigil will be help 2 days from now (on day 5)
+        - Thor & Techno go to the wheat field today
+        - Carlor goes hunting again, find more meats
+        - Oberon asks Carlor for the Nesper child's belongings
+        - Oberon & Morack visit the Zelbrin's home remains
+            - One was a notary
+            - House is quite destroyed by a boulder
+            - As they walk in, a Tressym (singed cat) runs at them - name is Rilex
+            - Oberon pets and feeds the Tressym, Morack offers to take care of it now that the owners are no longer
+            - They find money in the house, Oberon lets Morack take it to help out the town
+                - 32gp & 17sp
+        - Oberon & Morack then visit Thelbin (~50) and his husband Brin, as well as their nephew Brolin (who lost his parents to the goblins, parents owned the windmill)
+            - They own the windmill and grind the wheat for the villagers
+    - Day 4
+        - Morack is planning a party tonight to celebrate the group who saved the village
+        - He asks the group what their name is, they say "The Smiling Dolphins"
+        - Bar wench says she misses the dark stone in the town center (namesake of the town)
+        - Nobody knows what the stone was, or what its purpose was
+        - Fix the stable, remove some boulders, more hunting/farming
+        - Party!
+            - Oberon is bag piping it up!
+            - Special shots which are a mixture of potato vodka and pumpkin seed juice
+            - Morack gives a toast to his friend Dagar Oldor who ran the trading post (was eaten by giant rats)
+                - Wants the group to notify the ex-wife Alystra of her ex-husband's passing (she's runs the trading post in Tribor, to the North)
+            - Bar wench says Waterdeep is probably the closest place to get maps, Waterdeed is North of Nightstone, Tribor is about 300 miles further North East)
+            - Thor asks Morack if he would like to buy any supplies
+                - He says the guards may want to buy weapons, but otherwise the town only needs food & wood
+            - Bar wench says the guards were stripped of their weapons in the caves, weapons are still there
+            - Rilex the Tressym is very attached to Oberon
+    - Day 5
+        - Thor and Carlor sell weapons to Morack
+        - Vigil time!
+        - Post vigil, Morack tells the group he is very grateful, gives each of the party 10gp each 
+        - Waterdeep reinforcements arrive, they give us each 10 rations as a thank you
+- Group pays Morack to stay one more night (1gp each)
+- Journey North to Waterdeep
+    - Day 1
+        - As we're leaving, Morack offers Oberon Rilex (Oberon renames it to Scrillex)
+        - Oberon takes the Tressym and plans to leave it at his temple
+        - Scrillex does not want to eat the mushrooms found in the cave, may suggest they are poisonous
+        - Make it to the main road at around 2pm
+        - Walk another 2 miles, starting to cloud over, gets a bit chilly
+        - All of the sudden it goes dark a bit
+            - See an enourmous tower in the sky, with a spire that looks like a wizard hat
+            - Stairs suddenly form from the cloud tower
+            - Group starts to climb, eventually reach the top
+            - Look up, see a couple hundred feet tall tower, top looks like a wizard's hat
+            - We're all standing on the edge of the cloud (firm, don't fall through)
+            - Walk into the tower
+                - All of the sudden a Cloud Giant floats down (room is ~100ft tall), welcomes the group
+                    - Why did you extend you stairs?
+                        - Did I extend the stairs?
+                    - Who's controlling the cloud?
+                        - Why I do of course?
+                    - Is there anybody else here?
+                        - Most of the time it's just me, but occasionally my big kitties come to play
+                    - How many do you have?
+                        - 4
+                    - Are they here now?
+                        - Gosh, I'm not sure, I think a couple are here. A couple went out with another friend who lives here
+                    - Who else lives here?
+                        - Gosh, what was his name? Hmm.. hmm... I don't recall
+                    - Why did you stop here today?
+                        - To find you
+                    - Why were you looking for us?
+                        - They told me to find you
+                    - Who?
+                        - The gods from the other planes of course
+                    - What?
+                        - I speak to the gods, they tell me what is going on
+                    - We are Thor, Carlor...
+                        - Thor and Carlor, you are the ones they spoke of. Yes! You can help with the ordening.
+                    - Oberon & Techno recognize that he either seems to be mad or under some sort of spell
+                    - Oberon casts Detect Magic, doesn't detect any active spells but detects remnants of Contact planes
+                    - Cloud Giant goes to his chair and falls asleep
+                - See a bird-like creature called an Aarakocra come flying down
+                    - Not many around in this world, usually reside in a different plane
+                    - Zephyros, Zephyros, I'm back from hunting, where are you at?
+                    - Oh, not again, not again, you've gone and done it
+                    - Aarakocra turns around and see us, turns red, screams "THOR", charges at Thor and tries to scratch him
+                    - Thor blocks the attack, bonus attack also misses
+                    - You call yourself a Paladin, you're a disgrace to the Paladin people, you favor greed over doing good??
+                    - Aarakocra swats at Thor again, hits for 6 damage
+                    - Aarakocra then flies up, 20 feet in the air (uses step of the wind to disengage)
+                    - Oberon attempts to dissuade the creature but it is unphased 
+                        - Aarakocra yells "Oberon this has nothing to do with you"
+                    - Aarakocra tries to attack Thor again but misses
+                        - Yells "Give me my stuff back"
+                    - Harix tries to wake Cloud Giant but fails
+                    - Carlor is feeling like the creature seems familiar, but doesn't recognize it
+                    - Aarakocra yells at Thor "Zephyros told me he saw you steal my shit!"
+                        - Then attacks Thor again, hitting for 6 damage
+                    - Thor gives Aarakocra Dagon's stuff, then Aarakocra goes over to Harix and stares at the sword
+                    - Carlor throws Dagon's Pitons & Hammer into the 
+                    - Zephyros' friend Zollin did some kind of spell, and I came back in this form
+                        - It might have something to do with the air elemental magic I had recently learned
+                    - Carlor realizes that Aarakocra is wearing Dagon's clothes, and one of his arms are plucked
+                    - Dagon has spent the last few days training and hunting
+                    - Is still named Dagon, has all of his old memories
+                    - Zephyros seems to try to do good, saw something special in Dagon, the gods appears to have a plan for the group
+                    - Dagon kind of wants to join the group, but has doubts about Thor
+                    - Dagon leaves his Amber Gemstone and a note on Zephyros' desk
+                    - Oberon tells Dagon that we mailed his letter
+                    - Dagon thinks that Zephyros will be back to normal in the morning
+                - After a long rest (Dagon sleeps with the Gryffons, the rest sleep on the cloud)
+                    - Zephyros is singing
+                    - Dagon flies down from the main roost with some fresh fish and starts cooking for the gang, gives Thor the smallest fish
+                    - As we're eating Zephyros floats down
+                    - We explane what happened yesterday, he apologizes
+                    - What do the planes have in store for the flying dolphins?
+                        - Not exactly sure, but I interpretted that you would help restore the ordening
+                    - What is the Ordening
+                        - Basically the hierarchy of the giants
+                            - Hill giants at the bottom
+                            - Stone giants
+                            - Frost giants
+                            - Fire giants
+                            - Cloud giants
+                            - Storm giants, King Heckaton from the Storm giants leads the council
+                    - What caused the break in the ordening?
+                        - Anym the Allfather believes the giants were out of touch and shattered it
+                        - King Heckaton agreed, and shattered the ordening himself
+                    - Who stole the storm from Nightstone?
+                        - It was the cloud giants, Zephyros does not condone their behaviour, not sure why
+                    - What is required to restore the ordening?
+                        - Not sure, the other planes told me not to interphere
+                    - What has actually been lost
+                        - All giants meet at King Heckaton's court, a representative from each of the giants meet to decide how all giants should behave
+                        - Over time, the giants have begun to believe they are above all, and Lord Heckaton shattered the ordering, which is leading to the various giants trying to fight for power
+                    - Why should we be concerned?
+                        - As you've seen Nightstone, you must understand what can go wrong from this
+                    - Should we take down King Heckaton?
+                        - Actually, he appears to have gone missing
+                        - There are rumours that one of his daughters has taken power, and also that his wife may have been killed
+                    - Do you have any provisions to help us in our quest?
+                        - You are welcome to stay in the cloud tower, I have not much else to provide to you
+                    - Hitch a ride to Waterdeep on the cloud
+                    - Zephyros does not know where souls actually go when Oberon sends them on their way, it might be another plane
+                    - How do we find giants?
+                        - Cloud giants are led by Countess Sansouri? Her floating tower can be found just about anywhere in the North
+                        - Storm giants typically reside in the Mailstrom, deep within the Trackless Sea (this is also where the court it)
+                - 3rd morning after being on the cloud tower
+                    - Dagon notices about nine spots in the distance, approaching the cloud
+                    - When the spots get closer, 9 humans dismount from giant vultures
+                    - One of the characters had a smiling face emblem on their bag
+                    - Appear to be armed, but weapons are still sheathed
+                    - Who goes there?
+                        - We're here to see Zephyros
+                    - Dagon flies to Zephyros and tells him of the visitors
+                    - Zephyros wants the group to check it out, he is sleepy
+                    - Group goes to check it out
+                    - Session ends!
