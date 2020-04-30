@@ -1,0 +1,155 @@
+# DND day 9
+Attendees: Carlor, Dagon, Harix, Oberon, Techno, Thor
+
+- (continued from 3rd day on the Cloud Tower - when strangers arrived)
+	- Carlor can hear the strangers, seem to be outside of the main entrance
+	- Group goes outside to check out the strangers, Dagon does the same but from up above
+	- See 9 humanoids and 9 flying creatures
+	- They wish to see Zephyros
+	- Dagon goes to Zephyros and fills him in on the situation
+    - Zephyros is all fucked up again due to another mishap while talking to the plains
+    - Dagon yells to Oberon to ask the strangers their names
+        - Group is called the Howling Hatred
+        - They work for Yan See Bin?
+    - Carlor notices that the Vultures are actually Giant Vultures
+    - Strangers barge in and start yelling for Zephyros
+    - Most of the strangers seem moderately well equipped, 2 seem to only have daggers clipped to their belts (Stranger 13 and 16, 13 has the smiley bag)
+    - Oberon offers one of the lackeys 1gp if he tells us why they are here (Stranger 18)
+        - They are here to get Zephyros to help them to restore the world to it's primordial state
+        - Oberon convinces Zephyros that we'll be able to get Zephyros to help us
+        - Stranger 16 and Dagon fly up above to Zephyros' chambers
+        - Stranger 16 says:
+            - Yan See Bin is the Prince of Air
+            - Tries to convince Zephyros to help
+            - Offers Zephyros Pixie Dust
+                - Dagon knows that Wizards use it and that it is somewhat rare, but not much else
+        - Zephyros tells Stranger 16 to leave his chambers so that he can consider
+        - Dagon convinces Zephyros to help the strangers
+    - Dagon goes back down and informs the strangers that he put in a good word for them
+    - Dagon heads back up and Zephyros says that he's contacted the other plane and has decided not to help the strangers
+    - Dagon goes back down and gives the group the signal to get ready
+    - Zephyros comes down to inform the strangers that he doesn't plan on helping them
+    - Strangers decide to leave, they fly Northeast
+    - Zephyros tells us the smiley bag was a Bag of Holding
+- Day 4 on the Cloud Tower
+    - Zephyros shows us a map of the area
+    - Oberon spends the rest of the voyage copying the map
+- Day 5 on the Cloud Tower
+    - Oberon is still working on the map, no luck yet
+    - Dagon, Harix, Techno, Thor and Oberon play a winner takes all dice game, 5gp each
+        - Dagon takes 25gp (includes his original 5gp)
+    - Dagon & Thor have a friendly duel
+        - Harix & Carlor wager 5gp on the outcome
+    - Combat begins
+        - Thor uses Channel Divinity: Vow of Enmity on Dagon
+            - Hits for 10 damage
+            - Uses Devine Smite to deal an extra 10 damage
+        - Dagon uses Fists of Unbroken Air on Thor to deal 9 damage
+            - Pushes Thor 20ft away and knocks him prone
+            - Goes back in for another strike on Thor for 7 damage
+            - Thor takes an opportunity strike but misses
+        - Thor uses Hunter's Mark on Carlor, then Breath of Fire
+            - Hits for 4 damage
+        - Dagon flies down and attacks with his Shortsword
+            - Misses
+            - Hits with his bonus Talons attack for 8 damage
+        - Thor readies his attack
+        - Dagon throws a dart at Thor and misses
+        - Thor heals for 20hp
+        - Dagon throws a dart at Thor and misses
+        - Thor readies his Javelin
+        - Dagon flies in, triggering the javelin throw
+            - Thor hits for 13 damage (reduced to 0 via Deflect Missile)
+            - Dagon hits Thor with his Shortsword for 6 damage
+            - Bonus Talon attack for 5 damage
+        - Thor readies another Javelin
+        - Dagon throws a Dart at a disadvantage and misses
+        - Thor readies another Javelin
+        - Dagon flies in, triggering the javelin throw
+            - Hits Dagon for 10 damage (reduced to 1)
+            - Dagon strikes with his Shortsword but misses
+            - Bonus Talon attack, misses
+        - Zephyros has grown bored of the battle, attacks both
+            - Hits Dagon for 19 damage
+            - Hits Thor for 21 damage
+        - Wager is rendered null, no winner
+    - Zephyros tells us we've passed by Waterdeep (about 4 days passed, still 5 days from Tybor)
+    - We ask him to turn around and head to Waterdeep
+- Day 6 on the Cloud Tower
+    - Oberon manages to get about 1/3 of the way through the map
+    - Dagon flies up and asks Zephyros to let us off at the neareast road
+    - Zephyros is all fucked up again and doesn't know what we mean about stairs
+        - He's not sure why we're so antsy to leave, suggests that we read a book
+    - Thor asks which book we should read
+        - Zephyros gives Thor a book about the people of the North
+        - Thor learns about the factions of the North
+            - Reads about the Black Network
+                - They are mostly mercenaries that can be bought off
+                - If we align with them we could earn a lot of profit
+                - Their network expands quite far
+                - There are multiple leaders throughout the lands
+            - Another group Harpers
+                - Spellcasters and spies
+                - Covertly oppose the abuse of magic (or any other abuse)
+                - Work in small groups
+                - Very helpful in defeating Tymat, the dragon of tyranny
+            - Lord's Alliance
+                - Goal is to eliminate threats to their mutual safety/prosperity
+                - Members include
+                    - Lord Dagult of Neverwinter
+                    - Lady Silverhand of Waterdeep
+    - Dagon flies out to try and determine our location
+        - We appear to be flying over the ocean :(
+- Day 7 on the Cloud Tower
+    - Oberon is able to get the map about 2/3 finished
+        - Have Nightstone & Waterdeep
+        - Desert to the East
+        - Ocean to the West
+        - Mountains to the North
+            - Wintery land
+        - Not sure where Isle of Newf or Tibor are yet
+    - Dagon takes a small book
+    - Harix reads a book written in Giant
+        - 6 clans of giants (as Zephyros told us)
+        - Hill Giants are led by Chief Guh
+            - Definite location is not known, but somewhere in the Deseran Valley
+        - Chief of Stone Giants
+            - Live hidden somewhere within the Grey Peak Mountains
+        - Jarl Storwald is the chief of the Frost Giants
+            - Live in the Sea of Moving Ice in the North
+        - Duke Zolto is the leader of the Fire Giants
+            - Not sure where they are located
+            - Read something about them having previously used a Titan of Death
+                - May have been used to slay dragons
+        - Countess Sanzouri leads the Cloud Giants
+            - Is the brother of Fullin (revived Dagon)
+    - King Heckaton leads the Storm Giants
+- Day 8 on the Cloud Tower
+    - Oberon finishes the map
+    - Zephyros is all messed up again
+- Day 9 on the Cloud Tower
+    - Zephyros tells Dagon we are about 1 day away from Tribor
+    - Dagon goes up to check on the Griffons
+    - In the distance, sees a Silver Dragon carrying Dwarves
+    - Dragon drops off 6 Dwarves (they look to be ready to fight) and then flies up towards Dagon
+    - Dagon talks to the dragon
+        - Dragon's name is Claren
+        - Owes a favor to the Queen Dagnabit of Mythril Hall
+        - Was tasked with carrying a strike force to disable the Cloud Tower
+        - Has orders to assist the Dwarves in the battle
+    - Dagon can detect that it is at least an adult male Dragon
+    - Dwarves walk into the tower, something is off about them, almost appear fuzzy
+    - Thor tries to pursuage the Dwarves to back down
+        - Dwarf spits in Thor's face and draws his weapon
+    - Combat Begins!
+        - Oberon casts Lvl 2 Shatter
+            - Dwarf A takes 10 damage
+            - Dwarf B takes 10 damage
+            - Dwarf C takes 20 damage
+            - Bonus action to use Inspiration on Thor
+        - Dwarf E floats up 10ft into the air
+        - Harix attacks Dwarf A, hits for 6 damage
+        - Dwarf B swings at Harix, hitting for 9 damage (reduced to 6 damage via Parry)
+        - Techno uses Flame Blade on Dwarf C but misses
+        - Dwarf A swings at Harix (nat 20), hits for 13 damage (reduced to 4 via Stone's Endurance)
+        - End of session
