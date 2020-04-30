@@ -100,7 +100,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Techno, Thor
 - Group pays Morack to stay one more night (1gp each)
 - Journey North to Waterdeep
     - Day 1
-        - As we're leaving, Morack offers Oberon Rilex (Oberon renames it to Scrillex)
+        - As we're leaving, Morack offers Oberon Rilex (Oberon renames it to Skrillix)
         - Oberon takes the Tressym and plans to leave it at his temple
         - Scrillex does not want to eat the mushrooms found in the cave, may suggest they are poisonous
         - Make it to the main road at around 2pm
@@ -157,7 +157,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Techno, Thor
                         - Then attacks Thor again, hitting for 6 damage
                     - Thor gives Aarakocra Dagon's stuff, then Aarakocra goes over to Harix and stares at the sword
                     - Carlor throws Dagon's Pitons & Hammer into the 
-                    - Zephyros' friend Zollin did some kind of spell, and I came back in this form
+                    - Zephyros' friend Fullin did some kind of spell, and I came back in this form
                         - It might have something to do with the air elemental magic I had recently learned
                     - Carlor realizes that Aarakocra is wearing Dagon's clothes, and one of his arms are plucked
                     - Dagon has spent the last few days training and hunting
