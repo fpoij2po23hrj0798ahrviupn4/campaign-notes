@@ -1,0 +1,181 @@
+# DND day 10
+Attendees: Carlor, Dagon, Harix, Oberon, Techno, Thor
+
+- (continued from Day 9 on Cloud Tower, combat with Dwarves)
+	- Thor hits for Dwarf C for 15 damage
+	- Carlor casts Hunter's Mark on Dwarf C
+		- Attack misses
+	- Dagon attacks Dwarf B but misses
+		- Bonus attack misses as well
+	- Dwarf C misses Techno
+ 	- Dwarf F floats higher into the air
+	- Oberon casts Lvl 2 Shatter
+		- Dwarf A takes 3 damage
+		- Dwarf B takes 7 damage
+		- Dwarf C takes 3 damage
+		- Dagon takes 7 damage
+		- Harix takes 3 damage
+		- Techno takes 3 damage
+		- Thor takes 3 damage
+			- Maintained concentration
+	- Dwarf E floats 10ft
+	- Harix misses Dwarf A
+	- Dwarf B swings at Harix but misses
+	- Techno casts Moonbeam 
+	- Dwarf A hits Harix for 12 damage (reduced to 9 via Parry)
+	- Thor hits Dwarf C for 11 damage
+	- Carlor misses Dwarf C
+		- Bonus attack hits for 14 damage (with Hunter's Mark & Colossus Slayer)
+        - Dwarf C is looking hurt
+	- Dwarf F floats another 10ft in the air
+	- Dagon hits Dwarf E
+		- Hits for 7 damage
+		- Hits with his bonus attack for 7 damage
+		- Uses 2 ki points to use Fist of Unbroken Air, hitting for 18 more damage
+		- As Dwarf E is falling towards the ground, it stays hovering just above the ground (but prone)
+	- Dwarf D takes 20 damage from Techno's Moonbeam
+		- Floats up 10ft
+	- Dwarf C floats 10ft
+		- Thor takes an opportunity attack and hits for 15 damage
+		- Carlor takes an opportunity attack and hits for 15 damage
+		- Techno misses his opportunity attack
+	- Dwarf E floats 10ft
+		- Dwarf E takes 20 damage
+	- Oberon casts Faerie Fire
+		- Dwarf B is marked
+		- Dwarf D is marked
+		- Bonus action to use Inspiration on Harix
+	- Harix hits Dwarf B for 7 damaga (uses inspiration)
+    - Dwarf B misses Harix
+    - Techno moves his Moonbeam on top of Dwarf B & Dwarf D
+        - Use Shillelagh (pimps out his melee attacks)
+    - Dwarf A swings at Harix
+        - Oberon uses Cutting Words to try and prevent the attack
+        - Attack hits for 11 damage (reduce to 5 damage via Parry)
+    - Thor charges Dwarf B and attacks
+        - Hits for 15 + 14 (via Devine Smite & nat 20)
+    - Carlor equips Longbow and fires an arrow at Dwarf C but misses
+    - Dwarf F moves up 10ft
+    - Dagon attacks Dwarf D but misses
+        - Bonus attack hits for 8 damage (nat 20)
+        - Uses Fists of Unbroken Air to hit for 9 damage (but not knocked away)
+    - Dwarf D takes 5 damage from Techno's Moonbeam
+        - Floats another 10ft
+    - Dwarf C floats 10ft
+    - Dwarf E floats 10ft
+    - Oberon blasts Dwarf B for 7 damage, killing it
+    - Harix attacks Dwarf A but misses
+        - Uses bonus action to heal for 13hp (Second Wind)
+    - Techno attacks Dwarf C with Ice Knife (nat 20)
+        - Ton of damage, Dwarf C is dead
+    - Dwarf A hits Thor for 4 damage 
+    - Thor uses Channel Divinity: Vow of Enmity to get advantage on Dwarf A
+        - Hits for 12 damage
+    - Carlor moves Hunter's Mark to Dwarf A
+        - Switches to Quarterstaff but misses Dwarf A
+    - Dwarf F disappears through the wall
+    - Dagon hits Dwarf D for 6 damage
+        - Uses bonus attack for another 8 damage
+    - Dwarf D takes 12 damage from Techno's Moonbeam
+        - Dagon lands his opportunity strike for 8 damage
+        - Dwarf D floats another 10ft (is looking hurt)
+    - Dwarf E floats 10ft
+    - Oberon blasts Dwarf D for 7 damage
+    - Harix misses Dwarf A
+    - Techno uses Ice Knife on Dwarf D
+        - Hits and kills!
+    - Dwarf A swings at Carlor
+        - Misses, but second attack hits for 6 damage
+        - Carlor maintains concentration
+    - Thor moves his Hunter's Mark to Dwarf A
+        - Swings at Dwarf A but misses
+        - Moves directly into the Moonbeam, taking 4 damage
+        - Loses concentration
+    - Carlor attacks Dwarf A and misses
+        - Hits bonus attack for 21 damage
+    - Dagon attacks Dwarf E but misses
+        - Bonus attack also misses
+    - Dwarf E floats 10ft 
+        - Dagon takes an opportunity attack but misses
+    - Oberon misses
+    - Harix attacks Dwarf A but misses
+    - *Hear "AGHHHHH" from up above*
+    - Techno casts Ice Knife on Dwarf A, dealing 8 damage
+    - Dwarf A tries to move away
+        - Thor kills it with his opportunity strike
+    - Thor takes 4 damage from Techno's Moonbeam
+        - Dashes outside of the tower
+        - See Dwarf F outside, 50ft in the air
+    - Carlor moves Hunter's Mark to Dwarf E
+        - Shoots an arrow at Dwarf E but misses
+    - Dwarf F floats 10ft
+    - Dagon flies up and stealthily peeks into the room upstairs
+        - Sees Zephyros laying in his bed, looks to be sleeping
+        - Can see the head of Clarion (Silver Dragon) poking out of the hole above
+        - Tells Clarion that what he came here to do is done, he can go home
+    - Dwarf E floats 10ft
+    - Oberon misses Dwarf E
+    - Harix does nothing
+    - Clarion flies down and sees the goings on, discovering that Dagon lied to it
+        - Uses Frightful Presence
+            - Dagon shits himself as he becomes Frightened
+    - Techno moves his Moonbeam
+    - Thor throws a Javelin (disadvantage) at Dwarf E but misses
+    - Carlor shoots an arrow at Dwarf E but misses
+    - Dwarf F floats 10ft
+    - Dagon flies down
+        - Tries to attack Dwarf E but misses
+        - Hides under the table (loses Frightened)
+        - Yells to the group that Clarion is upstairs and unhappy
+    - Dwarf E takes 6 damage from Moonbeam
+        - Floats 10ft
+    - Oberon blasts Dwarf E for 2 damage
+        - Oberon also hides under the table with Dagon
+    - Harix does nothing
+    - Clarion flies down into the lower chamber, is visibly angered
+        - Casts Paralizing Breath
+            - Harix is paralyzed
+            - Techno is paralyzed (loses Moonbeam)
+        - Tells the group to leave the dwarves alone
+    - Techno doesn't save and is still paralyzed
+    - Thor dashes back inside (intention is to tell the group abouve Dwarf F)
+        - Makes it to the curtain
+    - Carlor sheathes his bow and pleads with the Dragon to take mercy
+    - Dwarf F floats 10ft
+    - Dagon sneakily flies up to the upper level (next to the globe)
+    - Dwarf E floats 10ft
+    - Oberon asks the Dragon if he'll give us a ride to the ground if we leave the dwarves alone
+        - Clarion responds by telling us that if we leave the dwarves alone, we'll be OK
+    - Harix doesn't save and is still paralyzed
+    - Clarion uses Frightful Presence on the room
+        - Carlor & Oberon somehow manage to avoid being frightened (Oberon rolled a nat 20)
+        - Zephyros groans above
+    - Techno doesn't save and is still paralyzed
+    - Techno takes a knee and tells Clarion that we mean no harm
+        - Clarion responds again with "Leave the dwarves"
+    - Carlor sneaks out of the room
+    - Dwarf F floats 10ft
+    - Dagon goes up to Zephyros and grabs him by the balls with his Talon
+        - Does 6 damage to his testicles
+        - Zephyros jumps up and smacks Dagon with his staff, hitting for 2 damage
+            - Dagon tells Zephyros the Dwarves and Clarion are trying to take the tower
+            - Zephyros tells Dagon that he was paralyzed by Clarion's breath for this entire time
+    - Dwarf E floats 10ft 
+    - Oberon asks Clarion if he knows Zephyros
+        - Clarion says no
+    - Harix doesn't save and is still paralyzed
+    - Clarion uses Frightful Presence
+        - Oberon & Thor are frightened
+    - Zephyros asks Dagon why the the dwarves & Clarion are here
+        - Dagon explains
+        - Zephyros casts Otiluke's Resilient Sphere to create a forcefield around the room
+    - Techno fails to save and is still paralyzed
+    - Carlor shoots and arrow at Dwarf F and hits for 9 damage
+    - Dwarf F floats 10ft
+    - Dagon strikes Dwarf E for 6 damage
+        - Bonus attack misses
+    - Dwarf E floats 10ft
+    - Oberon does nothing
+    - Harix doesn't save and is still paralyzed
+    - Clarion flies up and paralyzes Zephyros (nat 1 on Zephyros' size)
+    - End of session
