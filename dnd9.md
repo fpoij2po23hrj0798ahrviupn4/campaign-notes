@@ -131,14 +131,14 @@ Attendees: Carlor, Dagon, Harix, Oberon, Techno, Thor
     - Zephyros tells Dagon we are about 1 day away from Tribor
     - Dagon goes up to check on the Griffons
     - In the distance, sees a Silver Dragon carrying Dwarves
-    - Dragon drops off 6 Dwarves (they look to be ready to fight) and then flies up towards Dagon
-    - Dagon talks to the dragon
-        - Dragon's name is Claren
+    - Silver Dragon drops off 6 Dwarves (they look to be ready to fight) and then flies up towards Dagon
+    - Dagon talks to Silver Dragon
+        - Silver Dragon's name is Clarion
         - Owes a favor to the Queen Dagnabit of Mythril Hall
         - Was tasked with carrying a strike force to disable the Cloud Tower
         - Has orders to assist the Dwarves in the battle
-    - Dagon can detect that it is at least an adult male Dragon
-    - Dwarves walk into the tower, something is off about them, almost appear fuzzy
+    - Dagon can detect that it is at least an adult male dragon
+    - Dwarves walk into the tower, something is off about them, almost appear fuzzy (but not Dwarf A & B)
     - Thor tries to pursuage the Dwarves to back down
         - Dwarf spits in Thor's face and draws his weapon
     - Combat Begins!
