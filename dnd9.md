@@ -128,7 +128,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Techno, Thor
     - Oberon finishes the map
     - Zephyros is all messed up again
 - Day 9 on the Cloud Tower
-    - Zephyros tells Dagon we are about 1 day away from Tribor
+    - Zephyros tells Dagon we are about 1 day away from Triboar
     - Dagon goes up to check on the Griffons
     - In the distance, sees a Silver Dragon carrying Dwarves
     - Silver Dragon drops off 6 Dwarves (they look to be ready to fight) and then flies up towards Dagon

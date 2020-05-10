@@ -86,8 +86,8 @@ Attendees: Carlor, Dagon, Harix, Oberon, Techno, Thor
             - Oberon is bag piping it up!
             - Special shots which are a mixture of potato vodka and pumpkin seed juice
             - Morack gives a toast to his friend Dagar Oldor who ran the trading post (was eaten by giant rats)
-                - Wants the group to notify the ex-wife Alystra of her ex-husband's passing (she's runs the trading post in Tribor, to the North)
-            - Bar wench says Waterdeep is probably the closest place to get maps, Waterdeed is North of Nightstone, Tribor is about 300 miles further North East)
+                - Wants the group to notify the ex-wife Alystra of her ex-husband's passing (she's runs the trading post in Triboar, to the North)
+            - Bar wench says Waterdeep is probably the closest place to get maps, Waterdeep is North of Nightstone, Triboar is about 300 miles further North East)
             - Thor asks Morack if he would like to buy any supplies
                 - He says the guards may want to buy weapons, but otherwise the town only needs food & wood
             - Bar wench says the guards were stripped of their weapons in the caves, weapons are still there

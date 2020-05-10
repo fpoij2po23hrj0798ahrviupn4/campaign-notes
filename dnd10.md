@@ -168,7 +168,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Techno, Thor
         - Oberon & Thor are frightened
     - Zephyros asks Dagon why the the dwarves & Clarion are here
         - Dagon explains
-        - Zephyros casts Otiluke's Resilient Sphere to create a forcefield around the room
+        - Zephyros casts Otiluke's Resilient Sphere to create a forcefield around the sphere
     - Techno fails to save and is still paralyzed
     - Carlor shoots and arrow at Dwarf F and hits for 9 damage
     - Dwarf F floats 10ft
