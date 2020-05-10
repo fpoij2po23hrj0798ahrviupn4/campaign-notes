@@ -1,0 +1,218 @@
+# DND day 10
+Attendees: Carlor, Dagon, Harix, Oberon, Thor
+
+- (continued from Day 10 on Cloud Tower, combat with Dwarves)
+    - Techno (played by Thor) doesn't save and is still paralyzed
+    - Thor does nothing
+    - Carlor shoots and arrow at Dwarf F but misses
+    - Dwarf F floats 10ft
+    - Dagon does nothing
+    - Dwarf E floats up, is now in the room above, suddenly isn't blurry anymore
+    - Oberon does nothing
+    - Harix doesn't save and is still paralyzed
+    - Clarion does nothing
+    - Zephyros is no longer paralyzed
+        - Casts Otiluke's Resilient Sphere to create a forcefield around the sphere
+        - Clarion uses a perception check (via Legendary action) and but still can't locate Dagon
+    - Techno doesn't save and is still paralyzed
+    - Thor does nothing
+    - Carlor shoots an arrow at Dwarf F but misses
+    - Dwarf F floats 10ft
+    - Dagon stays hidden under the sheets
+    - Dwarf E tries to strike the orb but only hits Zephyros' sphere
+    - Oberon casts Minor Illusion to create a ball of yarn for Skrillix
+    - Harix doesn't save and is still paralyzed
+    - Clarion casts Paralyzing Breath but fails to paralyze Zephyros
+    - Zephyros does nothing?
+    - ** Group votes to concede defeat, Dwarf E destroys the orb, Clarion takes the remaining dwarves and leaves **
+- Post battle
+    - Zephyros says nothing can be done with the tower until a new orb can be built
+    - Says we should be able to ride the Griffons down once they return
+    - Carlor searches the bodies
+        - Empty vials
+        - Vials appear broken on one of the bodies
+        - 1gp
+        - Thor takes armor (Splint Mail)
+        - Thor takes 2 Battle Axes
+        - Harix takes 2 Battle Axes
+        - Thor takes a Splint Armors to sell and split with the group
+        - Carlor takes a Splint Armors to sell and split with the group
+        - Short rest, then group rides the Griffons to the ground (Techno shapeshifts into a weasel and flies down with Dagon)
+- On the ground
+    - 3:30pm
+    - Head north for 4 hours, setup camp
+    - Take a long rest
+    - Head north until we reach what we think is Triboar (it's around noon)
+- At Triboar
+    - Trying to find the town merchant (Alystra)
+    - Walk to the center of the town
+    - Some kind of market is going on in the main square
+        - Oberon flags down somebody to ask where we are
+        - It is the market square
+        - We find out where Alystra is (The Lion's Share)
+        - There is an armourer to the North
+        - The is no place of worship in the town
+            - Everwyvern house may be the closest to it (down to the South, close to the graveyard)
+        - Inns:
+            - Northshield House to the East
+                - Where the common folk usually stay
+            - Everwyvern House to the South
+                - Where the fancy pants people stay
+            - Six Windows to the North-west
+                - Pretty run done, Lady Tolmera runs it but she's been a little off since her husband's passing
+                - Would be quite cheap
+    - Oberon asks if joining the Lord's Alliance would pay well
+        - She doesn't know
+    - In The Lion's Share
+        - Tell Alystra of the news
+            - Dagon stries to convince Alystra that Morack said she would give us 100gp to relay the message
+                - Alystra laughs at this
+        - Can detect that the town is fearful of Lord's Alliance
+        - Sell the following
+            - 25gp - Thieves Tools
+            - 500gp - 5x Amber Gemstones
+            - 75gp - Splint Armor
+            - 75gp - Hand Crossbow
+        - Exchange
+            - 36gp - Oberon - Leather for Studded Leather
+            - 38gp - Carlor - Leather for Studded Leather
+            - 37gp - Techno - Leather for Studded Leather
+        - Buy
+            - 10gp - Dagon - 10x Darts
+            - 1gp - Oberon - Bedroll
+            - 1gp - Oberon - 1000x Ball Bearings
+            - 1gp - Carlor - 1000x Ball Bearings
+            - 2gp - Carlor - Shovel
+            - 0.2gp - Carlor - Quarterstaff
+            - 4gp - Carlor - Grapping Hook
+            - 10gp - Thor - 10x Javelin
+        - TODO:
+            - Give Techno 37gp + 12.5gp + 12.5gp = 62gp
+    - Dagon heads to the Everwyvern House
+        - Is quite fancy with marble features and either servants or guards at the entrance (dressed very fancily)
+        - It is a high class inn
+        - They don't serve Aarakocra (due to race)
+        - Dagon shows them 150gp and that seems to change their tune
+        - The owner Draven Millovrye comes out to talk to Dagon
+        - They require that he buy fancy clothes from them and also pay to enter
+        - As Dagon flies away, he sprays shit all over the roof of the house
+    - Rest of the group head North to find the blacksmith
+        - Oberon branches off into The Talking Troll
+            - Is a filthy pub
+            - Roof has some holes in it, there are scorch marks, looks like it has been that way for awhile
+            - Floor has bird poop on it
+            - Owner is Caylen, male human is behind the counter
+                - Wants to hear Oberon play the bagpipes
+                - Is looking for a business partner to help fix up the business and turn it into a theatre
+                - Offers Oberon a pint on the house
+                - Needs an investment of 50gp
+                - Oberon gives 60gp for 51% of the Tavern, with 20gp extra to spend on the place
+                - Oberon gives Caylen instructions on how to run the place
+            - As Oberon is leaving, takes notice of an interesting character
+                - Uniquely dressed, rocking back and forth, and is clutching something
+                - Oberon sits next to him and offers to buy him a round
+                - Character appears to be a priest, is clutching a wooden cross
+                - Name of the dude is Sylveran Loomshank
+                - Used to live in Neverwind, but was forced to leave (doesn't want to explain further)
+                    - Oberon gives him 1gp and another drink to explain more
+                    - Sylveran knocked up a nun
+                - Oberon tells Sylveran to help Caylen with the pub
+                    - If it is a success, he can bring then nun and their child to live here
+            - Sylveran tells a terrible joke :P
+        - Carlor branches off into Uldinath's Arms
+            - Pays 30gp (15gp downpayment) for a Glaive, will be ready in 3 days
+        - Harix, Techno and Thor enter Foehammer's Forge
+            - Thor pays 135gp (100gp downpayment) to alter the Dwarven Splint Mail to fit him
+    - Carlor, Oberon and Thor visit Othovir's Harness Shop
+        - Oberon pays 30gp to have armor made for Skrillix
+    - Dagon flies over the farms to try and spot if anybody is working the fields
+        - Spots some people, flies in to talk to them
+        - Offers to help with things which pose threats to their farms
+        - They don't need help
+        - The only work they know of nearby would probably be to work for the Black Network
+        - They mention that the dude on the hill may need help
+    - Group goes into the tower in the center
+        - Find 2 guards
+        - Talk to the head of the city (Daratha)
+        - Ask Daratha if they need help with anything, but they don't (unless we want to join the militia)
+        - Daratha's heard murmerings of the events which took place in Nightston
+        - Daratha doesn't know much about the Ordening, but knows that the Hill Giants can be found out East
+            - Says that ??? the ranger knows more
+        - Daratha says the town isn't a part of the Lord's Alliance, but that they are in good standing with them
+        - Daratha says the Black Network works out of the Triboar travelers area, they are allowed to operate as they bring in good tax money and protect the caravans
+        - Daratha says she has the capacity to bring as many as 300 people to fight for the town if the need be (ie: if the Black Network were to stage a coup)
+        - Daratha
+    - Group moves on to The Triboar Arms
+        - Is a pub, seems pretty busy
+        - Spot an attractive female Half Elf in the back with a Longbow (Zindra Winterbow)
+            - Takes visitors to see the Hill Giants' lands for a fee (2-3 days away from here)
+            - Doesn't know the Hill Giants, has just seen a few
+            - Asks Carlor if he's been to or heard of Gwaeron's Slumber
+                - Says some Ranger's have ventured in and have seen their god, some disappear and it is assumed that they found their god
+                - Says she tried but didn't see anything
+                - Carlor & Zindra agree to go out and spend the night there tonight
+- Carlor and Zindra head to Gwaeron Slumber for the night (Dagon secretly follows from the air)
+    - Zindra is from the Ardeep Forest (technically her dad is from there, mom is from Neverwinter)
+        - She made her way here and makes her money via the guided excursions
+        - Her father (Elf) was a bow
+        - Mother was a commoner, never saw battle
+    - Stop to make a fire and setup camp (Dagon is perched in a nearby tree)
+    - As it's getting quite dark out, see a tall humanoid with what appears to be a glaive figure in the distance (looks like Carlor's father)
+    - Whisper to Zindra, she sees it as well
+    - Ask Zindra to prep her bow as I approach
+    - Figure says "Sonnn..""
+    - As Carlor approaches, the figure disappears
+    - As Carlor tells Zindra, he hears it again
+    - Keeps following, and following, following, and it strikes for 9 damage
+    - Zindra looses an arrow, but misses
+        - Combat begins!
+            - Zindra casts Hunter's Mark on Stranger
+                - Shoots an arrow at Stranger and hits for 12 damage
+            - Dagon flies nearby, and readies a Dart
+            - Carlor casts Hunter's Mark on Stranger
+                - Dagon's readied attack is triggered but misses
+                - Attacks Stranger but misses
+            - Stranger casts Sleep on Carlor but fails
+            - Zindra moves to a tree and talks to a bird which flies away
+            - Dagon flies in and attacks Stranger and hits for 10 damage
+                - Bonus attack hits for 5 damage
+                - Fists of Unbroken Air hits for another 13 and Stranger is knocked into the nearby wall and falls prone
+                - Takes another 2 damage due to hitting the wall
+            - Carlor smashes the Stranger for 23 damage
+                - Takes a bonus attack and his for another 10 damage (nat 20)
+            - Stranger disappears for a second
+                - Reappears as a much bigger figure
+            - Zindra shoots and arrow at the Stranger and hits for 11 damage
+            - Dagon hits for 7 damage
+                - Bonus attack hits for another 8 damage
+            - Carlor detects that it is a large humanoid figure with a Halberd, has grey skin and resembles either an Orc or a giant
+                - Carlor strikes at Stranger and hits for 12 damage
+                - Takes a bonus attack and lands for another 10 damage
+                - Stranger is hurting
+            - Stranger flies 5ft into the air
+                - Attacks Dagon twice with its claws
+                    - First is a miss
+                    - Second hits for 7 damage
+            - Zindra shoots another arrow but misses
+            - Dagon smashes the stranger for 9 damage
+                - Bonus attack hits for another 5 damage
+                - Uses 1 ki point on Flurry of Blows, but misses
+            - Carlor misses the attack
+                - Bonus attack hits for another 14 damage, murdering the creature
+        - Post battle
+            - Appears to be an Oni
+            - Find a Giant Glaive (difficult for Carlor to wield)
+            - Dagon tries to cut off its ears, but it doesn't have any
+            - Dagon takes the head
+            - Carlor manages to track the Oni's steps back to its layer (nat 20)
+                - Find:
+                    - Several dead bodies
+                    - 2 Black Pearls (worth 500gp)
+            - Dagon sleeps in a tree, Carlor and Zindra make-a da boom boom
+            - Take a short rest
+- Rest of the group head to Northshield House to spend the night
+    - They pay 0.5gp each to stay the night
+    - Oberon manages to start a pubcrawl with the intention of pulling business to the Talking Troll
+    - They end up at The Talking Troll Oberon plays bagpipes
+    - Get a long rest
+- End of session
