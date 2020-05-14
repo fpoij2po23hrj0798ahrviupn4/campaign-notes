@@ -1,0 +1,159 @@
+# DND day 12
+Attendees: Carlor, Dagon, Harix, Oberon, Thor
+
+- DM Bio Breaks: 4
+
+- (continued around morning after pubcrawl & night in the Oni cave)
+    - At The Talking Troll (Oberon & Harix)
+        - They wake up hungover at the Talking Troll
+        - Oberon was apparently giving out free drinks to his guests
+        - Oberon discovers the nights earnings are 14 silver, 7 copper (started with 9 silver, made 5 silver profit, 7 copper)
+        - Oberon sends Skrillex to find the rest of the party, doesn't find anybody
+        - Oberon heads out to take a nap in the Market Square
+        - Harix stays & drinks more beer
+    - At the Northshield House (Thor)
+        - Thor eats breakfast (1 silver)
+        - Thor heads to the Market Square & finds Oberon
+    - Back at The Talking Troll (Harix, Oberon & Thor)
+        - Harix is fairly drunk by now
+        - Oberon asks Harix to put his carpentry to use at the bar (drinks & lodging as payment)
+    - At around 10am Carlor, Dagon & Zindra come to the town
+        - Zindra leaves us when we reach the Market Square
+        - Carlor & Dagon head to The Talking Troll
+    - At The Talking Troll (everyone)
+        - Carlor & Dagon show the bar the Oni head & offer to taxidermy it to use as the The Talking Troll
+        - Carlor takes the head preps it to be mounted
+        - Head to the Tower to try & get Lady Daratha to pay us a reward for killing the Oni, but she isn't having it
+    - Carlor & Dagon head to The Lion's Share, but they won't buy the Black Pearls
+    - Carlor heads to the woods to go hunting & also get hides for The Talking Troll
+    - Rest of the group heads to find Six Windows
+        - On the way, they stop at Cart & Coin
+            - Oberon scares the kids with an illusion of a dolphin
+            - They say a Gargoyle from The Boar's Rest attacked his wife last week
+                - Assassing came to kill the owner of The Boar's Rest, but failed & then stole some of Cart & Coin's horses, & killed a stableh&
+                - Many of the villagers are scared of the Gargoyles
+            - Group heads to gather Harix before heading to check out the Gargoyles
+                - Harix drank too much & is now sleeping
+            - On the way to the North, see a building with Gargoyle-looking figures on the roof (The Boar's Rest)
+                - Oberon recalls that Gargoyles are creatures that are able to fly, generally fairly mischievous, very good at resembling stone
+                - Dagon flies up & pokes one, puts a finger in its nose, it does nothing
+                - As Dagon flies away, it takes an opportunity strike but misses
+                    - Dagon doesn't notice it, but the rest do
+                - Combat begins!
+                    - Gargoyle 2 attacks Thor
+                        - Claws miss, Bite misses
+                    - Dagon attacks Gargoyle 2, hits for 9 damage
+                        - Bonus attack for another 8 damage
+                        - Flies to a nearby tree
+                        - Gargoyle 2 takes an opportunity strike & misses
+                    - Gargoyle 4 attacks Dagon
+                        - Claws miss, Bite hits for 8 damage
+                    - Gargoyle 3 attacks Dagon
+                        - Claws & Bite hit for 14 damage
+                    - Thor casts Hunter's Mark on Gargoyle 2
+                        - Attacks Gargoyle 2 & hits for 13 damage
+                    - Gargoyle 1 attacks Oberon
+                        - Claws hit (nat 20) & Bite hits, 18 damage
+                        - Oberon casts Hellish Rebuke as a reaction, hits for 10 damage
+                    - Oberon casts Shatter
+                        - Hits Gargoyle 2 for 14 damage
+                        - Hits Gargoyle 3 for 7 damage
+                        - Hits Gargoyle 4 for 7 damage
+                        - Casts Bardic Inspiration on Dagon
+                    - Gargoyle 2 attacks Thor
+                        - Claws & Bite hit for 13 damage
+                    - Dagon uses Fists of Unbroken Air on Gargoyle 4
+                        - Deals 12 damage and falls prone to the ground, taking some additional damage (2d6)
+                        - Uses Ki Point (Step of the Wind) to disengage and fly away
+                    - 3 Darts come flying at Dagon (he recognizes them as Magic Missiles)
+                        - First misses
+                        - Second hits for 3 damage
+                        - Third hits for 2 damage
+                        - Dagon is knocked unconscious, and loses a Death Saving Throw when he falls
+                    - Gargoyle 4 attacks Thor
+                        - Claws & Bite miss
+                    - Gargoyle 3 attacks Oberon
+                        - Claws miss, Bite hits for 4 damage
+                    - Thor disengages and runs away
+                    - Gargoyle 1 attacks Oberon
+                        - Claws hit (nat 20), Bite misses - 9 damage
+                    - Oberon succeeds a Death Saving Throw
+                    - Gargoyle 2 moves next to Oberon but does nothing
+                    - Dagon succeeds a Death Saving Throw
+                    - A giant fireball comes flying out of the tower towards Thor
+                        - Thor fails to save, hits 33 damage but reduced to 16 as he is resistant to fire
+                    - Gargoyle 4 goes over to Oberon, with Gargoyle 2's help they start flying with Oberon
+                    - Gargoyle 3 attacks Thor
+                        - Claws miss, Bite this - 5 damage
+                    - Thor casts Lay On Hands to heal for 20hp and runs away
+                        - Gargoyle 3's opportunity hits for 5 damage
+                    - Gargoyle 1 attacks Thor
+                        - Claws & Bite miss
+                    - Oberon fails a Death Saving Throw
+                    - Gargoyle 2 holds movement for when Gargoyle 4 is helping
+                    - Dagon succeeds a Death Saving Throw
+                    - A whistle comes out of the tower
+                    - Gargoyle 4 carries Oberon into the building (with Gargoyle 2's help)
+                    - Gargoyle 3 flies back towards the building
+                    - Thor continues to run away
+                    - Gargoyle 1 flies back towards the building
+                    - Battle ends (no more Death Saving Throws needed - Dagon & Oberon stabilize but aren't conscious yet)
+        - Post combat (Thor)
+            - Thor barges into The Talking Troll and tells Harix about the events which just conspired
+            - Harix doesn't believe Thor (DM made him roll because he is drunk, rolled a nat 1 - 1 = 0!)
+            - They head to the Market Square Tower and ask the guards for help
+                - Guards agree to send 2 of the 12 Guards later on to investigate
+            - Thor & Harix return to The Talking Troll to wait
+        - Post combat (Dagon, Oberon)
+            - Oberon returns to consciousness, it's somewhat dark in the room, he's tired to a chair
+            - Well dresses humanoid figure appears
+            - Oberon fills him in on the situation
+            - Owner seems somewhat convinced, says something in a foreign language to the Gargoyles
+                - They untie Oberon & Dagon & tear off their clothes
+                - He scans their bodies for symbols but doesn't find anything
+                - Says something else to the Gargoyles and they tie them up again
+                - A Gargoyle tosses a pail of water into Dagon's face, waking him up
+            - Dagon also tells the character his side of the story
+            - Character doesn't appear pleased, shoves a gag in Dagon & Oberon's mouths
+            - Hear voices outside "Hey, what have you done with the travellers?"
+            - Humanoid character leaves to speak with the outsiders
+                - Comes back and tells the Gargoyles something, and they start leading the two outside
+            - Guards take Dagon & Oberon back to Lady Darath
+                - She interrogates the two on why they were at The Boar's Rest
+                - She sentences Dagon & Oberon to 5 days in the stockades
+                - Lady Darath says the owner of Boar's Rest name is Heath
+                    - Also says she reports to Waterdeep
+                - Dagon & Oberon are put on display in wooden shackles
+        - Thor visits the stockades
+            - Thor uses Cure Wounds to heal Oberon for 10hp and Dagon for 8hp
+            - Thor then leaves and heads to his room and prays 
+        - Harix stays at The Talking Troll and works/drinks
+        - Carlor returns to the town at 4:30 with 2 deer, 1 elk, and a jackalope
+            - Sees the village idiots in the market
+            - Casts 2xGoodberries to give Oberon & Dagon 10hp each
+        - Harix & Carlor spend the night at The Talking Troll for the night
+        - Dagon & Oberon head to the cells
+            - At 11pm, a couple of guards take Oberon and take him upstairs
+            - (DM & Oberon join private video chat...)
+            - Oberon is brought back at 7:30am, appears tired but doesn't seem injured
+            - Oberon won't say anything about what happened, other than he thinks we're good now
+            - Guards bring them upstairs and let them go
+        - Back at The Talking Troll (Dagon & Oberon return)
+            - Harix is drinking a beer, not much progress on the repairs
+            - Dagon continues asking Oberon questions, no answers
+            - Dagon takes off and heads to the market tower
+            - Thor shows up
+        - Group heads to check on their orders
+            - Dagon heads to the Market Tower
+                - Asks Lady Darath why he was released, she instructs the guards to drag him out
+                - He takes a swing at a guard, hits for 8 damage
+                - Lady Darath sends Dagon to the stockades for 7 days
+            - Thor heads to check on his armor, will be ready in 1 more day
+            - Oberon picks up Skrillex's armor (forgot Skrillex and runs back to get him)
+                - Is built amazingly well, with a nice handle to grab the Tressym quickly (Oberon and Carlor place a Dagger each in it)
+                - Has slots to store a couple small objects in it (ex: daggers)
+            - Carlor picks up his Glaive
+                - She wants 400gp to alter the Glaive to fit Calor
+                - Would take the Black Pearl in place of the 400gp
+                - Carlor is going to think about it
+- End of session
