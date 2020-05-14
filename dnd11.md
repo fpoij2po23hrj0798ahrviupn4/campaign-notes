@@ -1,4 +1,4 @@
-# DND day 10
+# DND day 11
 Attendees: Carlor, Dagon, Harix, Oberon, Thor
 
 - (continued from Day 10 on Cloud Tower, combat with Dwarves)
@@ -86,8 +86,6 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor
             - 0.2gp - Carlor - Quarterstaff
             - 4gp - Carlor - Grapping Hook
             - 10gp - Thor - 10x Javelin
-        - TODO:
-            - Give Techno 37gp + 12.5gp + 12.5gp = 62gp
     - Dagon heads to the Everwyvern House
         - Is quite fancy with marble features and either servants or guards at the entrance (dressed very fancily)
         - It is a high class inn
@@ -131,7 +129,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor
         - They don't need help
         - The only work they know of nearby would probably be to work for the Black Network
         - They mention that the dude on the hill may need help
-    - Group goes into the tower in the center
+    - Group goes into the Tower at the Market Square
         - Find 2 guards
         - Talk to the head of the city (Daratha)
         - Ask Daratha if they need help with anything, but they don't (unless we want to join the militia)
@@ -141,7 +139,6 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor
         - Daratha says the town isn't a part of the Lord's Alliance, but that they are in good standing with them
         - Daratha says the Black Network works out of the Triboar travelers area, they are allowed to operate as they bring in good tax money and protect the caravans
         - Daratha says she has the capacity to bring as many as 300 people to fight for the town if the need be (ie: if the Black Network were to stage a coup)
-        - Daratha
     - Group moves on to The Triboar Arms
         - Is a pub, seems pretty busy
         - Spot an attractive female Half Elf in the back with a Longbow (Zindra Winterbow)
