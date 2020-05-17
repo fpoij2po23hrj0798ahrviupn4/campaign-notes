@@ -131,14 +131,14 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor
         - They mention that the dude on the hill may need help
     - Group goes into the Tower at the Market Square
         - Find 2 guards
-        - Talk to the head of the city (Daratha)
-        - Ask Daratha if they need help with anything, but they don't (unless we want to join the militia)
-        - Daratha's heard murmerings of the events which took place in Nightston
-        - Daratha doesn't know much about the Ordening, but knows that the Hill Giants can be found out East
+        - Talk to the head of the city (Darathra)
+        - Ask Darathra if they need help with anything, but they don't (unless we want to join the militia)
+        - Darathra's heard murmerings of the events which took place in Nightston
+        - Darathra doesn't know much about the Ordening, but knows that the Hill Giants can be found out East
             - Says that ??? the ranger knows more
-        - Daratha says the town isn't a part of the Lord's Alliance, but that they are in good standing with them
-        - Daratha says the Black Network works out of the Triboar travelers area, they are allowed to operate as they bring in good tax money and protect the caravans
-        - Daratha says she has the capacity to bring as many as 300 people to fight for the town if the need be (ie: if the Black Network were to stage a coup)
+        - Darathra says the town isn't a part of the Lord's Alliance, but that they are in good standing with them
+        - Darathra says the Black Network works out of the Triboar travelers area, they are allowed to operate as they bring in good tax money and protect the caravans
+        - Darathra says she has the capacity to bring as many as 300 people to fight for the town if the need be (ie: if the Black Network were to stage a coup)
     - Group moves on to The Triboar Arms
         - Is a pub, seems pretty busy
         - Spot an attractive female Half Elf in the back with a Longbow (Zindra Winterbow)
