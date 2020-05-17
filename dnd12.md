@@ -1,8 +1,6 @@
 # DND day 12
 Attendees: Carlor, Dagon, Harix, Oberon, Thor
 
-- DM Bio Breaks: 4
-
 - (continued around morning after pubcrawl & night in the Oni cave)
     - At The Talking Troll (Oberon & Harix)
         - They wake up hungover at the Talking Troll
@@ -23,7 +21,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor
     - At The Talking Troll (everyone)
         - Carlor & Dagon show the bar the Oni head & offer to taxidermy it to use as the The Talking Troll
         - Carlor takes the head preps it to be mounted
-        - Head to the Tower to try & get Lady Daratha to pay us a reward for killing the Oni, but she isn't having it
+        - Head to the Tower to try & get Lady Darathra to pay us a reward for killing the Oni, but she isn't having it
     - Carlor & Dagon head to The Lion's Share, but they won't buy the Black Pearls
     - Carlor heads to the woods to go hunting & also get hides for The Talking Troll
     - Rest of the group heads to find Six Windows
@@ -152,7 +150,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor
             - Oberon picks up Skrillex's armor (forgot Skrillex and runs back to get him)
                 - Is built amazingly well, with a nice handle to grab the Tressym quickly (Oberon and Carlor place a Dagger each in it)
                 - Has slots to store a couple small objects in it (ex: daggers)
-            - Carlor picks up his Glaive
+            - Carlor heads to check on his Glaive
                 - She wants 400gp to alter the Glaive to fit Calor
                 - Would take the Black Pearl in place of the 400gp
                 - Carlor is going to think about it
