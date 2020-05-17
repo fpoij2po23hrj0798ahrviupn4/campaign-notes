@@ -1,0 +1,115 @@
+# DND day 6
+Attendees: Carlor, Dagon, Harix, Oberon, Techno, Thor
+
+- ** Flashback to the gang hanging out at the village
+    - Dagon & Carlor are cooking the Wargs
+    - Carlor tells the gang about his wood/farm life
+    - Dagon is sad about having lost his nunchucks back at the monastery
+        - Parents sold him to the monastery
+        - His monastery serves the god of poison
+        - The monastery was using green dragons for their poison
+        - He tried to escape, but they caught him and tortered him
+        - Had to chew off his tail to escape his cell
+    - Harix went off to war, when he came back his village and everybody was gone
+        - The war was the great war for the Isle of Newf, in the North Sea
+        - He's searching for his family
+        - He crossed the sea by ship
+    - Thor is also a soldier
+        - From a town east of Waterdeep
+        - His father & grandfather were soldier
+        - Goal is to eliminate evil from the world
+    - Techno is from the Ardeep Forest
+    - Oberon is also from near the Ardeep Forest
+        - Temple of Milil (god of poetry and singing)
+        - Sings to the dead so their souls can pass on
+        - Specialty is singing and playing the bagpipes 
+- ** Back to current time **
+- In the cave after killing the Ogres and the Goblins
+    - Retreat from the cave, make a fire, signal Techno & Harix, and then take a short rest
+    - Finish resting a couple hours or so later
+- While the others are resting
+    - Techno & Harix notice smoke near where the rest of the gang is
+    - Guards give them horses to make their journey to join the others
+- Now that the gang is back together again
+    - Start heading back towards the cave
+    - Dagon lights up his torch
+    - Oberon is going to use Mage Hand to hold his lantern up front with Thor & Harix
+    - See the ogre's tub, is oddly warm
+    - Stalagmites on the ceiling, driping can be heard all over
+    - Don't see any bats, but the ground is covered in bat droppings
+    - See shadows up ahead that look like more stalactites, there might be some tunnel entrances up ahead
+    - Techno morphs into a bat and flies around the caves
+        - Sees a lot of stalactites and stalagmites
+        - Up ahead there's a pool of water
+        - A couple openings on either side
+        - Perceives a moving small figure on a ledge to the East
+        - Returns to the gang, morphs back into regular form
+    - Move up ahead, combat begins
+        - Thor dashes up the ledge
+        - Dagon tries to be nimble but fails to get up the ledge
+        - Harix swings at the 1/2 cover Goblin but misses
+        - Techno uses Thorn Whip to try and pull the Goblin down, but fails
+        - Oberon blasts the Goblin for 7 damage, killing the Goblin
+        - Dagon finds 2 silver pieces on the Goblin, and takes his ears
+    - As we continue on, there is a strong foul smell
+        - Techno recognizes the smell as rotting flesh
+    - Spot a 5x7 tunnel, don't investigate it
+    - See another tunnel to the North-east of the cave (entrance is pretty big, around 7x10)
+        - Dagon uses Elemental Attunement to light a fire in the tunnel
+        - Can see the backside of it, but not the bottom
+    - Thor inspects the pool of water, doesn't find anything special
+    - The group continue to the West, hears "bree-yark!" and see a Goblin run deeper in to the cave
+    - Combat begins!
+        - Oberon basts for 10 damage, killing the Goblin
+        - Dagon takes the ears
+    - Dagon lights some fires to the North
+        - To the North there is an 8ft chasm/fissure, but at the other side of it there is a tunnel
+    - Group heads to the South, and hears "bree-yark!"
+        - An arrow hits Thor for 7 damage
+        - Combat begins!
+            - Oberon blastst the Gobalin for 9 damage, killing it
+            - Dagon takes the ears
+    - Dagon heads into one of the tunnels
+        - Thor and Techno follow
+        - See a pool of water
+        - Continue North, hear "Urgh, who goes there?"
+        - Techno is able to see about 10 figures up ahead in the cave with his Darkvision (they are small, not Ogre sized)
+        - Group continues forward, see:
+            - 3 Goblins (1 male with a crown, 2 female)
+            - 7 Giant Rats
+        - The crowned Goblin is Hark, for the villagers he asks for one of:
+            - 1gp per villageror
+            - 1 working lock
+            - That the group kill the beast to the east of the cave (right-hand side of the entrance of the cave)
+        - Thor tries to intimidate Hark but it doesn't work at all
+        - Combat begins!
+    - Techno strikes up a conversation with a female Goblin
+        - Goblin asks Techno to kill Hark so she can become Queen, and in exchange will give them the villagers and Hark's treasure
+        - Techno agree to help
+        - The female Goblin escorts Oberon & Techno to Hark
+    - Techno, Oberon and the female goblin join the rest of the group
+        - Hark informs the group that the female Goblin's name is Snigbat
+        - Dagon tells Hark that he should instead pay 10gp for each of his men that the group will spare
+        - Combat Begins!
+            - Thor uses a sneak attack Breath Weapon (rolls double 1s for damage!)
+                - Hark takes 1 damage
+                - Zukluk takes 2 damage
+                - Rat 4 takes 1 damage
+            - Rat 1 misses
+            - Rat 2 hits Thor for 3 damage
+            - Oberon casts Sleep, putting Zukluk and 4 rats to sleep
+                - Casts Bardic Inspiration on Dagon
+            - Hark throws 2 Javalins at Thor, both miss
+            - Rat 5 misses Thor
+            - Rat 
+
+    - *** 1:47:00
+
+....
+    - Walk up to the big pit
+    - "Are you the villagers of Nighstone?"
+    - Can hear gasps from the creatures we could see in the pit
+    - A swarm of bats come flying in, filling the cave
+    - *Combat begins*
+        - Carlor tells Oberon that bats rely on sound to navigate
+        - Oberon plays Enter the Sandman on the bagpipes but the bats are unphased
