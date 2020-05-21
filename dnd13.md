@@ -1,0 +1,184 @@
+# DND day 13
+Attendees: Carlor, Dagon, Harix, Oberon, Thor
+
+- (continued after Dagon got locked up - around noon)
+- Back at The Talking Troll
+    - Oberon spends the rest of the day playing his bagpipe to attrack customers
+    - Harix continues to work & drink
+    - Thor & Carlor go to try and find Dagon
+        - Carlor uses Goodberry to heal Dagon
+        - A small mouse runs up Thor's leg and up on his shoulder
+            - Thor tries to pet it and it runs to his other shoulder
+            - Thor tries putting his hand out and the mouse jumps onto it
+            - It doesn't appear to understand common
+            - Thor feeds it a morcel of his ration, and then it scurries away
+        - Carlor & Thor follow the mouse to a campground where the merchants hang out
+            - Carlor takes a little look around and the campground doesn't seem out of the ordinary, follows Thor
+            - Thor asks the merchants if they saw a merchant but they didn't
+            - Thor then knocks on the door of a nearby house to ask about the mouse but they don't know anything (guy's name is John)
+                - The house is called the Triboar Traveller
+                    - They are mercenaries for hire, they guard the travellers that come through
+                    - They say they work for the "boss"
+            - Thor checks the next house
+                - He is the owner of the Triboard Traveller, he is _very_ well dressed
+                - Says he owns pretty much everything in this town
+                - Thor asks if they need any help with work, but they say we don't think we'd fit in
+                - Says his clothes came from Waterdeep
+                - Also has a big distrust for the Everwyvern House crowd
+                - Carlor notices that the character is wearing a gold Black Network ring
+            - Thor continues to search for the mouse, checks the next house over
+                - Doesn't discern anything of value
+        - Back at the stockades, Dagon tries to break out using brute force but fails miserably
+        - Thor & Carlor head back to The Talking Troll and tell the group about Dagon, the mouse and the Black Network
+        - Group (minus Dagon) head for a walk to the Everwyvern House
+            - Oberon casts Detect Magic
+            - Talk to Dagon on the way
+                - Dagon tries to convince Harix to smash the stockages but Oberon talks him down
+                - Another mouse walks by in the Market Square
+                    - Skrillix takes off after it
+                    - Carlor doesn't detect anything via Primeval Awareness
+                    - Oberon's Detect Magic isn't triggered
+                - Skrillix leads us to a hole near Six Windows
+                - Oberon sticks his arm in the hole and doesn't find and end to it
+                - Oberon instructs Skrillix to watch the hole but not to use lethal force
+                    - Carlor ties a rope to Skrillix and waits
+                - The rest of the group scan the area, then knock on the door
+                    - Tolmera comes out and and asks what they want
+                    - Thor and Oberon pay 1 silver for a room
+                    - Tolmera says:
+                        - Her husband left her 6 years ago for another woman (she assumes, but doesn't know who)
+                        - Doesn't know about the mice
+                        - Says everybody knows that the Black Network operates out of the Triboar Traveler, but that they don't bother anybody
+                        - Pleasing Platter is a restaurant in town but it's very pricey
+                            - They cater for Everwyvern House
+                        - Says the owner of Boar's Rest is a retired traveler, got the Gargoyles after a failed assassination attempt was made on him a few weeks ago
+                    - Thor goes to see his room and it is absolutely terrible
+                - No activity happens at the mouse hole
+                - Carlor remains with Skrillix, the rest head back to The Talking Troll
+        - While the group was at the Six Windows, Dagon tried to escape several times
+            - Tried to burn the stockades
+            - Tried to bribe a guard
+                - Got 3 days added to his sentence
+            - Tried to push the guards away with his wings and then fly
+            - In the end he is brought to a cell
+        - Back at The Talking Troll
+            - Carlor comes back with the mouse and Skrillix, group has no clue what to do with it
+            - Carlor hits the mouse and tosses it to Skrillix
+            - Thor punches Carlor, inflicting 5 damage
+            - Skrillix eats the mouse
+            - Oberon used Minor Illusion to create neon lights to attrack patrons
+            - Thor heads to Six Windows to sleep, the rest stay at The Talking Troll
+        - 3am at Six Windows
+            - Thor hears odd moaning in the inn
+            - Removes his armor and tries to stealthily check it out (rolls terribly, falls down the stairs)
+            - Stealthily peeks into the next room and sees that it's just Tolmera moaning to herself
+            - She says she's OK, Thor goes back upstairs
+- On the next day
+    - Thor wakes up and heads to The Talking Troll
+    - At the Talking Troll
+        - Carlor sets up the hides & the taxidermied heads around the bar
+        - Harix is still working on the bar (and drinking), and plans on doing this for the day
+            - Hears yelling from the town
+        - Thor tells the group about the weird moaning
+        - Thor gets his armor
+            - Hears yelling from the town
+        - Carlor gets his glaive
+            - Narth from Lion's Share is there, he gets his stuff
+            - Carlor gives her Oni's Glaive so she can try to alter it to fit
+        - Oberon talks to Lady Darath and tries to setup a scenario where Dagon is release, but in such a way where Dagon believes it was his own doing
+            - Hear a man yelling from outside "Giants! Run!!"
+            - They both rush to the tower windows and see villagers scatterring everywhere, but no giants yet
+            - Darath asks Oberon to help, says the 12 are to the South investigating an attack by Orcs
+        - During the chaos, Dagon tries to light the stockages
+        - * Level up! *
+        - The caretaken of the Campground let Dagon out of the stockades so he can help
+        - Harix and Othovir sees a big boulder come flying in and goes right through the roof of a house
+            - Another boulder hits a bunch of merchant stands in the Market Square
+            - They also see two bird-like flying creatures coming, and they are carrying a creature each
+        - Oberon sees that two very large.. Giant.. figures are to the North-east, where the boulders came from
+            - He also sees another ~10 smaller figures
+            - The heads of the large figures appear to be red
+        - Combat Begins! (multiple simultaneous battles)
+            - Harix and Othovir
+                - Othovir casts Mage Armor
+                - Orc 2 attacks Othovir but misses (used Parry)
+                - Harix attacks Orc 2 and hits for 9 damage
+                    - Makes another attack and hits for another 11 damage killing it
+                - Orag 1 appears
+                - * a boulder flies in, hitting Foehammer's Force, a giant then points at a house and it becomes engulfed in flames *
+                - Othovir misses Orc 1
+                - The bird which was carrying Orc 2 flies away
+                - Harix attacks Orc 1 and hits for 12 damage
+                    - Second attack hits for 11 damage (nat 20), killing Orc 1
+                - The bird which was carrying Orc 1 flies away
+                - Orag 1 multiattacks Othovir, hits for 5 damage
+                - * a boulder hits the Market Square Tower, narrowing avoiding Oberon & Skrillix, and the roofs on Cart and Coin catch fire *
+            - Dagon, Oberon, Darz & Lady Darath
+                - Darz attacks Orc 3 and hits for 6 damage
+                - Orc 3 attacks Dagon and hits for 15 damage
+                - Orc 6 attacks Dagon and hits for 9 damage
+                - Oberon casts Hypnotic Patterns
+                    - Orag 2 is charmed
+                    - Orag 3 is charmed
+                    - Orc 3 is charmed
+                    - Orc 6 is charmed
+                    - Casts 2nd level Healing Word on Dagon, heals for 10hp
+                - Orag 5 is charmed
+                - Darathra moves but doesn't attack
+                - Orag 3 is charmed
+                - Dagon punches Orc 3, hits for 10 damage, killing it
+                    - Bonus attack to hit Orc 6, hits for 5 damage
+                    - 2nd Bonus attack to hit Orc 6, hits for 7 damage
+                    - Uses Flurry of Blows to deal another 6 damage
+                - Orag 2 is charmed
+                - * a boulder flies in, hitting Foehammer's Force, a giant then points at a house and it becomes engulfed in flames *
+                - Darz shoots a slingshot at the bird which was carrying Orc 3
+                - Bird which was carrying Orc 3 is charmed
+                - Bird which was carrying Orc 6 is charmed
+                - Oberon blasts 2xEldritch Blast on Orag 3, hitting for 7 damage
+                    - Uses Bardic Inspiration on Darathra
+                - Orag 5 is charmed
+                - Darathra moves and then readies her attack
+                - Orag 3 mounts the bird which was carrying Orc 6
+                    - Uses an action to uncharm the bird
+                - Dagon uses bonus attack on Orag 3 for 9 damage
+                    - Spends 1 ki point to use Stunning Strike, stunning Orag 3
+                    - Attacks hitting for 6 damage
+                    - Second attack hits for another 6 damage
+                - Orag 2 is charmed
+                - * a boulder hits the Market Square Tower, narrowing avoiding Oberon & Skrillix, and the roofs on Cart and Coin catch fire *
+            - Carlor, Thor, Narth, Ghelryn
+                - Orag 4 goes to attack Carlor
+                    - Carlor does an opportunity attack, dealing 10 damage (nat 20)
+                    - First attack and second attacks hit (2nd is nat 20) - 33 damage
+                - Carlor notices that one of the birds is an Axebeak
+                    - Casts Hunter's Mark on Orag 4
+                    - Attacks Orag 4 for 25 damage
+                    - Attacks Orc 5 and hits for 13 damage
+                - Orc 4 misses Thor
+                - Narth hits Orc 5 for 7 damage, killing it
+                    - Narth then hides behind a bush
+                - Orag 5 hits Thor twice, dealing 23 damage
+                - Ghelryn uses a multiattack on Orc 4
+                    - First hits for 5 damage, second misses
+                - Thor casts Hunter's Mark on Orc 4
+                    - Attacks and hits for 13 damage, killing Orc 4
+                    - Misses second attack
+                - * a boulder flies in, hitting Foehammer's Force, a giant then points at a house and it becomes engulfed in flames *
+                - Orag 4 attacks Carlor twice
+                    - First knocks Carlor unconscious
+                    - Second eliminates a saving throw
+                - Carlor succeeds a Death Saving Throw
+                - Bird which was carrying Orc 4 flies away
+                    - Ghelryn takes an opportunity strike, hitting for 5 damage
+                    - Thor also takes an opportunity strike, hitting for 8 damage
+                - Narth charges after Orag 4 and attacks but misses
+                - Orag 5 multiattacks Thor, hitting for 10 damage
+                - Bird which was carrying Orc 5 flies away
+                - Ghelryn multiattacks Orag 5, misses both
+                - Thor uses Channel Divinity: Vow of Enmity on Orag 5
+                    - Attacks Orag 5 hitting for 16 damage (nat 20)
+                    - Uses Devine Smite to deal another 23 damage
+                    - Second attack hits for another 12 damage, killing it!
+                - * a boulder hits the Market Square Tower, narrowing avoiding Oberon & Skrillix, and the roofs on Cart and Coin catch fire *
+- End of session

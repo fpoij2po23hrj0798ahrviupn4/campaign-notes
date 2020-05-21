@@ -1,0 +1,185 @@
+# DND day 14
+Attendees: Carlor, Dagon, Harix, Oberon, Thor (likely no more Techno going forward)
+
+- (continue separated battles with Orcs/Orags/Birds, just after a boulder his the Market Square Tower)
+    - Combat continues!
+        - Harix and Othovir
+            - Othovir misses Orag 1
+            - Bird 2 flies in
+                - Attacks Othovir with its beak, hits for 3 damage
+            - Harix hits Bird 2 for 5 damage
+                - Second attack hits Bird 2 for 5 damage
+            - Bird 1 flies in
+                - Misses Othovir
+            - Orag 1 attacks Harix
+                - First attack misses
+                - Second attack hits for 5 damage
+            - * another house in town catches fire and another boulder is hurled into the Market Square Tower *
+            - Othovir casts Witch Bolt on Orag 1 but misses
+            - Bird 2 misses Othovir
+            - Harix hits Orag 1 for 7 damage
+                - Second attack misses (superiority die used)
+            - Bird 1 hits Othovir for 6 damage
+            - Orag 1 attacks Harix, first attack misses
+                - Second attack hits for 7 damage (reduced to 0 via Parry)
+            - * no boulders, a cottage catches fire *
+            - Othovir misses Orag 1
+            - Bird 2 flies away
+                - Othovir takes an opportunity strike, hits for 7 damage, killing Bird 2
+            - Harix misses Orag 1
+                - Second attack hits for 12 damage
+            - Bird 1 misses Harix
+            - Orag 1 attacks Harix
+                - First hits (nat 20), second misses, 12 damage (9 damage via Parry)
+            - * Othovir's store catches fire *
+            - Othovir misses
+            - Harix attacks Orag 1 but misses
+                - Second attack misses
+            - Bird 1 flies away
+                - Othovir takes an opportunity strike, hitting for 2 damage
+            - Orag 1 misses Harix (due to Parry)
+                - Second attack hits for 11 damage (5 damage via Stone's Endurance)
+            - * a farm near Carlor & Thor catches fire *
+            - Harix misses Orak 1
+                - Second attack hits for 11 damage
+                - Action surge hits twice more for 19 damage, killing Orak 1
+            - * nothing else catches fire *
+            - They walk forward and can now see Carlor & Thor's battle
+        - Dagon, Oberon, Darz & Lady Darath
+            - Darz attacks Orag 3, hitting for 8 damage
+            - Bird 6 attacks Darz, hits for 7 damage
+            - Oberon exits the Tower
+            - Daratha moves
+            - Orag 3 is stunned
+            - Bird 3 is charmed
+            - Dagon hits Orag 3 for 7 damage
+                - Bonus attack hits for 9 damage, killing Orag 3
+                - Second Bonus attack hits Bird 6 for 6 damage
+            - Orag 2 is charmed
+            - * another house in town catches fire and another boulder is hurled into the Market Square Tower *
+            - Darz hits Bird 6 for 7 damage
+            - Bird 6 hits Darz for 6 damage
+            - Oberon moves
+            - Daratha hits Bird 6 for 12 damage, killing it
+            - Bird 3 is charmed
+            - Dagon misses Bird 3
+                - Bonus attack hits for 8 damage
+                - Second bonus attack hits for 8 damage
+                - Uses Flurry of Blows to deal another 7 damage, killing Bird 3
+            - Orag 5 is charmed
+            - * no boulders, a cottage catches fire *
+            - Darz attacks Orag 2, hits for 15 damage
+            - Oberon blasts Orag 2 but misses
+                - Oberon blasts Orag 2 but misses
+            - Daratha attacks Orag 3, hits for 15 damage (inspiration used)
+                - Second attack hits for 8 damage (Orag 3 is hurting)
+            - Dagon kills Orag 3 with 10 damage (nat 20)
+            - No more enemies remain
+            - * Othovir's store catches fire *
+            - Darz runs towards his burning cottage and sees 2 giant figures stabbing their swords into the ground
+                - Yells back to the others to let them know of the red Giants to the North
+            - Oberon dashes to Oberon and heals for 7hp (Healing Word)
+                - Talks to Dagon and they decide to go towards the Giants
+            - Daratha agrees to join Dagon & Oberon
+            - Dagon goes to find his weapons
+            - * a farm near Carlor & Thor catches fire *
+            - Darz uses his slingshot on Giant 1 but misses
+                - Then hides
+            - Oberon runs out towards Darz
+                - Sees the Giants
+                - Casts Bardic Inspiration on Darz
+            - Daratha joins Oberon & Darz
+            - Dagon join Oberon, Daratha & Darz
+            - Giant 0 stabs his sword into the ground
+            - Giant 1 stabs his sword into the ground
+            - * nothing else catches fire *
+            - Darz hits Giant 0 with a slingshot for 6 damage (used inspiration)
+            - Giant 0 does something and a bunch of Firebugs appear
+            - Oberon casts Hypnotic Pattern
+                - Firebug 11 is charmed
+                - Giant 0 is charmed
+                - Giant 1 is charmed
+                - Casts Bardic Inspiration on Dagon
+            - Daratha hits Firebug 10 for 10 damage, killing it
+                - It explodes dealing fire damage to nearby creatures
+                    - Daratha takes 5 damage
+                - Second attack hits Firebug 7 for 11 damage
+                    - It explodes dealing fire damage to nearby creatures
+                        - Daratha takes 9 damage
+            - Dagon misses Firebug 12
+                - Second attack hits for 7 damage
+                - Bonus attack hits for 10 damage, killing it
+                    - It explodes dealing fire damage to nearby creatures
+                        - Dagon takes 7 damage
+            - Giant 1 is charmed
+            - Firebug 9 hits Oberon for 8 damage
+                - Oberon is now on fire, but maintains his concentration
+            - Firebug 8 moved towards Oberon
+            - Giant 0 is charmed
+        - Carlor, Thor, Narth, Ghelryn
+            - Orag 4 attacks Narth but both attacks miss
+            - Carlor succeeds on a Death Saving Throw
+            - Narth misses Orag 4
+            - Bird 4 misses Thor
+            - Bird 5 misses Thor
+            - Ghelryn attacks Bird 5, hits for 8 damage
+                - Second attack hits for another 7 damage
+            - Thor uses Lay on Hands to heal for 25hp
+                - Uses bonus action to move Hunter's Mark onto Orag 4
+            - * another house in town catches fire and another boulder is hurled into the Market Square Tower *
+            - Orag 4 moves to attach Thor
+                - Narth takes an opportunity strike but misses
+                - First attack misses, second atack hits (nat 20) for 8 damage
+            - Carlor fails a Death Saving Throw
+            - Narth fails to Stabilize Carlor
+            - Bird 4 misses Thor
+            - Bird 5 misses Thor
+            - Ghelryn attacks Bird 5 for 6 damage, killing it
+                - Second attack hits Bird 6 for 10 damage, killing it
+            - Thor uses Misty Step to appear next to Carlor
+                - Uses healing kit to stabilize Carlor
+            - * no boulders, a cottage catches fire *
+            - Orag 4 attacks Thor but both attacks miss
+            - Carlor isn't able to do anything
+            - Narth is useless, misses
+            - Ghelryn misses twice
+            - Thor heals Carlor for 8hp via Cure Wounds
+            - * Othovir's store catches fire *
+            - Orag 4 misses twice
+            - Carlor kills Orag 4 with 18 damage
+                - Inspects the body to discover that the creatures are Orags
+            - Narth runs ahead
+            - Thor casts Find Steed and runs ahead
+            - * a farm near Carlor & Thor catches fire *
+            - 5 small red creatures appear, they are possibly on fire
+            - Firebug 6 attacks Thor by touching him, misses
+            - Firebug 1 hits Narth dealing 2 damage
+                - Narth is now on fire
+            - Carlor casts Hunter's Mark on Firebug 6
+                - Hits for 10 damage, killing it
+                - It explodes dealing fire damage to nearby creatures
+                    - Carlor takes 3 damage
+                    - Ghelryn takes 8 damage
+                    - Thor takes 1 damage
+                    - Narth takes 3 damage
+                    - Thor's steed takes 3 damage
+                - Switches to Longbow and shoots an arrow at Firebug 5
+                    - Hits for 3 damage
+            - Firebug 4 hits Thor for 5 damage
+            - Firebug 2 hits Thor for 1 damage
+            - Firebug 5 misses
+            - Thor attacks Firebug 5, hits for 12 damage
+                - It explodes dealing fire damage to nearby creatures
+                    - Thor takes 0 damage (due to resistance)
+                    - Thor's steed takes 3 damage
+                    - Ghelryn takes 1 damage
+                - Takes a second attack on Firebug 2 but misses
+                - Stows his warhammer
+                - Warhorse kills Firebug 2 with 11 damage
+                    - It explodes dealing fire damage to nearby creatures
+                        - Thor's steed takes 11 damage
+                        - Thor takes 11 damage
+                        - Ghelryn takes 11 damage
+            - Ghelryn hits Firebug 4 for 8 damage
+                - Second attack misses
+            - * nothing else catches fire *
