@@ -49,7 +49,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor (likely no more Techno going forwa
             - Darz attacks Orag 3, hitting for 8 damage
             - Bird 6 attacks Darz, hits for 7 damage
             - Oberon exits the Tower
-            - Daratha moves
+            - Darathra moves
             - Orag 3 is stunned
             - Bird 3 is charmed
             - Dagon hits Orag 3 for 7 damage
@@ -60,7 +60,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor (likely no more Techno going forwa
             - Darz hits Bird 6 for 7 damage
             - Bird 6 hits Darz for 6 damage
             - Oberon moves
-            - Daratha hits Bird 6 for 12 damage, killing it
+            - Darathra hits Bird 6 for 12 damage, killing it
             - Bird 3 is charmed
             - Dagon misses Bird 3
                 - Bonus attack hits for 8 damage
@@ -71,16 +71,16 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor (likely no more Techno going forwa
             - Darz attacks Orag 2, hits for 15 damage
             - Oberon blasts Orag 2 but misses
                 - Oberon blasts Orag 2 but misses
-            - Daratha attacks Orag 3, hits for 15 damage (inspiration used)
+            - Darathra attacks Orag 3, hits for 15 damage (inspiration used)
                 - Second attack hits for 8 damage (Orag 3 is hurting)
             - Dagon kills Orag 3 with 10 damage (nat 20)
             - No more enemies remain
             - * Othovir's store catches fire *
             - Darz runs towards his burning cottage and sees 2 giant figures stabbing their swords into the ground
-                - Yells back to the others to let them know of the red Giants to the North
+                - Yells back to the others to let them know of the Fire Giants to the North
             - Oberon dashes to Oberon and heals for 7hp (Healing Word)
                 - Talks to Dagon and they decide to go towards the Giants
-            - Daratha agrees to join Dagon & Oberon
+            - Darathra agrees to join Dagon & Oberon
             - Dagon goes to find his weapons
             - * a farm near Carlor & Thor catches fire *
             - Darz uses his slingshot on Giant 1 but misses
@@ -88,8 +88,8 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor (likely no more Techno going forwa
             - Oberon runs out towards Darz
                 - Sees the Giants
                 - Casts Bardic Inspiration on Darz
-            - Daratha joins Oberon & Darz
-            - Dagon join Oberon, Daratha & Darz
+            - Darathra joins Oberon & Darz
+            - Dagon join Oberon, Darathra & Darz
             - Giant 0 stabs his sword into the ground
             - Giant 1 stabs his sword into the ground
             - * nothing else catches fire *
@@ -100,12 +100,12 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor (likely no more Techno going forwa
                 - Giant 0 is charmed
                 - Giant 1 is charmed
                 - Casts Bardic Inspiration on Dagon
-            - Daratha hits Firebug 10 for 10 damage, killing it
+            - Darathra hits Firebug 10 for 10 damage, killing it
                 - It explodes dealing fire damage to nearby creatures
-                    - Daratha takes 5 damage
+                    - Darathra takes 5 damage
                 - Second attack hits Firebug 7 for 11 damage
                     - It explodes dealing fire damage to nearby creatures
-                        - Daratha takes 9 damage
+                        - Darathra takes 9 damage
             - Dagon misses Firebug 12
                 - Second attack hits for 7 damage
                 - Bonus attack hits for 10 damage, killing it
