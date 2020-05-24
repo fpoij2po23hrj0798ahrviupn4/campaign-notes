@@ -1,0 +1,266 @@
+# DND day 15
+Attendees: Carlor, Dagon, Harix, Oberon, Thor
+
+- (continue separated battles with Firebugs & Fire Giants)
+    - Combat continues
+        - Dagon, Oberon, Darz & Lady Darath
+            - Darz shoots a Slingshot at Firebug 11
+                - Hits for 11 damage killing Firebug 11
+            - Giant 0 is charmed
+            - Oberon casts Lvl 2 sleep on Firebug 8 & Firebug 9
+                - Oberon takes 6 damage because he is on fire and loses concentration
+            - Darathra attacks Giant 0
+                - First hits for 14 damage
+                - Second misses
+            - Skrillix flies away (East)
+            - Dagon throws a Dagger at Giant 0, hitting for 9 damage (used Bardic Inspiration)
+            - Giant 1 slams his Sword into the ground
+            - Firebug 9 is asleep
+            - Firebug 8 is asleep
+            - Darz shoots a Slingshot Giant 0 and hits (nat 20)
+                - Deals 23 damage
+                - Then hides
+            - Giant 0 attacks Darathra
+                - Both attacks miss
+                - Giant 0 yells in Giant: "They're stronger than we thought"
+            - Oberon misses two blasts
+                - Takes 1 damage because he's still on fire
+            - Darathra attacks Giant 0
+                - First attack misses
+                - Second hits for 6 damage
+            - Dagon throws a Dagger at Giant 0 but misses
+            - Giant 1 attacks Darathra
+                - First attack misses
+                - Second attack hits for 30 damage
+            - Firebug 9 is asleep
+            - Firebug 8 is asleep
+            - Darz shoots a Slingshot at Giant 0 but misses
+            - Giant 0 attacks Darathra
+                - First attack misses (Oberon used Cutting Words)
+                - Second attack hits for 35 damage killing Darathra
+            - Oberon heals Darathra for 6hp with Healing Word (she is no longer unconscious)
+                - Uses action to douse the flames
+            - Darathra attacks Giant 0
+                - First attack misses
+                - Second attack hits for 7 damage
+            - Dagon attacks Giant 1 hitting for 9 damage
+                - Second attack hits for 6 damage
+                - Bonus attack misses
+                - Uses Step of the Wind (1 ki point) to retreat
+            - Giant 1 attacks Darathra for 45 damage, knocking her unconscious
+        - Carlor, Harix, Thor, Ghelryn, Narth, Othovir
+            - Firebug 1 misses Ghelryn
+            - Carlor holds an attack on Firebug 1 (pending Ghelryn moving away)
+                - Misses
+            - Firebug 4 missed Thor
+            - Narth holds an attack on Firebug 4 (pending Ghelryn moving away)
+                - Misses
+            - Thor drops his Warhammer and holds a Javelin attack on Firebug 1 (pending Ghelryn moving away)
+                - Hits for Firebug 1 for 12 damage killing it
+            - Guelryn disengages and retreats
+            - * Harix and Othovir *
+            - Harix hits Firebug 4 for 10 damage killing it
+                - It explodes dealing fire damage to nearby creatures
+                    - Harix takes 5 damage
+            - Carlor sheathes his Longbow
+                - Casts Goodberries
+            - Narth moves
+            - Othovir leaves to save his store from the flames
+            - Thor sheathes his Warhammer
+                - Casts Cure Wounds to regain 11hp
+            - Ghelryn moves
+            - Harix dashes
+            - Carlor picks up Glaive and dashes
+            - Narth dashes
+            - Thor dashes
+            - Ghelryn dashes
+            - Narth goes to grab Caylen so they can put out the fire at the Cart and Coin
+            - Rest of the group makes it to the others
+        - Entire group is now at the Giant battle
+            - Darz shoots his Slingshot at Giant 0 and misses
+            - Giant 0 moves back to continue digging
+            - Oberon casts Invisibility on himself
+            - Dagon asks Oberon why he stopped attacking
+                - Oberon says that they need to figure out what the Giants are doing
+                - Then he attacks Giant 1 but misses
+                - Second attack hits for 5 damage
+                - Uses Patient Defence (1 ki point) to Dodge
+            - Giant 1 moves back to the whole
+                - Dagon misses his opportunity attack
+                - Pulls the giant metallic object from the ground and drops it onto the ground
+                    - Thor sees that it is a very large thick heavy "C" shaped object
+            - Thor charges in (on his Steed)
+                - Steed uses Hooves attack on Giant 0 for 7 damage, Giant 0 saves on Trampling Charge
+                - Thor dismounts and misses two attacks
+            - Firebug 8 is asleep
+            - Firebug 9 is asleep
+            - * Carlor, Harix and Ghelryn join *
+            - Darz shoots his Slingshot at Giant 0 but misses
+            - Giant 0 attacks Thor
+                - First attack hits for 31 damage, knocking Thor unconscious
+                - Second attack misses
+            - Oberon dashes in
+            - Ghelryn attack Giant 0
+                - First attack hits for 16 damage
+                - Second attack misses (nat 1)
+            - Dagon attacks Giant 0 but misses
+                - Second attack misses
+                - Bonus attack misses
+            - Carlor casts Hunter's Mark on Giant 0
+                - Shoots 2 Arrows but they both miss
+            - Giant 1 attacks Thor's Steed for 55 damage (nat 20) killing it
+            - Thor fails a Death Saving Throw
+            - Harix asks the Giants what they are doing (in Giant)
+                - Giant 0 says "Lay down your weapons and we'll leave"
+                - Harix drops his weapon and takes a knee
+            - Darz attacks Giant 0 but misses
+            - Giant 0 tells Giant 1 it's time to go
+                - Drops his Greatsword, grabs the metallic object, and starts to leave
+                - Ghelryn misses his opportunity attack
+                - Dagon hits with his opportunity attack for 10 damage
+                - Darz hits with his opportunity attack for 14 damage
+            - Oberon heals Thor for 6hp via Healing Word
+                - Tells the group that the Giants have agreed to leave if we stand down
+            - Ghelryn yells "Never!"
+                - Misses 2 attacks on Giant 0
+            - Dagon flies further into the air
+                - Sees that the the object the Giants are carrying looks to have at one point been a ring, but it is broken
+                - The metal is Atomentine
+            - Carlor moves off to the side (dragging his Glaive) and kneels
+            - Giant 1 attacks Ghelryn
+                - Both attacks hit for 55 damage knocking Ghelryn unconscious
+            - Firebug 8 is asleep
+            - Firebug 9 is asleep
+            - Darz tries to stabilize Darathra but finds out that she is dead
+                - Then tries to stabilize Ghelryn, can't find a pulse (but roll was bad)
+            - Giant 0 moves away
+            - Oberon moves to Darathra and plays his Bagpipes
+            - Dagon loots Darathra's corpse
+                - Takes:
+                    - Key to the chest
+                    - Greatsword
+                    - Heavy Crossbow
+                - Dagon then poops on Darathra
+            - Carlor eats a Goodberry
+            - Giant I follows Giant 0
+            - Thor follows the Giants to make sure they don't attack anybody
+            - Firebug 8 is asleep
+            - Firebug 9 is asleep
+            - Harix does nothing (asks the Giants not to burn/damage anything else)
+            - Darz tries to stabilize Ghelryn but fails
+            - Giant 0 moves further away
+            - Oberon continues to play the bagpipes
+            - Dagon flies towards the Market Square Tower
+            - Carlor eats a Goodberry
+            - Giant 1 attacks Thor
+                - Both attacks miss
+            - Thor disengages, steps back and takes a knee
+            - Firebug 8 is asleep
+            - Firebug 9 is asleep
+            - Harix does nothing
+            - Darz heads to his house and recovers valuables
+            - Giant 0 countinues to leave
+            - Oberon continues to guide the souls
+            - Dagon enters the Market Square Tower
+                - Finds 1 ration in the basement
+                - Finds his gear on the main level
+            - Carlor eats a Goodberry
+            - Giant 1 walks up to Thor
+                - Kneels real close and grabs the Giant 0's Greatswor
+                - Chuckles at Thor then leaves
+            - Thor moves next to Carlor
+            - Firebug 8 is asleep
+            - Firebug 9 is asleep
+            - Harix does nothing
+            - Oberon blasts Firebug 8 and hits for 9 damage (nat 20), killing it
+                - Blasts blasts Firebug 9 for 10 damage (nat 20), killing it
+                - Starts making his way towards the Market Square
+            - Carlor asks Giant 1 why they attacked this town
+                - Giant 1 does not respond
+            - Giant 1 follows Giant 0, patting Harix on the head as he goes by
+            - Battle over
+        - Narth & Caylen at The Talking Troll
+            - Caylen is screaming "FIRE!"
+            - Narth shoots a bolt at Firebug 3, hitting for 4 damage
+            - Firebug 3 moves towards Narth
+            - Narth shoots a bolt at Firebug 3, hitting for 4 damage
+            - Firebug 3 misses Narth
+            - Narth misses Firebug 3
+                - Disengages and runs back
+            - Firebug 3 misses Caylen
+            - Narth shoots a Bolt at Firebug 3 killing it with 6 damage
+                - Firebug 3 explodes, killing Caylen
+                - Narth dashes in towards the fire
+            - Narth starts trying to put out the fire
+            - Narth puts out the fire! (nat 20)
+            - * Narth is no longer controlled us *
+    - Post Battle
+        - Cart & Coin, Othovir's Harness Shop, and several houses are burnt to the ground
+        - Carlor grabs his weapons and casts Pass Without Trace
+        - Thor & Carlor follow
+            - Giant 1 tells Giant 0 to drop the metallic object
+            - Giant 1 passes Giant 0 her Greatsword
+            - The Giants sheathe their swords
+            - See really large rod on Giant 0's back, similar to the other metallic object
+            - Thor trips over himself and makes a huge ruckus, the Giants spot Carlor & Thor
+            - Combat Begins!
+                - Carlor casts Longstrider on himself and dashes South
+                - Thor dashes towards the Triboar
+                - Giant 1 throws a Boulder at Thor hitting for 37 damage
+                    - Thor is knocked unconscious
+                - Giant 0 does nothing
+                - Carlor continues to dash away
+                - Thor fails a Death Saving Throw
+                - Giant 1 turns around and continues to walk away
+                - Battle ends
+            - Carlor runs to Thor
+            - Thor succeeds a Death Saving Throw
+            - Carlor gives Thor a Goodberry, bringing him back to consciousness
+        - Dagon searches Darathra's quarters in the Market Square Tower
+            - In a footlocker, finds
+                - Very fancy black leather corset
+                - Black leather whip
+                - Ropes
+            - In an armoire, find an Elegant Dress
+        - Harix & Oberon make their way to The Talking Troll
+            - Oberon plays the bagpipes to Caylen's corpse
+            - Assesses the damage to be about 35gp
+            - They sit and have a beer
+            - Harix offers Oberon 35gp for 35% & free drinks (along with his carpentry for free)
+            - Skrillis returns from the West
+            - Oberon casts Speak With Animals as a ritual to talk with Skrillix
+                - Oberon asks Skrillix where he went
+                - Skrillix says he went to find Techno, says he was trapped with a house
+    - At The Talking Troll (everybody is back)
+        - Take a short rest
+        - Oberon casts Speak With Animals as a ritual
+            - Asks Skrillix to lead us to Techno
+        - Group follow Skrilix
+        - Skrillix says Techno is underground
+        - Carlor can't track Techno
+        - Dagon knocks on the door to The Six Windows
+            - Tolmera says she didn't see any Wood Elves
+            - Tolmera charges Dagon 2gp so he can enter
+            - Dagon gives her 5gp extra and asks if there have been Wood Elves, she takes it and says no
+        - Skrillix says that "the mouse" told him that Techno was underground
+        - Oberon asks Skrillix to find a mouse
+        - Carlor cannot find any cave entrances
+        - Dagon catches a squirrel and brings it to Oberon
+            - Oberon convinces the squirrel to investigate the hole
+            - Dagon ties a rope around the squirrel and chucks it in the shitter
+            - Pulls it out, it didn't see anything because it was terrified of the shitter
+        - Dagon lights a fire in the shitter
+        - Tolmera is upset, Dagon has to restrain her
+        - Oberon and Thor enter The Six Windows
+            - Oberon's Detect Magic doesn't find anything
+            - Thor & Oberon search the building, find markings on the floor in the pantry
+            - Thor pulls on the shelf in the pantry, and find a starcase behind it
+            - Gather the rest of the group, and we head down the tunnel
+            - Dagon questions Tolmera, she appears to be lying, he knocks her out
+            - We walk 60ft down the stairwell, into a nice room
+            - There is a terrible feces-like smell
+            - In the next room, we see multiple sets of glowing eyes and hear growling
+            - Also hear coughing and moaning
+            - Dagon advances and tries to light up the room better
+            - See jail cells all along the walls
+                - Techno is in one jail cell, and there are tigers in the other cells
