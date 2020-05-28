@@ -1,0 +1,191 @@
+# DND day 16
+Attendees: Carlor, Dagon, Harix, Oberon, Thor
+
+- (continue in Six Windows basement with tigers Techno)
+    - In the basement, Oberon's Mage Hand & lantern are lighting the room
+        - The doors on the cages have locks
+        - Dagon searches around for keys and doesn't find any
+        - All of the sudden, a tiger escapes from its cage
+        - Combat begins!
+            - Oberon blasts Tiger 1 for 6 damage
+                - Second blast hits for another 5 damage
+                - Uses Bardic Inspiration on Thor
+            - Tiger 1 misses Oberon
+            - Thor uses Breath Weapon
+                - Hits
+                    - Tiger 2 for 7 damage
+                    - Tiger 3 for 7 damage
+            - Tiger 2 moves
+            - Tiger 3 moves
+            - Tiger 4 moves
+            - Dagon hits Tiger 1 for 11 damage (nat 20)
+                - Second attack misses
+                - Bonus attack hits for 8 damage
+            - Harix hits Tiger 1 for 10 damage
+                - Second attack hits for 9 damage (looking hurt)
+            - Tiger 6 moves
+                - Carlor misses an opportunity attack
+                - Misses Carlor
+            - Tiger 7 moves
+            - Carlor hits Tiger 6 for 11 damage
+                - Second attack hits for 6 damage
+                - Bonus attack hits for 17 damage (nat 20 + Colossus Slayer)
+            - Oberon attacks Tiger 1 for 5 damage, killing it
+                - Uses Bardic Inspiration on Harix
+            - Thor misses Tiger 4
+                - Second attack hits for 11 damage
+            - Tiger 2 moves
+            - Tiger 3 moves
+            - Tiger 4 misses Thor
+            - Dagon moves
+                - Tiger 6 hits Dagon with an opportunity attack for 9 damage
+                - Dagon fails to pick the lock on Techno's cage
+                - Uses Patient Defence (1 ki point)
+            - Tiger 5 moves
+            - Harix hits Tiger 4 for 12 damage
+                - Second attack misses
+            - Tiger 6 hits Carlor for 9 damage
+            - Tiger 7 moves
+            - Carlor hits Tiger 6 for 12 damage (with Colosus Slayer)
+                - Second attack misses
+                - Bonus attack hits for 5 damage
+            - Oberon blasts hits Tiger 6 for 1 damage, killing it
+                - Second blast hits Tiger 2 for 5 damage
+            - Thor hits Tiger 4 for 7 damage
+                - Second attack hits for 7 damage
+                - Casts Channel Divinity: Vow of Enmity on Tiger 2
+            - Tiger 2 moves
+                - Carlor hits an opportunity attack for 15 damage (with Colossus Slayer)
+                - Tiger 2 misses Dagon
+            - Tiger 3 misses Thor
+            - Tiger 4 misses Thor
+            - Dagon yells at Techno but gets no response
+                - Hits Tiger 2 for 6 damage
+                - Second attack misses
+                - Moves
+                    - Tiger 2 misses an opportunity attack
+            - Tiger 5 misses Carlor
+            - Harix hits Tiger 4 for 6 damage
+                - Second attack hits 12 damage, killing it
+            - Tiger 7 moves
+            - Carlor hits Tiger 5 for 14
+                - Second attack hits for 17 damage (with Colossus Slayer)
+                - Bonus attack hits for 7 damage
+            - Oberon blasts Tiger 2 for 12 damage (nat 20)
+                - Second blast hits for 14 damage (nat 20 again!!), killing it
+                - Uses bonus action to yell "Did you guys see that??"
+            - Thor hits Tiger 3 for 14 damage
+                - Second attacks hits for 12 damage
+            - Tiger 2 hits Thor for 13 damage
+            - Tiger 3 misses Thor
+            - Dagon misses Tiger 7
+                - Second attack hits for 11 damage (nat 20)
+                - Bonus attack hits for 6 damage
+            - Harix hits Tiger 3 for 12 damage (nat 20)
+                - Second attack hits for 7 damage, killing it
+            - Tiger 7 misses Dagon
+            - Carlor hits Tiger 2 for 14 damage (with Colossus Slayer)
+                - Second attack hits for 6 damage, killing it
+            - * a flash of blue light comes out from Techno's cage *
+            - Techno misses Tiger 7 with Frostbite
+            - Oberon blasts Tiger 7 for 8 damage
+                - Second blast hits for 2 damage
+            - Thor hits Tiger 7 for 8 damage
+                - Second attack hits for 9 damage
+                - Uses Devine Smite for 12 damage, killing it
+        - Thor uses a crowbar but the door doesn't open
+        - Dagon uses Fists of Unbroken Air on Tiger 7's body, moving it back (2 ki points)
+        - Dagon uses a healing potion on Techno, it heals him for 10hp but he doesn't regain full consciousness 
+        - Carlor realizes that the Tigers are Sabertoothed Tigers
+            - Starts removing the pelts from the Tigers
+        - Harix can't find any hidden switches
+        - Dagon, Harix & Thor go to bring Tolmera
+        - Oberon isn't able to detect any magic (casted as ritual)
+        - Dagon can't find anything helpful on Tolmera (there are keys, but not for the cage)
+        - Tolmera tells us where the key is (on Tiger 7)
+        - Oberon finds bones in the corner of a cage
+        - Thor, Oberon & Dagon head upstairs with Techno and Tolmera
+        - Harix & Thor stay back to skin the Tigers
+            - Get 7 pelts & 14 saber teeth
+    - Six Windows main level (Thor, Oberon & Dagon)
+        - Thor checks Techno and thinks he may be afflicted by a disease/illness
+        - Dagon forces Tolmera to give him her money
+            - 10 silver pieces
+            - 20 copper pieces
+        - Thor takes Techno upstairs and puts him in a bed
+        - Dagon & Oberon take Tolmera to the Market Sqaure
+    - At the Market Square (Dagon & Oberon)
+        - The guards are in the Market Square, covered in blood, one is injurred, have just come back from fighting orcs
+        - Oberon gives them a summary, 3 leave to the campground to see the battle scene
+        - The guards are convinced by Oberon (29 persuasion roll), 3 return from the campground and back up the story
+        - Oberon takes 2 of the guards to Six Windows to show them the situation
+        - Albert (head guard) locks up Tolmera
+        - Back in the Six Windows basement
+            - Oberon & the 2 guards arrive
+            - A guard picks up the bones, but they come alive and attacks a guard, and Oberon for 1 damage, then collpases back into a pile of bones
+            - They try to pick up the bones again, and the same thing happens
+            - Guards decide to leave the bones and head back to the Market Square
+        - When Oberon & the guards return, Albert charges Tolmera for the murder of her husband
+        - The guards ask Oberon to inform the brothers of Mirack (Tolmera's husband) of what has happened
+            - After the guys talk to Mirack's brothers, they head back to Six Windows
+                - This time around, the skeleton doesn't attack when it reanimates
+                - The brothers are able to confirm the identity as the skeleton is missing a toe, similar to Mirack
+                - One of the brothers picks up the bones (it doesn't reanimate) and take them
+                - Oberon & Thor help the brothers bury the bones and to perform a ceremony
+                - The brothers give Oberon Mirack's wooden walking stick
+                - Dagon gives the brothers the keys to Six Windows
+    - Back at The Talking Troll (everybody)
+        - Harix & Carlor setup the hides to tan
+        - Carlor converts the Sabertooth teeth into mugs (takes a long time, happens over a few days)
+            - Gives each member of the party one, and then The Talking Troll
+        - Dagon puts on Daratha's fancy clothes (corset under the dress) and heads to the Everwyvern House
+            - The guards reject Dagon because they are on lockdown
+            - Dagon sleeps in a nearby tree with only Daratha's corset
+    - Next day at The Talking Troll (long rest)
+        - Thor uses Lay on Hands to cure Techno
+        - Techno can't remember anything past the night of drinking on the pubcrawl
+        - Thor is having a drink
+        - Harix is tanning the hides
+        - Dagon leaves to check on Darz
+            - Dagon pays Darz 100gp for having freed him from the stockades
+            - Darz mentions that there is a Weevil character up North at Zanthral's Keep in Mirabar with a 5000gp reward
+            - Darz trains Dagon how to use Thieves Tools (5 days)
+        - Oberon casts Detect Magic as a ritual
+            - Identifies the stick to be the Staff of Adder
+            - Gives the staff to Techno
+        - Carlor heads to Uldinath's Arms
+            - Grabs the Oberon's lantern at Six Windows
+            - Glaive will only be ready in a day
+        - Dagon heads to The Lion's Share
+            - Narth gives Thieves Tools and 100gp in exchange for bringing his horse & cart of supplies to Nonar's Hold (10 days East, group can keep the horse & cart)
+        - Calor, Harix & Oberon spend the rest of the day doing work The Talking Troll
+        - In the evening Oberon writes a letter to his temple
+        - Dagon returns at night and tells the group about the Weevil & Narth's offer
+            - Group agrees to go after the reward
+        - Group puts Othovir in charge of the hides
+    - Next day
+        - Dagon trains with Darz
+        - Carlor works at The Talking Troll & periodically creeps on Triboar Travelers
+        - Harix works at The Talking Troll
+        - Thor works at The Talking Troll
+        - Oberon works at The Talking Troll
+    - Next day
+        - Carlor works at The Talking Troll & periodically creeps on Triboar Travelers
+            - Also gets Oni's Glaive from Uldinath's Arms
+                - Has been altered so it can be unscrewed to be shortened by half
+                - Has also been bored out to make it lighter (but potentially weaker)
+        - Harix works at The Talking Troll
+        - Thor works at The Talking Troll
+        - Oberon talks to Othovir
+            - Othovir no longer wants to take the lead on The Talking Troll
+            - Othovir offers to tan the hides for free and also tells us about the Margaster family stash
+                - Stash is located in the family's 3-story tower in Silvermoon (East)
+                - Oberon pursuades Othovir to reveal that the family is his own, whom he has left
+        - Oberon pays Narth 1 silver piece to send his letter
+            - Narth offers an additional 100gp (200gp total) to deliver the goods
+            - Oberon outright refuses and Narth tears up the letter
+        - On the way to training with Darz, Dagon stops at The Lion's Share
+            - Stops at The Lion's Share to sell weapons
+            - Narth notices that the weapons are Darathra's tries to confiscate them
+            - Dagon tries to intimidate Narth by starting a fire, and Narth runs towards the guards
+            - Dagon ties up Narth & Alystra, and puts them into a closet, puts out the fire, and then heads back to The Talking Troll
