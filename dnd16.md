@@ -149,7 +149,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor
         - Dagon leaves to check on Darz
             - Dagon pays Darz 100gp for having freed him from the stockades
             - Darz mentions that there is a Weevil character up North at Zanthral's Keep in Mirabar with a 5000gp reward
-            - Darz trains Dagon how to use Thieves Tools (5 days)
+            - Darz agrees to train Dagon how to use Thieves Tools (5 days, 4 days if Dagon gets Thieves Tools)
         - Oberon casts Detect Magic as a ritual
             - Identifies the stick to be the Staff of Adder
             - Gives the staff to Techno
@@ -182,6 +182,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor
                 - Stash is located in the family's 3-story tower in Silvermoon (East)
                 - Oberon pursuades Othovir to reveal that the family is his own, whom he has left
         - Oberon pays Narth 1 silver piece to send his letter
+            - Narth says the Triboar Travelers charge too much to deliver things
             - Narth offers an additional 100gp (200gp total) to deliver the goods
             - Oberon outright refuses and Narth tears up the letter
         - On the way to training with Darz, Dagon stops at The Lion's Share
