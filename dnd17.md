@@ -1,0 +1,79 @@
+# DND day 17
+Attendees: Carlor, Harix, Oberon, Thor
+
+- (continued after Dagon tied up Alystra & Narth and through them into a closet at the Lion's Share)
+- At Triboar Travelers (Oberon)
+    - Oberon meets the owner Urlum
+    - Oberon asks Urlum about Narth and tells him that Narth severely talked badly about them
+    - Urlum says that they would typically charge 600gp to take care of Narth's delivery
+- At The Talking Troll (everybody except Dagon)
+    - The group search for the 80gp Oberon gave Caylen
+        - Carlor breaks a floorboard, nothing under it
+        - Harix finds a sealed envelope in a drawer
+            - Harix is taken into a separate video chat with the DM to be told what is on the letter
+            - Harix hands Oberon the letter, and Oberon reads it out loud
+            - Caylen wrote a love poem to Oberon (he loved the oversized plum caboose)
+            - Oberon puts the letter away
+    - Oberon goes outside to bury Caylen
+        - Oberon & Carlor puke while trying to get near the rotting corpse
+        - Harix manages to find 5gp in his pocket
+        - Harix drags the body back behind the behind the outhouse
+        - Carlor & Thor dig a grave
+        - Harix runs inside the bar to disenfect his hands (and takes a swig)
+        - Oberon gives a Caylen a service, and then we fill in the grave
+        - Thor makes an oath to help Oberon's business
+        - Harix makes an oath that he will make sure no other man loves Oberon as much as Caylen did
+        - Suddenly, Oberon stares off into the distance and goes white as a ghost
+            - Thor shakes Oberon, he isn't responsive
+            - After about 30 seconds, Oberon snaps out of his trance
+            - Oberon says Caylen's ghost tried to talk to him
+            - Caylen's ghost didn't know what was going on
+            - Carlor runs back to The Talking Troll, not a fan of ghosts
+            - Oberon plays his bagpipes again to hopefully make sure the soul can go on
+- Back inside The Talking Troll
+    - Carlor continues to search, isn't able to find anything
+    - As Carlor, Techno & Thor go out in search of Dagon, Techno collapses
+        - As he gets up, Carlor notices that Techno is favouring his left leg
+        - Techno then falls again
+    - Carlor & Thor leave
+    - Othovir is at the bar, is getting quite drunk
+        - Oberon & Harix chat with him for awhile
+        - Othovir tells them that he knows Caylen was into the men
+        - Othovir also says that Caylen once mentioned a hidden cellar
+        - Oberon yells out to the entire bar that he's give 2 free beer to anyone who can find a hidden cellar
+        - Othovir suggests that a good spot for a hidden cellar would be behind the bar or in the back room
+        - In the back room, Othovir falls over and ends up hitting something that turns out to be a switch
+        - Down in the hidden cellar, finds a bunch of kegs
+        - Harix smashes a keg and it's empty
+        - The group checks the rest of the kegs and don't find much
+- Carlor & Thor leave to search for Dagon
+    - At Darz's tent, Darz says that Dagon didn't show up after lunch
+    - Try the Everwyvern House next, no luck there either
+    - Check out the Market Square Tower, no luck
+    - Check out Lion's Share to see Narth (Dagon was supposed to tell him yes/no about the delivery proposition)
+        - Walk in (door unlocked), dark inside, hear mumbling
+        - Carlor lights a Torch
+            - See Daratha's weapons, and some burn marks
+        - Thor & Carlor, follow the noises to an armoire
+        - Narth & Alystra are tied up in the armoire
+        - Thor unties them
+        - Narth tells us about what Dagon did
+        - Carlor convinces Narth that we'll deliver his good for free
+        - Thor also convinces Narth that we'll make a pit stop first
+        - Should send Narth a letter when we make the delivery
+- Back at the The Talking Troll
+    - Thor & Carlor fill the gang in on the news
+    - Most go to bed, Oberon stays to tend the bar
+    - Dagon appears at night, says he's been hiding out at Darz's
+    - Oberon fills Dagon in
+- Next day at The Talking Troll
+    - Carlor throws a beer stein at Dagon and tells him he dumb
+    - Dagon flies out towards Darz's
+        - Oberon follows and talks to Darz
+            - Darz is not interested in managing The Talking Troll
+            - Darz is planning to return to Waterdeep
+        - Dagon remains to train for the day
+    - Techno struggles down the stairs
+        - Says he's feeling a little better than yesterday but is still not fully recovered
+    - Carlor heads into the woods to search for spell components
+    - Thor & Harix work on The Talking Troll
