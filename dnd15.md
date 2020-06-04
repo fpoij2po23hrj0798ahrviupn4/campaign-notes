@@ -125,7 +125,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor
                 - Misses 2 attacks on Giant 0
             - Dagon flies further into the air
                 - Sees that the the object the Giants are carrying looks to have at one point been a ring, but it is broken
-                - The metal is Atomentine
+                - The metal is Adamantine
             - Carlor moves off to the side (dragging his Glaive) and kneels
             - Giant 1 attacks Ghelryn
                 - Both attacks hit for 55 damage knocking Ghelryn unconscious
