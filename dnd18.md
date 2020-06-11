@@ -1,0 +1,136 @@
+# DND day 18
+Attendees: Carlor, Dagon, Harix, Oberon, Jordie, Thor
+
+- (continued in Triboar, Carlor is in the woods, Techno, Thor, Oberon & Harix are at The Talking Troll, Dagon is at Darz's)
+    - Oberon & Thor go to Uldinath's Arms & buy 2x daggers for 8gp (split between Oberon & Thor)
+        - Uldinath's doesn't know of anyone who would be willing to run the The Talking Troll
+    - Oberon & Thor then go to Triboar Arms
+        - Nemith runs the place
+        - Oberon tried to sell The Talking Troll to him, he is going to take a look at it once the repairs are finished
+    - Back at The Talking Troll
+        - Oberon convinces Harix to lay of the booze for a bit so he can get the repairs done more quickly
+        - Oberon & Thor try to do the carpentry work while Harix sobers up, but they make a mess of things and Harix takes over
+        - Carlor & Dagon arrive at around 4pm
+            - As Carlor was walking past Triboar Travelers on the way back, he sees a number of carriages parked nearby, and a bunch of men are offloading the gear
+            - The gear appears to be casks, they look heavy/full
+            - A burlap sack falls off the cart and appears to have something living inside (they drag it into the building)
+        - Carlor fills in the group about what he saw at The Triboard Travelers
+    - Carlor, Oberon & Thor go to sneak around Triboar Travelers
+        - Carlor & Oberon sneak around while Thor & Skrillex take watch
+        - Weren't seeing anything, Oberon casts sleep on the people in the warehouse
+        - One falls asleep, Oberon then casts Hypnotic Pattern and manages to Charm all 3
+        - Oberon and Thor run in the building
+        - Thor uses his Crowbar to break open the padlock on one of the doors
+        - Carlor yelled out to Skrillex to get help
+        - Suddenly, a hooded black figure drops from the ceiling & takes a stab at Oberon
+            - First attack misses, second attack hits for 9 + 45 damage, knocking Oberon unconscious
+            - Combat begins!
+                - Oberon saves on a death saving throw
+                - Valken attacks Thor
+                    - First attack hits, second misses, for 5 + 28 damage
+                    - Yells at the minions to secure the master's room
+                - Carlor casts Hunter's Mark on Valken
+                    - First attack hits for 12 damage
+                    - Second attack hits for 34 damage
+                - B9 runs out of the building
+                - Thor casts Channel Divinity: Vow of Enmity on Valken
+                    - First attack hits for 22 damage (used Devine Smite)
+                    - Second attack hits for 23 damage (used Device Smite), killing Valken
+                - B7 runs out of the building
+                    - Carlor deals 15 damage via an opportunity attack
+                - B8 runs out of the building
+                - Oberon saves on a death saving throw
+                - Carlor moves Hunter's Mark to B7
+                    - Attacks B7 for 28 damage, killing him
+                    - Attacks B8 for 10 damage
+                - B9 runs out of sight
+                - Thor uses Lay on Hands to heal Oberon for 10hp
+                    - Walks into the door which was padlocked, sees a ton of kegs
+                - B8 runs out of sight
+                    - Carlor misses an opportunity attack
+                - Oberon follow Thor and ignites the room with Light cantrip
+                    - Searches for the burlap sack but doesn't find it
+                - * at this point Skrillex makes his way to The Talking Troll, doesn't manage to effectively communicate with the guys yet *
+                - Carlor moves Hunter's Mark to B9
+                    - First attack hits B8 for 12 damage
+                    - Second attack hits B9 for 18 damage
+                - B9 tries to run away
+                    - Carlor hits an opportunity strike for 16 damage, killing him
+                - Thor uses Lay on Hands to heal himself for 10hp
+                    - Lights his torch and continues to search the room
+                - B8 runs into the other house
+                - Oberon finds the burlap sack and opens it, it's full of somebody's equipment
+                - * back at The Talking Troll, Skrillex hisses & scratches at Techno, goes just out the doorway, and then looks back at the guys and continues to try and get their attention *
+                    - Harix follows Skrillex, Techno is too hurting to join
+                - Carlor kicks the door open and attacks B8
+                    - Hits for 13 damage, killing B8
+                    - Carlor then sees that there are 5 other guys plus Urlam inside
+                    - Attacks B5 for 20 damage
+                - Thor finds a burlap sack, opens it and finds a naked Dwarf inside
+                    - Dwarf jumps out and manages to grapple Thor to the ground
+                    - Thor tells him what's up, and he lets goes to find Jordie's gear
+                - B3 charges outside and shoots a bolt at Carlor
+                    - Hits for 10hp
+                - Jordie follows Thor around
+                - B2 ran outside
+                - B5 charges outside and shoots a bolt at Carlor but misses
+                    - Carlor takes an opportunity strike at B5 for 23 damage, killing him
+                - Oberon casts Healing Word on himself for 5hp
+                - Carlor moves Hunter's Mark onto B3
+                    - First attack hits for 29 damage
+                    - Second attack hits for 21 damage, killing him
+                - Urlam leaves the house and yells "What is this, stop the madness!"
+                - Thor runs out towards Oberon
+                    - Tell Oberon about Jordie
+                    - Oberon asks how Jordie got here
+                    - Jordie says he started something at a bar and he was then stuffed into a bag
+                    - Thor uses Cure Wounds to heal himself for 11hp
+                - Jordie grabs his gear from Oberon and charges outside
+                - B1 moves
+                - B4 moves
+                - B2 moves
+                - Oberon searches Valken, finds 2gp
+                    - Continues to move forward
+                    - Casts Bardic Inspiration on Jordie
+                - Carlor moves Hunter's Mark to Urlam
+                    - First attack misses
+                    - Second attack hits for 14 damage
+                - Urlam continues to yell
+                - B1 moves
+                - Thor dashes forward
+                - Jordie moves forward
+                    - Uses Rage
+                    - First attack on B1 hits for 15 damage
+                    - Second attack hits 16 damage, B1 is hurting
+                - B4 does nothing
+                - B2 misses Jordie
+                - Oberon moves forward and recognizes Urlam
+                    - Blasts B1 hitting for 7 damage
+                    - Second Blast misses
+                    - Yells out to Thor: "These guys are bad guys, do your thing"
+                - Carlor attacks B1 for 14 damage, killing him
+                    - Second attack hits Urlam for 17 damage, killing him
+                - Thor attacks B2 for 14 damage
+                    - Second attack hits for 17 damage (used Devine Smite)
+                - Skrillex flies to Oberon
+                - Jordie attacks B2 for 10 damage, killing him
+                    - Second attack hits B4 for 18 damage
+                - B4 hits Jordie for 4 damage
+                - Oberon casts 2nd level Shatter on B4 for 9 damage
+                - Carlor attacks B4 with 12 damage
+            - Post-combat
+                - Group searches the buildings & bodies
+                    - Carlor finds:
+                        - Really fancy robes
+                        - Black Pearl
+                    - Oberon & Thor finds:
+                        - 3gp and 16 silver pieces
+                        - Golden Zentram Ring (black network symbol, Oberon takes it)
+                        - Black Pearl (Thor takes it)
+                    - Jordie finds:
+                        - 5gp
+                        - Recognizes that the kegs are of his people, full of fine ales and wines, very valuable
+                            - There are about 40 kegs
+                - Carlor, Jordie & Harix head to The Talking Troll with a couple kegs
+                - Oberon & Thor head towards The Market Square Tower
+            - End of session, level up!
