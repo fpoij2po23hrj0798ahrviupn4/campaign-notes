@@ -130,7 +130,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Jordie, Thor
                     - Jordie finds:
                         - 5gp
                         - Recognizes that the kegs are of his people, full of fine ales and wines, very valuable
-                            - There are about 40 kegs
+                            - There are about 48 kegs
                 - Carlor, Jordie & Harix head to The Talking Troll with a couple kegs
                 - Oberon & Thor head towards The Market Square Tower
             - End of session, level up!

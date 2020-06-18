@@ -1,0 +1,77 @@
+# DND day 18
+Attendees: Carlor, Dagon, Harix, Oberon, Jordie, Thor
+
+- (continued after battle at Triboar Travelers)
+    - Carlor, Jordie & Harix head to The Talking Troll
+        - They start drinking from the kegs (rum & imperial stouts)
+        - Carlor gives the really fancy robes to Dagon
+        - Dagon & Carlor head to the Everwyvern house
+    - At the Everwyvern House
+        - Dagon tries to get in, Carlor stays behind and watches to see if he'll be able to get in
+        - Dagon attempts to give them 25 copper pieces instead of gold, and they raise the price to 50gp
+        - Dagon threatens the guards
+            - Combat begins
+                - Carlor pushes G1 back
+                - Dagon casts Hold Person on G2 and then flies into the building
+                    - Tries (but fails) to convince the guests that the 12 have eliminated The Black Network
+                    - Heads upstairs
+                - G2 is still paralyzed
+                - G1 tries to wake his buddy but it doesn't work
+                - Carlor holds an unarmed attack
+                - Dagon picks the lock on one of the locked doors
+                    - Finds a fancy bedroom inside
+                - G2 is still paralyzed
+                - G1 is still trying to help G1
+                - Carlor holds an unarmed attack
+                - Dagon goes in to the next door
+                    - Finds a Dwarf and an exotic dancer
+                    - Dagon tries to get the Dwarf to buy The Talking Troll
+                    - The Dwarf throws his glass at Dagon
+                    - Dagon catches the glass and throws it back at the Dwarf, knocking him out
+                    - Dagon loots the Dwarf's body, finds:
+                        - 8gp
+                    - Dagon then opens a sack in the corner of the room, finds:
+                        - 50gp
+                    - Dagon then stabilizes the Dwarf
+                - G2 is no longer paralyzed
+                - G1 is still tending to G2
+                - * G2 and G3 appear at the doorway where Dagon is *
+                - Carlor offers the guards 100gp to make up for Dagon's Dagonisms
+                - Dagon smashes the window & flies away
+                - The guards reject the moneys and tell Carlor to leave
+                - Carlor drops 10gp on the ground for the damages, and then runs away
+    - Oberon & Thor head to the Market Square Tower
+        - Don't manage to make a convincing argument, guards try to detain the them & they run away
+    - Back at The Talking Troll
+        - Dagon arrives first, tells Harix not to go to Everwyvern House, then grabs a drink
+        - Carlor gets Dagon to give him 10gp back for the episode at the Everwyvern House
+        - Carlor then heads outside to watch for guards
+        - Thor & Oberon show up and inform the gang of the news
+        - Carlor casts Goodberry & heals to full health
+        - Group barricades themselves into the building and take a long rest
+        - Dagon takes watch
+    - 45 minutes into the rest
+        - Guards knock on the door asking for the owner
+        - Oberon tells them that we are not moving from The Talking Troll until they complete their investigation, we will not be detained
+        - Guards are not intimidated, tell us we're under arrest
+        - Oberon retreats into the bar
+        - After some discussion, a comprimise is made where Jordie & Albert visit the Triboar Travelers
+            - Jordie manages to somewhat convince Alberta, they head back to The Talking Troll
+        - Oberon sends a round of drinks to the guards when they arrive
+        - Eventually the guards ask us to come outside
+        - Albert is satisfied with the evidence, gives the Smiling Dolphins a pass for now
+        - The group decides that the kegs will be shared with the village as part of a big post-giant celebration
+        - Oberon offers his services to help out with the burial of the Triboar Traveler members
+        - Long rest
+- Next morning
+    - Dagon heads to Darz's for training
+    - Oberon & Thor helps out with the burials
+    - Harix & Jordie move the kegs
+    - Carlor brings a keg over to the Everwyvern House as a peace offering
+        - Gets the cart & horse from Narth on the way back
+    - Nemith visits The Talking Troll
+        - Oberon tries to convince him to buy
+        - Nemith seems willing to play 175gp + 15gp per leftover keg, but will decide after the party
+    - Dagon goes to Urgula's to buy their largest sheet/bedroll
+        - Uses their ink & quill to write an advertisement on it (she charges 2gp)
+            - Spends the rest of the day flying the sign around like a blimp
