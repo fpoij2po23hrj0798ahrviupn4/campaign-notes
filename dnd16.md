@@ -179,7 +179,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor
         - Oberon talks to Othovir
             - Othovir no longer wants to take the lead on The Talking Troll
             - Othovir offers to tan the hides for free and also tells us about the Margaster family stash
-                - Stash is located in the family's 3-story tower in Silvermoon (East)
+                - Stash is located in the family's 3-story tower in Silverymoon (East)
                 - Oberon pursuades Othovir to reveal that the family is his own, whom he has left
         - Oberon pays Narth 1 silver piece to send his letter
             - Narth says the Triboar Travelers charge too much to deliver things

@@ -1,5 +1,5 @@
-# DND day 18
-Attendees: Carlor, Dagon, Harix, Oberon, Jordie, Thor
+# DND day 19
+Attendees: Carlor, Dagon, Harix, Oberon, Thor
 
 - (continued after battle at Triboar Travelers)
     - Carlor, Jordie & Harix head to The Talking Troll
@@ -72,6 +72,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Jordie, Thor
     - Nemith visits The Talking Troll
         - Oberon tries to convince him to buy
         - Nemith seems willing to play 175gp + 15gp per leftover keg, but will decide after the party
-    - Dagon goes to Urgula's to buy their largest sheet/bedroll
+    - Dagon trains with Darz (gets his proficiency)
+        - Once he finishes, he goes to Urgula's to buy their largest sheet/bedroll
         - Uses their ink & quill to write an advertisement on it (she charges 2gp)
             - Spends the rest of the day flying the sign around like a blimp

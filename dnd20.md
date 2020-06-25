@@ -1,0 +1,85 @@
+# DND day 20
+Attendees: Carlor, Dagon, Harix, Oberon, Thor
+
+- (continued midday - big party at The Talking Troll tonight)
+    - Party at The Talking Troll
+        - Really good turn out
+        - Nemith shows up at around 11pm, with his bartender Jaina
+        - Dagon sneaks away for a bit and heads towards The Lion's Advantage
+            - Isn't able to pick the lock, but is able to get in through a window
+            - Doesn't find anything valuable
+            - Draws a smiling dolphin on a desk
+        - Nemith offers to buy for 150gp & 10gp per leftover barrel
+            - Harix & Oberon counter with 175gp & 12gp
+        - Urgula says that the Imperial Stout is of her people (Mountain Dwarves, from a mining community)
+            - Knows of a man named Harthos who used to wield a large axe
+                - He is said to be able to take down a Giant
+                - Lives in Zemorvin Hall (Northwest of Silvery Moon)
+        - Zindra arrives
+            - She knows that Zanthar's Keep is South of Mirabar, is an 12 day
+            - Longsaddle is first, about 12 days out
+            - Mirabar is one of the richer towns in the area
+            - Carlor & Zindra head upstair to make the boom boom
+        - Othovir strikes up a convo with Harix
+            - Harix says he is actually from Northwest of the Isle of Newf (he had fought a war on the Isle)
+            - Othovir says the pelts will be another week or two
+        - Nemith offers 165gp & 12gp, which Harix & Oberon accept
+            - Harix & Oberon decide to divy the 165gp amongst themselves, and split the keg money with the group
+        - Darz appears and grabs a pint of ale
+            - Dagon asks who is offering the 5000gp reward
+            - Darz says it is The Lord's Alliance, and that they are all over
+        - Techno doesn't think he'll be able to walk the journey, says he'll need a horse
+            - Group decides to leave Techno behind
+        - Thor, Dagon & Carlor go to Triboar Travelers to search for horses 
+            - Dagon finds horses in a field
+            - Group plans to come back in the morning
+        - At the end of the night, there are 16 kegs left (1 kegs of ale & rum each were placed on the cart)
+            - Nemith pays 165gp for The Talking Troll (80gp for Harix, 85gp for Oberon), and 192gp for the kegs
+                - 80gp + 32gp = 112gp for Harix
+                - 85gp + 32gp = 112gp for Oberon
+                - 32gp for Carlor
+                - 32gp for Dagon
+                    - Tries to convince Oberon to keep the 32gp and tell him what deal he made with Daratha, but it doesn't work
+                - 32gp for Jordie
+                - 32gp for Thor
+        - Long rest @ The Talking Troll
+    - Next Day
+        - Group packs up and heads to Happy Horse Ranch
+            - Decide to trade our mule in, and buy 5 riding horses & saddles (345gp total, 57.5gp each)
+        - Oberon writes a letter to Albert informing him of the sale of the bar, where the booze is, and that Nemith is planning to charge for it
+        - Zindra pulls Carlor aside
+            - She has found out that Snail of Dagerford has taken over Nightstone again
+            - Carlor says his goodbyes and then relays this information to the group
+        - Dagon talks to Nemith and gives him 1gp to send a letter
+            - Tells Snail that we killed his entire crew in Triboar, and tells him where we're going
+    - On the road again for 4 days, setup camp each night
+        - Carlor casts 2x Goodberries every night
+        - Oberon casts Tiny Hut every night
+    - On the 5th night, Jordie sees about 4-5 figures on horseback
+        - Carlor casts Pass Without Trace
+        - Everybody hides in the Tiny hut
+        - The figures continue in the direction of the hut, there are 5
+        - They yell "Who's in there, come on out"
+            - Dagon yells back "Who's out there, come on in"
+            - They do not claim to be from The Black Network
+            - Dagon flies up in the air and asks the group to leave
+            - The group says we need to pay a tax of around 200gp
+            - Carlor sneaks out of the hut, casts Hunter's Mark B4, then approaches the flank
+            - Carlor attacks and kills the B4 with 31 damage
+                - Combat begins!
+                    - B6 misses Thor
+                    - B5 hits Thor for 10 damage
+                    - Boris (Thor's Steed) attacks B5 for 14 damage
+                        - Thor casts Hunter's Mark on B6
+                            - Attacks B5 for 7 damage, killing him
+                            - Second attack misses B6
+                    - Carlor moves Hunter's Mark onto A1
+                        - First attack hits for 13 damage
+                        - Second attack misses
+                    - Dagon uses Fangs of the Fire Snake (1 ki point)
+                        - First attack misses A1
+                        - Second attack hits A1 for 5 damage
+                        - Bonus attack hits A1 for 19 damage (1 ki point spent for extra 1d10 via Fangs)
+                    - A1 throws 2 daggers at Dagon, 1 misses, the other is reduced to 0 damage
+                        - Dagon uses Deflect Missiles Attack to deal 8 damage
+                        - A1 then yells "Light 'em up boys"
