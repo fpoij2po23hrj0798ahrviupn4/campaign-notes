@@ -76,7 +76,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor
                     - Carlor moves Hunter's Mark onto A1
                         - First attack hits for 13 damage
                         - Second attack misses
-                    - Dagon uses Fangs of the Fire Snake (1 ki point)
+                    - Dagon uses Fangs of the Fire Snake (2 ki points)
                         - First attack misses A1
                         - Second attack hits A1 for 5 damage
                         - Bonus attack hits A1 for 19 damage (1 ki point spent for extra 1d10 via Fangs)

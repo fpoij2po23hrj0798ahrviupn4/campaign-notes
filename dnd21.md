@@ -1,0 +1,106 @@
+# DND day 20
+Attendees: Carlor, Dagon, Oberon
+
+- (continued during battle with toll-collectors on trail, 5th night since Triboar)
+    - Battle:
+        - B3 misses a crossbow attack on Dagon
+        - Oberon yells "did somebody say light 'em up?"
+            - Casts Fireball
+                - All the horses die
+                - B6 takes 17 damage and falls prone because the horse died
+                - B3 takes 17 damage and falls prone because the horse died
+                - B2 takes 34 damage and dies
+                - A takes 34 damage and falls prone because the horse died
+            - Casts Bardic Inspiration on Dagon
+        - Harix turn skipped (not present tonight)
+        - B6 misses Carlor
+        - A bolt comes from NNW, hitting Dagon for 4 damage
+        - A 2nd bolt comes from NW, missing Carlor
+        - A 3nd bolt comes from SSW, missing Carlor
+        - Thor & Boris turns skipped (not present tonight)
+        - Carlor hits B6 for 15 damage, killing it
+            - Uses second attack to kill A with 30 damage (nat 20)
+        - Dagon kills B3 with 9 damage
+            - Flies around a bit and hears some moving near a tree to the South
+            - As he tries to land in a tree, a scimitar hits him for 5 damage
+            - Dagon is able to see that the scimitar came from B7 in the same tree
+            - Dagon uses his second attack and deals 5 damage to B7
+            - Bonus attack hits for 6 more damage
+        - An arrow comes from directly above Carlor, hitting for 5 damage 
+        - All of the sudden a humanoid figure (B11) jumps from a tree and tries to land on Boris
+            - Rolls a nat 1, taking 1 damage and being knocked prone
+        - B7 hits Dagon for 14 damage (nat 20)
+        - Oberon blasts B7 for 8 damage
+            - 2nd blast kills B7 with 10 damage
+        - Harix turn skipped (not present tonight)
+        - A bolt misses Dagon
+        - A 2nd bolt comes from NW, missing Carlor
+        - A 3rd bolt comes from W, hitting Carlor for 4 damage
+        - A 4th bolt comes from directly below Dagon but misses
+        - Thor & Boris turns skipped (not present tonight)
+        - Carlor jumps up the ridge
+            - Sees B12 and moves Hunter's Mark onto it
+            - Hits for 19 damage
+            - Misses 2nd attack (nat 1)
+        - Dagon attacks B11 for 8 damage
+            - 2nd attack hits for 7 damage
+            - Bonus attack hits for 15 damage, killing B11 (nat 20)
+        - B12 hits Carlor for 8 damage
+            - Carlor loses his concentration on Hunter's Mark
+        - Oberon casts Invisibility on himself and moves into the woods to try and find more of the bad guys
+            - Manages to hear some rustling in nearby, but remains invisible for this turn
+        - Harix turn skipped (not present tonight)
+        - A bolt comes from the W, hitting Carlor for 14 damage,
+        - A 2nd bolt comes from the W, missing Carlor
+        - * no 3rd bolt this time *
+        - Thor & Boris turns skipped (not present tonight)
+        - Carlor kills B12 with 22 damage
+            - Moves towards the W and sees B13 up a tree
+            - Casts Hunter's Mark on B13
+        - Dagon flies in and sees B13
+            - Attack hits and deals 7 damage
+            - 2nd attack hits for 7 damage
+            - 3rd attack hits for 6 damage, killing B13
+        - Oberon casts Fireball, catching several trees on fire and killing on humanoid
+        - A bolt comes from the W, hitting Dagon for 1 damage (nat 20, but damage reduced via Deflect Missiles)
+            - Oberon sees a humanoid (B10) get down from a flaming tree
+        - A 2nd bolt comes from the S, missing Dagon
+        - Carlor runs to the South, sees B9
+            - Moves Hunter's Mark onto B9
+            - First attack hits for 15 damage
+            - Second attack hits for 19 damage, killing B9
+        - Dagon flies up next to Oberon and spots B10
+            - Attack hits for 11 damage (nat 20)
+            - Second attack hits for 10 damage (Bardic Inspiration used)
+        - Combat ends
+    - Post combat
+        - Loot the bodies, find:
+            - 78gp (to Oberon)
+            - 2 amber (worth 100gp each, Dagon & Carlor)
+            - Dagon & Carlor each give 10gp to Oberon to round it out
+        - Take a short rest
+    - Continue to head North on the 6th day since Triboar
+        - Still nothing in sight after 8 hours
+        - Dagon flies up 100ft to looks for landmarks, sees a potential town (houses) up maybe a couple hours ahead
+        - Continue on, make it to a village
+        - About halfway through the down we make it to The Gilded Horseshoe which appears to be an inn
+        - In The Gilded Horseshoe
+            - They say we're about 5-6 days from Mirabar on horseback
+            - Zanthar's Keep is only about 4 days, is well fortified
+                - Is mostly occupied by Lord's Alliance militia (maybe 75%)
+            - The Black Box is the local trading post
+            - Dagon finds the wanted poster, appears to be a male Dwarf, named Warvil Huskin, known as "The Weavil"
+                - The Weavil is wanted for theft & murder
+                - Is wanted for "capture"
+            - Go to the Inn & take a long rest (5gp each for Oberon, Dagon & Carlor)
+            - Take a long rest (Carlor casts 2x Goodberries before going to sleep)
+    - Wake up in Longsaddle on the 7th day since Triboar
+        - Head to The Black Box
+            - A half-elf named Jacinda is operating the shop
+                - Dagon is able to sell Daratha's gear & the Black Pearl from the Oni battle for 720gp
+                - Dagon buys a Healing Potion for 50gp
+                - Jacinda says the "Harples's" might be able to enchant weapons
+            - Head to visit the Harples' Mansion
+                - They seem confused that we thought they sold weapons or enchanted weapons
+                - The masters are away at the moment
+                - Dagon tries to intimidate the butler, gets throat punched for 1 damage
