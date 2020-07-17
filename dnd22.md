@@ -1,0 +1,115 @@
+# DND day 21
+Attendees: Carlor, Dagon, Harix, Oberon
+
+- (continued at the Harples' Mansion after the butler punched Dagon)
+    - Continue the journey to Mirabar
+        - On the 3rd day
+            - Dagon sees a cloud that looks like a dragon
+            - See a 30ft wall encompassing a keep
+                - Wall is pretty big, could probably walk around the top of the wall
+            - Continue to approach, see some mounted crossbows on the wall, and guards holding big crossbows on the wall
+                - Guards don't seem bothered by our approach
+                - This may be Zanthar's Keep
+                - We tell the guards that we're looking for the weavil, they seem happy about this and invite us in
+            - In Zanthar's keep
+                - See:
+                    - Trading post = The Black Boar's Trading Post
+                    - Inn = The Falling Orc Inn
+                        - Appears to have been scorched at some point, but was rebuilt
+                - Dagon asks a guard what they are guarding
+                    - He says it's an extension of Mirabar's defense, it basically an outpost
+                - Go to The Black Boar
+                    - Teca & Meca, male and female halfling operate the post
+                        - Had a Tanned Bag of Tricks for 1200gp (bought from Narth)
+                        - Bracers of Defence for 1800gp (bought from the Mage who had Gargoyles in Triboar)
+                            - Wants 20% deposit to hold for a week, 40% to hold for 2 weeks -- half refundable
+                        - Purchases/sales:
+                            - Dagon pays Carlor 500gp for his Black Pearl
+                            - Carlor pays 400gp for a Breastplate
+                            - Carlor sells his Studded Leather for 40gp
+                - Go to The Falling Orc Inn for luncho
+                    - A large Half-Orc lady is working (Arzastra)
+                    - We all eat for 3 silver pieces each
+                    - Arzastra invites Harix to her bed quarters
+                    - We all pay 13 silver each to stay the night
+                - We go to visit the Narbec, the head of the keep
+                    - On the walls of the keep, we see the mounted crossbows and they seem to take 4ft long bolts!
+                    - Narbec says the mounted crossbows haven't been used recently
+                    - Narbec says that the weavil murdered a whole family up in Mirabar and has stolen from many people in the area
+                        - Doesn't know much more, heard that he might have been around the Mirabar Mines recently
+                    - He says he's heard of the Giatns, says Brynschander was hit somewhat recently
+                    - Also heard that Snail has taken over Nightstone
+                - As we're leaving, we hear a horn
+                    - Dagon thinks he might see a few moving figures to the West
+                    - Narbec says they have reports of a large party coming, 5 Ogres, 10 hobgoblins, 40-50 goblins, leds by a Frost Giant
+                    - A boulder flies in and barely misses Dagon
+                    - Dagon sees a Goblin with a spiked hat come flying through the air and just misses Calor, falling to its death
+                    - Another Goblin comes flying through the air and misses Dagon
+                    - 2 more Globlins fly through the air, one kills a guard, the doesn't hit anybody
+                    - The guards on the wall start to shoot their crossbows
+                    - We start to hear pounding on the keep's door
+                    - Dagon drops his backpack onto a building (minus Black Pearl and a few other goodies)
+                        - Oberon throws his backpack to Harix
+                        - Dagon picks up Oberon and flies him up into the air
+                        - Oberon casts Fireball from the air
+                            - Outcome:
+                                - Kills 3 Hobgoblins, a 4th takes 14 damage
+                                - Killed a bunch of Goblins
+                                - M1 takes 28 damage
+                                - M2 takes 14 damage
+                                - M3 takes 28 damage
+                                - M4 takes 28 damage
+                                - M5 takes 28 damage
+                                - Frost Giant takes 28 damage
+                        - Dagon uses Gust of the Wind (2 ki)
+                    - Combat Begins
+                        - Carlor redies an attack
+                        - Oberon casts another Fireball
+                            - Outcome:
+                                - Kills 5 Goblins
+                                - M1 takes 17 damage
+                                - M2 takes 17 damage
+                                - M3 takes 34 damage
+                                - M4 takes 34 damage
+                                - M5 takes 34 damage
+                                - Frost Giant takes 17 damage
+                            - Gives Dagon Bardic Inspiration
+                        - Dagon throws a dart at a Hobgoblin, dealing 7 damage
+                            - Throws a 2nd dart and deals 8 damage
+                        - A boulder hits a chunk off the North tower
+                        - Carlor moves into the soldier formation and redies another attack
+                        - Oberon holds a Fireball pending Dagon flying back up
+                        - 2 more Goblins comes flying, they take out 2 guards on the walls
+                        - Dagon flies up
+                            - Oberon's Fireball flies out
+                                - Kills 6 Goblins
+                                - M1 takes 35 damage and is hurting
+                                - M2 takes 35 damage
+                                - M3 takes 35 damage and dies
+                                - M4 takes 35 damage and dies
+                                - M5 takes 35 damage and dies
+                                - Frost Giant takes 35 damage
+                            - Dagon throws a dart at the same Hobgoblin dealing 6 damage
+                            - Throws a 2nd dart at the Hobgoblin dealing 7 damage, killing it
+                            - He drops off Oberon and flies to his backpack
+                        - A Goblin flies in, missing everbody
+                        - Another boulder comes flying in, hitting the South tower
+                        - * Villagers are running frantically to the East (inside the keep) * 
+                        - Oberon turns to the East and sees guards searching, hears a window break, but only glimpses a foot going into the window
+                            - Casts Invisibility on himself and hops off the building he's on
+                            - He bungles his jump and falls prone to the ground, taking 1 damage
+                                - He rolls a saving throw to keep his concentration)
+                            - Uses the rest of his movement to get up and move a little to the East
+                        - Another Goblin flies in and takes out a guard
+                        - Dagon sees what looks like a Bugbear dressed in dark clothing to the East (between the Stables and the Trading Post)
+                            - He heads in the direction of the Bugbear
+                            - Uses Fangs of the Fire Snake (1 ki point)
+                            - Swings at the Bugbear but misses
+                            - 2nd attack hits for 8 damage
+                            - Bonus attack hits for 10 damage (Bardic Inspiration used)
+                        - A boulder flies in and just misses Harix
+                        - Another Goblin misses
+                        - * Arzastra comes screaming "They're taking Larg!" *
+                        - Carlor moves towards the noises to the East
+                            - Casts Longstrider and moves an extra 10ft to the East
+                        - Oberon also moves to the East
