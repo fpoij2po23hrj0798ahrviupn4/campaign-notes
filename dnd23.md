@@ -1,0 +1,171 @@
+# DND day 22
+Attendees: Carlor, Dagon, Oberon, Thor
+
+- (continue in Zanthar's Keep)
+    - Battle continues, group is currently heading into the town, away from the wall as attackers have appeared
+        - B5 throws a Javelin at Larg but misses
+        - Oberon misses B5 with a blast
+            - Second blast hits for 14 damage (nat 20)
+        - B6 misses Oberon
+        - Thor casts Hunter's Mark on B6
+            - First attack hits for 16 damage
+            - Second attack misses
+        - B8 throws a Javelin at Larg but misses
+        - B9 moves next to Carlor
+            - Carlor hits an opportunity attack for 8 damage
+            - B9 misses Carlor
+        - B9 throws a Javelin at Thor but misses
+        - Carlor casts Hunter's Mark on B9
+            - First attack misses
+            - Second attack hits for 23 damage (nat 20)
+        - B4 moves up to Carlor
+            - Carlor misses his opportunity strike
+            - B4 hits Carlor for 14 damage
+                - Carlor maintains concentration
+        - B2 hits Thor with a Javelin for 3 damage
+        - B10 runs up and tries to grapple Larg, but fails
+        - Dagon hits B6 for 9 damage
+            - Second attack hits for 7 damage, killing B6 (inspiration used)
+            - Third attack hits B9 for 6 damage
+        - Larg hits B10 for 6 damage
+        - B5 hits Dagon with a Javelin for 4 - 13 = 0 damage
+        - Oberon misses a blast B4
+            - Second blast hits B4 for 10 damage
+            - Oberon gives Bardic Inspiration to Thor
+        - Thor casts Breath Weapon
+            - Hits:
+                - B8 takes 5 damage
+                - B2 takes 5 damage
+                - B1 takes 10 damage
+        - B8 misses an attack on Thor
+        - B9 misses Carlor
+        - B2 misses Dagon
+        - Carlor misses an attack on B9
+            - Bonus attack kills B9 with 11 damage
+            - Second attack on B4 hits for 17 damage
+        - B4 misses Carlor
+        - B10 fails to grapple Larg
+        - Dagon misses B10
+            - Second attack misses
+            - Bonus attack misses
+        - Larg misses B10 (all three handaxe attacks)
+        - B5 misses Thor
+        - Oberon blasts B4 for 9 damage
+            - Second blast hits for 8 damage
+            - Gives Carlor Bardic Inspiration
+        - Thor hits B8 for 9 damage
+            - Moves Hunter's Mark onto B8
+            - Second attack misses
+        - B8 misses Thor
+        - B2 misses Thor
+        - Carlor moves Hunter's Mark to B2
+            - First attack hits for 26 damage
+            - Second attack hits for 17 damage, killing B2
+        - B4 hits Carlor for 13 damage
+            - Carlor maintains concentration
+        - B1 moves up to Carlor
+            - Carlor takes an opportunity strike for 15 damage
+            - B1 hits Carlor for 16 damage
+                - Carlor loses concentration
+        - B3 appears and grapples Larg
+            - B3 & Larg disappear into the nearby house
+        - B10 grapples Dagon
+        - Dagon breaks free from the grapple
+            - Heads in Larg's direction, Dagon realizes that Larg is the person on the wanted poster
+            - Bonus attack doesn't hit B3
+            - Flurry of Blows misses (1 ki point)
+        - * Just as Carlor is about to be hit, he notices B7 coming from the South *
+        - B7 misses Carlor
+        - Larg escapes B3's grapple
+        - B5 misses Thor
+        - Oberon misses B4
+            - Second blast kills B4 with 6 damage
+            - Uses Healing Word to heal Carlor for 5hp
+        - Thor hits B8 for 15 damage (uses inspiration)
+            - Second attack misses
+        - B8 misses Thor
+        - Carlor moves Hunter's Mark to B1
+            - Hits for 20 damage, killing B1
+            - Misses B7
+        - B3 misses Dagon
+        - B10 hits Dagon for 10 damage
+        - Dagon misses B10
+            - Second attack misses
+            - Uses Patient Defense (1 ki point)
+        - B7 misses Carlor (Oberon uses Cutting Words)
+        - Larg hits B3 for 5 damage
+        - B5 hits Thor
+        - Oberon misses B7
+            - Second blast hits for 7 damage
+        - Thor hits for 18 damage, killing B8
+            - Uses Misty Step to disengage and head towards Dagon
+            - Second attack hits B10 for 7 damage
+        - Carlor attacks B7 for 17 damage
+            - Bonus attack hits for 7 damage
+            - Second attack hits B5 for 16 damage (nat 20)
+        - B3 misses Larg
+        - B10 misses Dagon
+        - Dagon misses B10
+            - Second attack misses
+            - Bonus attack misses
+        - Larg misses B3
+        * We hear the loudest thunder boom we've ever heard - splintering wood comes flying over Oberon - the Western gate has been breached *
+        - B5 hits Oberon with a Javelin for 4 damage
+        - Oberon misses B5
+            - Second blast misses
+            - Casts Healing Word on himself for 8hp
+        - Thor moves Hunter's Mark onto B10
+            - Attack misses
+            - Second attack misses
+        - Carlor attacks B5 for 25 damage (nat 20)
+            - Second attack hits for 11 damage, killing B5
+            - Carlor moves Hunter's Mark for B10
+        - B3 misses dagon
+        - B10 misses Dagon
+        - Dagon misses B10
+            - Second attack hits for 6 damage
+            - Bonus attack hits for 5 damage
+        - Larg misses
+        - * Hear the following from the Western gate: "Bring me the dwarf!" followed by a big roar *
+        - Oberon sees the tower of the keep get obliterated. He sees a Frost Giant, Ogre, and a bunch of Goblins
+            - Casts Invisibility on himself and hides
+        - Thor hits B10 for 13 damage
+            - Second attack hits for 9 damage, killing B10
+        - Carlor moves Hunter's Mark onto B3
+            - First attack hits for 31 damage
+            - Second attack hits for 15 damage
+        - Dagon tells us that Larg is Weevil, and he's who the Frost Giant is after
+            - Attack hits for 11 damage
+            - Second attack hits for 10 damage
+            - Uses Stunning Strike (1 kit point) but it fails to stun
+        - Larg hits Dagon for 11 damage
+        - A couple goblins go down from arrows
+        - Ogre takes an arrow to the chest
+        - Frost Giant moves forward, taking a couple arrows along the way
+        - Oberon moves back and yells to the Frost Giant "What do you need the Dwarf for?"
+        - Thor fails to grapple Larg
+            - Second grapple attempt succeeds
+            - Moves Hunter's Mark onto Larg
+        - Carlor uses rope to tie Larg up really well & blinfolds him
+            - Hands the dwarf to Dagon
+        - Dagon hands Carlor his gear
+            - Tells the group to meet him to the East
+            - Takes Weevil outside, and starts flying away with him
+        - Larg tries to persuade Dagon to let him go
+        - Frost Giant takes out some guards
+            - Doesn't answer Oberon's question
+        - Oberon yells out to ask them what is going on
+        - Thor yells to Oberon that we are retreating
+            - Starts to retreat, makes it a few rungs up the ladder of a keep wall
+        - Carlor casts Longstrider Lvl 2 on himself & Oberon, then starts running
+        - Dagon continues to fly with Larg
+        - Larg continues to plead
+        * Hear a thunderous roar to the West, see a Frost Giant come running *
+        * Dagon hears: "Steady boys, steady!" from the towers, sees guards readying the mounted crossbows *
+        - Oberon goes into the nearby house and hides
+        - Thor climbs to the top of the wall
+            - Casts Misty Step to teleport to the lower branches of a tree at the bottom of the wall outside the town
+        - Carlor climbs up to the top of the wall
+        - Dagon continues to fly
+        - Larg continues to plead
+        * As the Frost Giant continues forward, the giant mounted crossbows send 2 5ft metal bolts through his chest, killing him *
