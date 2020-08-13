@@ -1,0 +1,96 @@
+# DND day 24
+Attendees: Carlor, Dagon, Harix, Oberon
+
+- (continue in Zanthar's Keep)
+    - Battle with Frost Giant has concluded (via the 2 big crossbow bolts the Frost Giant took to the chest)
+        - The guards surround the Frost Giant
+        - Oberon & Carlor approach the scene
+            - Oberon asks the guard if we can investigate the Frost Giant's body, they say we are welcome to on the following morning after they have finished the investigation
+                - Oberon sees a pouch on the Frost Giant, and is able to detect that there is magic emanating from it
+            - Dagon & Larg return to the keep
+            - Group loot the bodies but find nothing
+            - Get some rooms at the inn (Arzastra offers room & board for free)
+                - Harix guards Larg at the inn
+                    - Arzastra seems pretty sketched out about the fact that there's a Dwarf tied up in her inn, but she know nows he is the Weevil so she's OK with it
+            - Operation Nightbird.
+                - At the stroke of midnight, Oberon, Dagon & Carlor sneak outside
+                - Oberon casts Invisibility on Dagon, as well as gives him a Bardic Inspiration
+                - Carlor casts Pass without Trace on Dagon
+                - Dagon, having been blessed with stealth & invisibility goes out to try to and grab the giant's pouch, but the Frost Giant is gone
+                    - Upon further inspection (and discussion with the guards), it is revealed that the Frost Giant busted through the ground and fell into the Ancient Catacombs
+                    - Back at the inn, Arzastra tells us about an entrance we could use to get into the Ancient Catacombs
+                - We go back to the inn and take a long rest
+            - Next morning, go to deliver Larg to Narbec
+                - Narbec says that we will need to return Larg in Mirabar, due to the reconstruction efford at Zanthar's Keep, they are no longer able to take care of Larg
+                - Narbec tells us about another entrance to the Ancient Catacombs (near a well to the Eastern side of the road, near the Southern Wall)
+            - We leave Larg with Thor at the inn, and head to the Ancient Catacombs via the well entrance Narbec told us about
+            - At the well
+                - Entrance is about 6ft in diameter, we throw a rock down and it falls for quite awhile before it hits the bottom
+                - Carlor, Dagon & Oberon make it down the ladder, Carlor breaks 3ft worth of steps and hits Dagon & Oberon, all 3 take 1 damage each
+                - Harix stays at the top of the well, likely would have fallen more than 30ft
+            - Inside the well
+                - Come to a bigger with 3 tunnels, having the following markings on the respective doorways: Square/Circle/Triangle
+                    - The doorway with the square is open, the other two doorways are barred shut
+                - Enter the doorway with the square emblem
+                - At the end of the tunnel, we find a door with three keyholes in it
+                    - Holes run from left to right (Circle / Triangle / Square), engravings off to the side, and 9 red gems to the top of the door
+                    - Very fancy door
+                    - As we approach the door, we here the door close behind us
+                        - Carlor realizes that he stepped on some kind of switch
+                    - Dagon attempts to pick the keyhole with the Square symbol on it
+                        - Isn't able to pick it, he isn't familiar with the mechanism
+                - With Dagon & Carlor in the first tunnel, Oberon is able to find a way into the second tunnel
+                    - At the end of the second tunnel, the wall ends, but there are a series of holes in the wall
+                    - In each hole, Oberon sees what might be keys
+                    - Oberon uses Mage Hand to try and grab one of the key-looking things
+                        - Isn't able to pick up the keys, but they seem to be twistable left/right
+                        - Oberon twists the key to the left
+                        - Water starts to fill the chamber!
+                        - We discuss forever, try another, and the room fills up even more
+                        - On the 3rd try, Oberon is flushed down a tunnel, and hears "My supper is here"
+                    - Carlor scouts the 2nd tunnel, but finds that Oberon is gone
+                - Dagon & Carlor make their way down the 3rd tunnel
+                    - A dart flies by his face
+                    - Dagon continues down, but is hit in the back by a second dart, taking 2 damage, and starts feeling funny
+                    - Dagon manages to make it down to the end of the tunnel via some monk wall-walking shit
+                    - On the wall there is a mechanism holding a key, with four circles, each with a handle
+                    - Carlor makes it to Dagon, takes a dart along the way for 2 damage, and starts feeling funny
+                    - Carlor & Dagon manage to release the key & grab it, but the floor lowers and we slide down
+                - At the bottom of the trap floor
+                    - Oberon is locked behind bars, sees many skeletons
+                    - Dagon & Carlor are at the other side of the layer
+                    - Dagon starts to venture through the layer
+                    - Carlor casts Pass Without Trace and follows behind
+                    - Dagon sees a very large creature peering at him, flesh of graying colour, chains dangling off his neck, holding a massive cleaver in one hand and a hook in another
+                    - Combat Begins
+                        - Oberon casts Faerie Fire
+                            - Gives Bardic Inspiration to Dagon
+                            - Dagon attacks Creature for 9 damage
+                                - A cloud of poisonous gas is emitted, Dagon takes 3 damage
+                                - Dagon uses Fangs of the Fire Snake (1 ki point)
+                                - Second attack hits for 14 damage (nat 20)
+                                    - Uses 1 kit point with Fance of the Fire Snake to deal 8 damage (nat 20)
+                                - Stunning Strike fails (1 ki point)
+                            - Creature misses Dagon
+                            - Carlor attacks for 15 damage
+                                - Casts Hunter's Mark
+                                - Second attack hits for 16 damage
+                                - Dagon takes 11 poison damage being near Creature when it was hit
+                            - Oberon casts Faerie Fire again, but it doesn't affect Creature
+                            - Dagon uses Fangs of the Fire Snake (1 ki point)
+                                - Attack misses
+                                - Second attack misses
+                                - Bonus attack misses
+                            - Creature heads after Dagon but can't attack
+                            - Carlor attakc Creature for 24 damage
+                                - Bonus attack hits for 14 damage, Creature falls dead
+                                - Dagon takes 7 damage
+                    - Dagon manages to bend the bars enough for Oberon to get out of the cage
+                    - Creature had a key on it which we take
+                    - Dagon manages to back into a switch, and the slide we came down turns into stairs
+                - Back up the stairs
+                    - Dagon takes 2 damage from a dart
+                    - Down the first hallway, Dagon & Oberon each put a key into the door
+                    - Turn the keys, and the door opens
+                - Walk into a large room, several pillars around the room (2ft in diameter, ceiling height/30ft) a doorway at the far end of the room
+                    - The doorway, has a series of letters VIVIVI, just before the doorway, there is what appears to be a sandpit covered by a metal place, 3 locks on it

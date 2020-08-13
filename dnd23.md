@@ -1,4 +1,4 @@
-# DND day 22
+# DND day 23
 Attendees: Carlor, Dagon, Oberon, Thor
 
 - (continue in Zanthar's Keep)

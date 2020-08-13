@@ -1,4 +1,4 @@
-# DND day 20
+# DND day 21
 Attendees: Carlor, Dagon, Oberon
 
 - (continued during battle with toll-collectors on trail, 5th night since Triboar)
