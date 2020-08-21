@@ -1,0 +1,119 @@
+# DND day 25
+Attendees: Carlor, Dagon, Harix, Oberon
+
+- (continue in tunnels under Zanthar's Keep)
+    - In the larger room after the first tunnel's door
+        - Take a short rest
+            - Carlor casts Goodberries and eat 3, saves the other 7
+        - The locks on grate all have keyholes
+        - There is a bowl with scorch marks inside one of the pillars
+            - Upon lighting it, cracking starts to light up red along the pillar all the way to the top
+            - At the top of the pillar, a + sign appears
+                - Continue lighting pillars, and a math equation appears
+            - Take keys from the previous door, put them in the grate in order: Circle/Triangle/Square
+                - The grate opens
+                - Grate contained:
+                    - Dagger with a skull on the pommel
+                    - Rake
+                - Sand in the grate seems to be magical
+                - When trying to remove the sand, it magically seems to reappear in the pit
+                - Writing the equation into the sand with the dagger causes the door to open
+            - Inside the next door
+                - A smell of rotting flesh emanates from inside
+                - Oberon lights up the area, there is a hallway lined with human bones, appears to be the catacombs
+                - Keeps going until we reach another room, logs of bones, rotting flesh smell keeps getting worse
+                - Reach where the giant should be, but there is nothing there - hear a groan in the distance
+                - Dagon signals and we position for battle
+                - Continue and hear more groaning, and the kingling of a chain
+                - See something, has a similar shape to a Frost Giant, but the skin is grey now, and it doesn't seem very.. conscious. Still has the bolts through its chest
+            - Surprise attacks
+                - Carlor sets up a Hunting Trap
+                    - First attack hits Zombie Giant for 7 damage
+                    - Second attack hits for 9 damage
+                        - Stuns Zombie Giant with Stunning Strike (1 ki point)
+                - Oberon deals 13 damage to the Zombie Giant over 3 blasts
+            - Combat begins
+                - Skeleton 1 appears and approaches Carlor
+                    - Carlor makes an opportunity strike for 15 damage
+                - Skeleton 2 hits Carlor for 8 damage
+                - Oberon blasts Skeleton 1 for 10 damage, killing it
+                    - Second blast hits Skeleton 2 for 10 damage
+                    - Gives Dagon Bardic Inspiration
+                - Dagon attacks Zombie Giant for 6 damage
+                    - Second attack hits for 10 damage
+                        - Stunning Strike doesn't work (1 ki point)
+                    - Bonus attack hits for 9 damage
+                - Carlor attacks Skeleton 2 for 6 damage
+                    - Casts Hunter's Mark on Zombie Giant
+                    - Carlor moves to Zombie Giant
+                        - Skeleton 2 misses an opportunity strike
+                    - Second attack on Zombie Giant hits for 11 damage
+                - Zombie Giant hits Dagon for 19 damage
+                    - Second attack misses Carlor (Oberon uses Cutting word)
+                - Skeleton 3 approaches Carlor
+                    - Carlor's opportunity attack hits for 9 damage
+                    - Attack on Carlor misses
+                - Skeleton 4 misses Carlor
+                - Oberon casts Hypnotic Patterns
+                    - Skeleton 3 is charmed, Zombie Giant should have been, but isn't..
+                        - Skeleton 3
+                - Dagon hits Zombie Giant for 10 damage (nat 20)
+                    - Uses Step of the Wind (1 ki point) to fly away
+                - Carlor misses Zombie Giant
+                    - Bonus strike misses
+                    - Second attack hits Zombie Giant for 16 damage
+                - Zombie Giant hits Carlor for 35 damage (2 strikes)
+                    - Carlor saves concentration both times
+                - Skeleton 5 appears, attacks Oberon for 6 damage
+                    - Oberon uses Hellish Rebuke to deal 3 damage as a reaction
+                - Skeleton 2 hits Oberon for 8 damage
+                - Oberon casts Invisibility and runs around trying to find out the source of these reanimated dumdums
+                    - Oberon notices that the chain on the Zombie Giant's foot goes back around the corner
+                - Dagon flies over and attacks Zombie Giant for 5 damage
+                    - Second attack hits for 9 damage
+                    - Uses Patient Defence (1 ki point)
+                - Carlor disengages and runs away
+                - Zombie Giant pulls the two crossbow bolts out of his chest, and swings both at Dagon
+                    - Both miss, and Zombie Giant falls dead to the ground
+                - A Necromancer comes running around the corner screaming "What have you done?!?!?! What have you done to my creature?!"
+                    - As he screams this, the skeletons break into bones and fall to the ground
+                    - Casts an attack on Dagon, but misses (Dagon used Bardic Inspiration)
+                - Oberon casts Fireball
+                    - Necromancer takes 16 damage
+                - Dagon hits Necromancer for 9 damage
+                    - Second attack misses
+                    - Bonus attack hits for 8 damage
+                - Carlor moves bonus attack to Necromancer
+                    - First attack hits for 33 damage (nat 20)
+                    - Second attack hits for 17 damage
+                - Oberon blasts Necromancer for 7 damage
+                    - Second blast hits for 8 damage
+                    - Casts Healing Word on Carlor for 8 hp
+                - Dagon hits Necromancer for 10 damage
+                    - Second attack hits for 13 damage (nat 20)
+                        - Stuns with Stunning Strike (1 ki point)
+                    - Bonus attack hits for 6 damage
+                - Carlor hits for 20 damage
+                    - Bonus attack hits 10 damage
+                    - Second attack hits for 17 damage, killing Necromancer
+            - Post battle
+                - Carlor retrieves his Hunting Trap
+                - Dagon digs through the Necromancer finds:
+                    - 2500gp
+                    - Pair of sending stones
+                    - Skeleton Key (made of bone)
+                - Oberon searches the Zombie Giant and finds:
+                    - Giant sized bone comb
+                    - Bundled up tent
+                    - 6ft long wooden long fence post
+                    - Tombstone
+                - Oberon detects a bunch of magic on Dagon
+                - Dagon hands Oberon the Skeleton Key, as he grabs it his eyes roll back into his head and he falls to the ground
+                - All the sudden Harrix appears, he managed to clear the rubble from the other entrance and have made their way in
+                - We retreat back to the inn and take a long rest, Harix carries Oberon
+            - * To make the storyline easier, assume we went to Longsaddle and get Dagon's guantlets for 1800 *
+                - Harix takes 250gp
+                - Oberon takes 250gp
+                - Carlor lets Dagon keep his 250gp (IOU is down to 250gp)
+            - LEVEL UP! (make sure to roll HP dice next session)
+            - Dagon gives a sending stone to Carlor (temporarily, will give to Oberon after he awakens)

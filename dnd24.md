@@ -93,4 +93,4 @@ Attendees: Carlor, Dagon, Harix, Oberon
                     - Down the first hallway, Dagon & Oberon each put a key into the door
                     - Turn the keys, and the door opens
                 - Walk into a large room, several pillars around the room (2ft in diameter, ceiling height/30ft) a doorway at the far end of the room
-                    - The doorway, has a series of letters VIVIVI, just before the doorway, there is what appears to be a sandpit covered by a metal place, 3 locks on it
+                    - The doorway, has a series of letters VI VI VI, just before the doorway, there is what appears to be a sandpit covered by a metal grate, 3 locks on it
