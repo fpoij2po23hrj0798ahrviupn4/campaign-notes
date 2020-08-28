@@ -1,0 +1,88 @@
+# DND day 26
+Attendees: Carlor, Dagon, Oberon
+
+- (continued after defeating Zombie Giant, and making trip to Longsaddle & back)
+    - At the Inn in Zanthar's Keep
+        - Oberon is still unconscious
+    - Go to see Narbec about Oberon
+        - Narbec tells us we're probably going to have to go to Mirabar to get help
+        - Narbec lends us a chariot & Warhorse to help bring the weavil (we are to leave it at Mirabar)
+    - Journey to Mirabar
+        - Day 1 is uneventful
+        - Day 2
+            - Dagon asks Weavil about the gold he had promised
+                - The Weavil says he has a golden ring with an enscription on the inside
+            - Meet up with a group of musicians
+                - They have a cart full of musical instruments
+                - The instruments aren't for sale
+                - Dagon picks up Oberon's bagpipes and manages to rock out an epic tune
+                - This wakes Oberon from his slumber
+                - Dagon shows Oberon the skeleton key that knocked him out, and he doesn't remember it
+                - Oberon isn't able to detect magic on the key
+                - Dagon passed the key to Oberon, this time around he doesn't get knocked out
+                - Carlor gives Dagon his Sending Stone
+                - Oberon takes some time to meditate and discovers something
+                - Oberon tells Carlor that he sees ghosts, he saw the musician group's dead daughter hanging out on their cart
+            - Nighttime is uneventful
+        - Day 3
+            - Make our way to Mirabar (huge!)
+                - Walls span for 1000s of feet, are at least 100ft tall, quite wide
+                - Guards are pumped that we have the Weavil, let us in ASAP
+            - Inside Mirabar
+                - Not very may Dwarves in the town, mostly Humans (which is odd given how far to the North we are)
+                - Many have the Lord's Alliance symbol on their Guild Tabards
+                - Mirabar is actually bigger than Waterdeep
+                - The master's name is Master Rapure, he is a Damaran Human
+                    - Skin is a bit spotty, quite fair but has darker spots, similar to a Dalmatian
+                    - Is similar to a Dalmatian
+                    - He rides in on a Warhorse
+                    - Rapure is able to confirm the identity of the Weavil
+                    - He says that the Frost Giants attacked a town to the North as well
+                    - Oberon asks about Nightstone
+                        - Rapure says that Snail has totally overrun Nightstone
+                    - The guards take the Weavil to the Sparkling Stones
+                    - Rapure gives us 5000gp
+                        - Carlor takes it - he is going to take on the role of party finance manager
+                        - Dagon gives Carlor 350gp for the party purse
+                        - Oberon gives Carlor 333gp for the party purse
+                    - Rapure tells us
+                        - The Lieutenant's Quarters to the East (Old Town Sector) is a good place to buy clothing & weapons
+                        - He can usually be found in his keep
+                        - The location of a cemetary
+                        - We are currently in the trade district
+                    - Rapure takes Narbec's Warhose & chariot
+                - We send Thor & Harix with some of the horses to find a stable to for horses, and an inn for us to stay at
+                - Carlor, Dagon & Oberon head to The Lieutenant's Quarters
+                    - At The Lieutenant's Quarters
+                        - Some characters were sparring, a Guard tells Dagon that if Dagon can win a duel, he'll let him know about the fight club
+                        - Combat Begins
+                            - Dagon hits Guard for 15 damage (nat 20)
+                                - Second attack misses
+                                - Bonus attack hits for 12 damage (nat 20)
+                                - Stunning Strike fails (1 ki point)
+                            - Guard hits Dagon for 18 damage
+                            - Dagon misses all 3 attacks
+                                - Uses Patient Defence (1 ki point)
+                            - Guard misses Dagon
+                            - Dagon hits for 9 damage
+                                - Second attack misses
+                                - Bonus attack hits for 10 damage
+                                - Stunning Strike fails (1 ki point)
+                            - Guard misses Dagon
+                            - Dagon flies 15 ft into the air and uses Fangs of the Fire Snake (1 ki point)
+                                - First attack hits for 7
+                                - Second attack hits for 6 damage, ending the duel (falls unconscious)
+                        - Oberon casts Healing Word on the guard and he awakens
+                        - Guard tells Dagon about the fight club
+                        - We don't buy anything
+                    - At The Guild Bank
+                        - Sell 2x Black Pearls, 1 Amber Gemstone = 1100gp
+                    - At The Mage's Quarters
+                        - Buy 3x healing potion (1 for Dagon, 2 for Carlor), 150gp
+                    - Find our way back to the Sloppy Cod Inn
+                        - Dagon heads across the road to the auction house
+                            - Places Daratha's Sex Corset on auction, starting bid 10gp for 24 hours (costs 3gp to list it)
+                        - Oberon offers to play some music at the inn
+                            - They offer free drinks as payment
+                            - After playing music, Oberon heads out to the cemetary and plays bagpipes, but doesn't see any ghosts
+            - Next day in Mirabar --- next session

@@ -100,7 +100,7 @@ Attendees: Carlor, Dagon, Harix, Oberon
                 - Carlor retrieves his Hunting Trap
                 - Dagon digs through the Necromancer finds:
                     - 2500gp
-                    - Pair of sending stones
+                    - Pair of Sending Stones
                     - Skeleton Key (made of bone)
                 - Oberon searches the Zombie Giant and finds:
                     - Giant sized bone comb
@@ -116,4 +116,4 @@ Attendees: Carlor, Dagon, Harix, Oberon
                 - Oberon takes 250gp
                 - Carlor lets Dagon keep his 250gp (IOU is down to 250gp)
             - LEVEL UP! (make sure to roll HP dice next session)
-            - Dagon gives a sending stone to Carlor (temporarily, will give to Oberon after he awakens)
+            - Dagon gives a Sending Stone to Carlor (temporarily, will give to Oberon after he awakens)
