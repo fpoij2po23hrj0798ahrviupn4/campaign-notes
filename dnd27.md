@@ -1,0 +1,34 @@
+# DND day 27
+Attendees: Carlor, Harix, Oberon
+
+- (continued in Mirabar)
+    - Wake up at the Sloppy Cod Inn
+        - Go to The Lieutenant's Quarters
+            - Harix buys Plate Mail
+                - 300gp from Harix's purse, and he trades in his Chain Mail
+                - 1200gp from the party purse
+        - Head to the Dwarven district
+            - Have trouble finding the corridor
+            - Oberon asks a random for help
+                - She makes fun of him but ends up giving him a hint
+            - Oberon asks another random for help
+                - He tells us to look around the Eastern front at 8pm (and bring our coinpurse)
+                - Dude tells us to be careful around the Eastern front, lots of bad characters
+                - Says The Two Goblets is a good spot for drinks
+            - Walk through the tunnels, come to a place with lots of forges
+                - Inside, we find lots of beautiful weapons & armors (all are +1)
+                - Harix buys a Shield +1 for 1200gp (from party purse)
+            - Head to The Two Goblets for some afternoon drinks
+                - Minced boar & taters, 12 pint (18 silver)
+                - Chill until 6:00pm
+            - Exit bar and start watching for signs of fight club (Carlor casts Pass Without Trace)
+                - Having a hard time finding anything meaningful
+                - Talk to a few people but nobody knows anything
+                - Eventually make our way to a bar and try to find somebody who knows anything
+                    - The dude at the bar challenges Oberon to a fight, Harix fights in his stead
+                        - Combat begins (Oberon wagers 100gp and gives Harix Bardic Inspiration)
+                            - Harix swings but misses
+                                - Second strike hits for 6 damage and wins the punchetizing
+                    - Oberon uses the Sending Stone to talk to Dagon, he says it's at the Eastern Wall
+                - Upon heading towards the Eastern Wall, we see a bunch of people sneaking through some bushes
+                    - Behind the bushes there is a crack in the wall, we go through and there's a passage downwards

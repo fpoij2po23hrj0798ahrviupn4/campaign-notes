@@ -48,7 +48,7 @@ Attendees: Carlor, Dagon, Oberon
                     - Rapure tells us
                         - The Lieutenant's Quarters to the East (Old Town Sector) is a good place to buy clothing & weapons
                         - He can usually be found in his keep
-                        - The location of a cemetary
+                        - The location of a cemetery
                         - We are currently in the trade district
                     - Rapure takes Narbec's Warhose & chariot
                 - We send Thor & Harix with some of the horses to find a stable to for horses, and an inn for us to stay at
@@ -74,15 +74,15 @@ Attendees: Carlor, Dagon, Oberon
                                 - Second attack hits for 6 damage, ending the duel (falls unconscious)
                         - Oberon casts Healing Word on the guard and he awakens
                         - Guard tells Dagon about the fight club
-                        - We don't buy anything
+                        - We don't buy anything from Lenny
                     - At The Guild Bank
                         - Sell 2x Black Pearls, 1 Amber Gemstone = 1100gp
                     - At The Mage's Quarters
                         - Buy 3x healing potion (1 for Dagon, 2 for Carlor), 150gp
                     - Find our way back to the Sloppy Cod Inn
                         - Dagon heads across the road to the auction house
-                            - Places Daratha's Sex Corset on auction, starting bid 10gp for 24 hours (costs 3gp to list it)
+                            - Places Daratha's Sex Corset on auction, starting bid 50gp for 24 hours (costs 3gp to list it)
                         - Oberon offers to play some music at the inn
                             - They offer free drinks as payment
-                            - After playing music, Oberon heads out to the cemetary and plays bagpipes, but doesn't see any ghosts
-            - Next day in Mirabar --- next session
+                            - After playing music, Oberon heads out to the cemetery and plays bagpipes, but doesn't see any ghosts
+            - Next day in Mirabar - next session
