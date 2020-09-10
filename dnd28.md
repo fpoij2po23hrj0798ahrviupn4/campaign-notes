@@ -1,0 +1,45 @@
+# DND day 27
+Attendees: Carlor, Dagon, Harix, Oberon
+
+- (continued in Marabar, going through passage in crack of wall towards fight club)
+    - Going through the passage
+        - Carlor casts Darkvision on Harix
+        - Around the corner see 70-80 people around a cage
+            - Many of the characters are quite shady looking
+        - We talk to the bookie, who tells us it's a sparring club
+            - Harix enrolls into the roster
+            - Admission is 50gp. winner takes 1500gp, second place gets 500gp
+        - First battle, we put 100gp down on "Coga" at 2/1 odds
+            - Buy 2 beers for 8 silver
+            - The dwarf that told us about the fight club makes a side bet with us, he puts 25gp on Misty
+            - Oberon inspires Coga
+            - Coga wins the battle, group wins 225gp
+        - Second battle is Dragon vs Blaine (2/1 for Dagon), we put 500gp on Dragon
+            - Buy 2 more beers for 8 silver
+            - Dagon has his sexy silk rope cut and tied around his forehead
+            - Dagon wins pretty easily
+            - Group wins 250gp
+            - Carlor casts Goodberries and gives Dagon 2
+        - Third battle is Harix vs Sabrina (2/1 for Sabrina), we put 500gp on Harix
+            - Oberon inspires Harix
+            - Buy 3 more beers for 12 silver
+            - Harix wins, group wins 1000gp
+            - Oberon heals heals 11gp
+            - Carlors casts Goodberries 2x and gives Harix 27
+        - Next battle is Lt. Surge vs Giovani (2/1 for Lt. Surge), we put 250gp Giovani
+            - Giovani wins! Group takes 500gp
+            - As Lt. Surge is being dragged away, Carlor & Dagon seem to think he looks familiar
+        - Next battle is Coga vs Dagon (2/1 for Dagon), we put 3000gp down
+            - Buy 3 more beers for 12 silver
+            - The dwarf who told us about the fight club is back, his name is Timmy
+            - Dagon wins, group wins 1500gp
+        - Carlor makes his way around and notices that Lt. Surge's outfit is familiar black leather (realizes that he didn't actually recognize Lt. Surge, but his clothes)
+            - On the ground lies a helmet, almost looks to be bird shaped.. wings at the back, beak-ish portion at the front
+        - Next battle is Harix vs Giovani (3/1 for Giovani), bet 3000gp on Harix
+            - Harix wins, group wins 9000gp
+            - During the battle, Dagon believes that he spotted the same smiley face bag that we saw on the cloud
+            - Dagon tells Carlor to keep an eye out for the bag
+        - Next battle is going to be Dagon vs Harix (4/1 for Dagon)
+            - A big dude dressed all in black comes up, and asks if we want to make a wager
+                - Armor is leather
+                - We might wager 6000gp vs his magic bag (he wants bet for Dagon)
