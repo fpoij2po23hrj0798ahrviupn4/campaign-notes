@@ -1,4 +1,4 @@
-# DND day 27
+# DND day 28
 Attendees: Carlor, Dagon, Harix, Oberon
 
 - (continued in Marabar, going through passage in crack of wall towards fight club)
