@@ -191,7 +191,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Techno, Thor
                         - Not sure, the other planes told me not to interphere
                     - What has actually been lost
                         - All giants meet at King Heckaton's court, a representative from each of the giants meet to decide how all giants should behave
-                        - Over time, the giants have begun to believe they are above all, and Lord Heckaton shattered the ordering, which is leading to the various giants trying to fight for power
+                        - Over time, the giants have begun to believe they are above all, and Lord Heckaton shattered the ordening, which is leading to the various giants trying to fight for power
                     - Why should we be concerned?
                         - As you've seen Nightstone, you must understand what can go wrong from this
                     - Should we take down King Heckaton?

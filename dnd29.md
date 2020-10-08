@@ -54,7 +54,7 @@ Attendees: Carlor, Dagon, Oberon
         - There is a knock on the door
         - He goes to the window and something whispers "Hello Dagon"
         - The individual pulls out Daratha's sex corset, says he had recognized it and needed to know who the seller was
-            - He is a Harper, they have a long legacy & wide legacy of people who want to help out in the North
+            - He is a Harple, they have a long legacy & wide legacy of people who want to help out in the North
             - Daratha was one of the founding members
             - Wants to help
             - Thanks Dagon for helping the people of Triboar
@@ -83,4 +83,4 @@ Attendees: Carlor, Dagon, Oberon
     - At the stable
         - Andy yells "Hurry, hurry, in the bail of hay"
         - Oberon dumps a bag of ball bearing, and Calor & Oberon jump in the bail of hay -- Dagon is already there
-        - As we jump in the bail of a hay, a blue column of light emanates up, surrounding us
+        - As we jump in the bail of a hay, Andy throws in the sex corset and says "Here, you'll need this", then a blue column of light emanates up, surrounding us

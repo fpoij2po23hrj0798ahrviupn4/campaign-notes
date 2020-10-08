@@ -187,6 +187,6 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor
             - Oberon outright refuses and Narth tears up the letter
         - On the way to training with Darz, Dagon stops at The Lion's Share
             - Stops at The Lion's Share to sell weapons
-            - Narth notices that the weapons are Darathra's tries to confiscate them
+            - Narth notices that the weapons are Daratha's tries to confiscate them
             - Dagon tries to intimidate Narth by starting a fire, and Narth runs towards the guards
             - Dagon ties up Narth & Alystra, and puts them into a closet, puts out the fire, and then heads back to The Talking Troll

@@ -124,7 +124,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor
                     - Orc 6 is charmed
                     - Casts 2nd level Healing Word on Dagon, heals for 10hp
                 - Orag 5 is charmed
-                - Darathra moves but doesn't attack
+                - Daratha moves but doesn't attack
                 - Orag 3 is charmed
                 - Dagon punches Orc 3, hits for 10 damage, killing it
                     - Bonus attack to hit Orc 6, hits for 5 damage
@@ -136,9 +136,9 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor
                 - Bird which was carrying Orc 3 is charmed
                 - Bird which was carrying Orc 6 is charmed
                 - Oberon blasts 2xEldritch Blast on Orag 3, hitting for 7 damage
-                    - Uses Bardic Inspiration on Darathra
+                    - Uses Bardic Inspiration on Daratha
                 - Orag 5 is charmed
-                - Darathra moves and then readies her attack
+                - Daratha moves and then readies her attack
                 - Orag 3 mounts the bird which was carrying Orc 6
                     - Uses an action to uncharm the bird
                 - Dagon uses bonus attack on Orag 3 for 9 damage

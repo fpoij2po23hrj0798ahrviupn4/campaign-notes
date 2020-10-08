@@ -9,7 +9,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor
             - Giant 0 is charmed
             - Oberon casts Lvl 2 sleep on Firebug 8 & Firebug 9
                 - Oberon takes 6 damage because he is on fire and loses concentration
-            - Darathra attacks Giant 0
+            - Daratha attacks Giant 0
                 - First hits for 14 damage
                 - Second misses
             - Skrillix flies away (East)
@@ -20,34 +20,34 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor
             - Darz shoots a Slingshot Giant 0 and hits (nat 20)
                 - Deals 23 damage
                 - Then hides
-            - Giant 0 attacks Darathra
+            - Giant 0 attacks Daratha
                 - Both attacks miss
                 - Giant 0 yells in Giant: "They're stronger than we thought"
             - Oberon misses two blasts
                 - Takes 1 damage because he's still on fire
-            - Darathra attacks Giant 0
+            - Daratha attacks Giant 0
                 - First attack misses
                 - Second hits for 6 damage
             - Dagon throws a Dagger at Giant 0 but misses
-            - Giant 1 attacks Darathra
+            - Giant 1 attacks Daratha
                 - First attack misses
                 - Second attack hits for 30 damage
             - Firebug 9 is asleep
             - Firebug 8 is asleep
             - Darz shoots a Slingshot at Giant 0 but misses
-            - Giant 0 attacks Darathra
+            - Giant 0 attacks Daratha
                 - First attack misses (Oberon used Cutting Words)
-                - Second attack hits for 35 damage killing Darathra
-            - Oberon heals Darathra for 6hp with Healing Word (she is no longer unconscious)
+                - Second attack hits for 35 damage killing Daratha
+            - Oberon heals Daratha for 6hp with Healing Word (she is no longer unconscious)
                 - Uses action to douse the flames
-            - Darathra attacks Giant 0
+            - Daratha attacks Giant 0
                 - First attack misses
                 - Second attack hits for 7 damage
             - Dagon attacks Giant 1 hitting for 9 damage
                 - Second attack hits for 6 damage
                 - Bonus attack misses
                 - Uses Step of the Wind (1 ki point) to retreat
-            - Giant 1 attacks Darathra for 45 damage, knocking her unconscious
+            - Giant 1 attacks Daratha for 45 damage, knocking her unconscious
         - Carlor, Harix, Thor, Ghelryn, Narth, Othovir
             - Firebug 1 misses Ghelryn
             - Carlor holds an attack on Firebug 1 (pending Ghelryn moving away)
@@ -131,16 +131,16 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor
                 - Both attacks hit for 55 damage knocking Ghelryn unconscious
             - Firebug 8 is asleep
             - Firebug 9 is asleep
-            - Darz tries to stabilize Darathra but finds out that she is dead
+            - Darz tries to stabilize Daratha but finds out that she is dead
                 - Then tries to stabilize Ghelryn, can't find a pulse (but roll was bad)
             - Giant 0 moves away
-            - Oberon moves to Darathra and plays his Bagpipes
-            - Dagon loots Darathra's corpse
+            - Oberon moves to Daratha and plays his Bagpipes
+            - Dagon loots Daratha's corpse
                 - Takes:
                     - Key to the chest
                     - Greatsword
                     - Heavy Crossbow
-                - Dagon then poops on Darathra
+                - Dagon then poops on Daratha
             - Carlor eats a Goodberry
             - Giant I follows Giant 0
             - Thor follows the Giants to make sure they don't attack anybody
@@ -216,7 +216,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor
             - Carlor runs to Thor
             - Thor succeeds a Death Saving Throw
             - Carlor gives Thor a Goodberry, bringing him back to consciousness
-        - Dagon searches Darathra's quarters in the Market Square Tower
+        - Dagon searches Daratha's quarters in the Market Square Tower
             - In a footlocker, finds
                 - Very fancy black leather corset
                 - Black leather whip

@@ -21,7 +21,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor
     - At The Talking Troll (everyone)
         - Carlor & Dagon show the bar the Oni head & offer to taxidermy it to use as the The Talking Troll
         - Carlor takes the head preps it to be mounted
-        - Head to the Tower to try & get Lady Darathra to pay us a reward for killing the Oni, but she isn't having it
+        - Head to the Tower to try & get Lady Daratha to pay us a reward for killing the Oni, but she isn't having it
     - Carlor & Dagon head to The Lion's Share, but they won't buy the Black Pearls
     - Carlor heads to the woods to go hunting & also get hides for The Talking Troll
     - Rest of the group heads to find Six Windows
