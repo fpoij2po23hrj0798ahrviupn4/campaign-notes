@@ -16,12 +16,12 @@ Attendees: Carlor, Dagon, Harix, Oberon, Jordie, Thor
             - A burlap sack falls off the cart and appears to have something living inside (they drag it into the building)
         - Carlor fills in the group about what he saw at The Triboard Travelers
     - Carlor, Oberon & Thor go to sneak around Triboar Travelers
-        - Carlor & Oberon sneak around while Thor & Skrillex take watch
+        - Carlor & Oberon sneak around while Thor & Skrillix take watch
         - Weren't seeing anything, Oberon casts sleep on the people in the warehouse
         - One falls asleep, Oberon then casts Hypnotic Pattern and manages to Charm all 3
         - Oberon and Thor run in the building
         - Thor uses his Crowbar to break open the padlock on one of the doors
-        - Carlor yelled out to Skrillex to get help
+        - Carlor yelled out to Skrillix to get help
         - Suddenly, a hooded black figure drops from the ceiling & takes a stab at Oberon
             - First attack misses, second attack hits for 9 + 45 damage, knocking Oberon unconscious
             - Combat begins!
@@ -50,7 +50,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Jordie, Thor
                     - Carlor misses an opportunity attack
                 - Oberon follow Thor and ignites the room with Light cantrip
                     - Searches for the burlap sack but doesn't find it
-                - * at this point Skrillex makes his way to The Talking Troll, doesn't manage to effectively communicate with the guys yet *
+                - * at this point Skrillix makes his way to The Talking Troll, doesn't manage to effectively communicate with the guys yet *
                 - Carlor moves Hunter's Mark to B9
                     - First attack hits B8 for 12 damage
                     - Second attack hits B9 for 18 damage
@@ -60,8 +60,8 @@ Attendees: Carlor, Dagon, Harix, Oberon, Jordie, Thor
                     - Lights his torch and continues to search the room
                 - B8 runs into the other house
                 - Oberon finds the burlap sack and opens it, it's full of somebody's equipment
-                - * back at The Talking Troll, Skrillex hisses & scratches at Techno, goes just out the doorway, and then looks back at the guys and continues to try and get their attention *
-                    - Harix follows Skrillex, Techno is too hurting to join
+                - * back at The Talking Troll, Skrillix hisses & scratches at Techno, goes just out the doorway, and then looks back at the guys and continues to try and get their attention *
+                    - Harix follows Skrillix, Techno is too hurting to join
                 - Carlor kicks the door open and attacks B8
                     - Hits for 13 damage, killing B8
                     - Carlor then sees that there are 5 other guys plus Urlam inside
@@ -112,7 +112,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Jordie, Thor
                     - Second attack hits Urlam for 17 damage, killing him
                 - Thor attacks B2 for 14 damage
                     - Second attack hits for 17 damage (used Devine Smite)
-                - Skrillex flies to Oberon
+                - Skrillix flies to Oberon
                 - Jordie attacks B2 for 10 damage, killing him
                     - Second attack hits B4 for 18 damage
                 - B4 hits Jordie for 4 damage

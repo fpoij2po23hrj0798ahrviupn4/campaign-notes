@@ -6,7 +6,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor
         - They wake up hungover at the Talking Troll
         - Oberon was apparently giving out free drinks to his guests
         - Oberon discovers the nights earnings are 14 silver, 7 copper (started with 9 silver, made 5 silver profit, 7 copper)
-        - Oberon sends Skrillex to find the rest of the party, doesn't find anybody
+        - Oberon sends Skrillix to find the rest of the party, doesn't find anybody
         - Oberon heads out to take a nap in the Market Square
         - Harix stays & drinks more beer
     - At the Northshield House (Thor)
@@ -147,7 +147,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor
                 - He takes a swing at a guard, hits for 8 damage
                 - Lady Darath sends Dagon to the stockades for 7 days
             - Thor heads to check on his armor, will be ready in 1 more day
-            - Oberon picks up Skrillex's armor (forgot Skrillex and runs back to get him)
+            - Oberon picks up Skrillix's armor (forgot Skrillix and runs back to get him)
                 - Is built amazingly well, with a nice handle to grab the Tressym quickly (Oberon and Carlor place a Dagger each in it)
                 - Has slots to store a couple small objects in it (ex: daggers)
             - Carlor heads to check on his Glaive
