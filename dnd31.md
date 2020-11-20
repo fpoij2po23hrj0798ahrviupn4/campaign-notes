@@ -31,24 +31,23 @@ Attendees: Carlor, Harix, Oberon - Dagon played by group
     - Harix detects that the Giants have 105hp & 13 armor class, +4 Constitution
         - 2 Giants came from the West, 2 from the South, 1 from the East, and a boulder came from the North
         - Combat Begins!
-            - G1 attacks Oberon & Dagon
+            - G4 attacks Oberon & Dagon
                 - Misses Oberon (Harix used Protection)
                 - Misses Dagon
-            - Carlor casts Hunter's Mark on G1
+            - Carlor casts Hunter's Mark on G4
                 - Attacks for 10 damage
                 - Second attack misses
             - Boulder comes flying from the North
                 - Hits Carlor for 30 damage
             - G2 hits Harix for 16 damage
-            - Harix hits G1 for 8 damage
+            - Harix hits G4 for 8 damage
                 - Second attack hits for 6 damage
             - Oberon casts Hypnotic Pattern, both Giants save
-            - G3 moves
-            - G4 moves
-            - Dagon hits G1 for 5 damage
-                - Uses Stunning Strike to Stun G1 (1 ki point)
+            - 2 Giants move
+            - Dagon hits G4 for 5 damage
+                - Uses Stunning Strike to Stun G4 (1 ki point)
                 - Second attack hits for 5 damage
                 - Uses Flurry of Blows to get 2 bonus attacks (1 ki point)
                 - Bonus attack hits for 9 damage
                 - 2nd Bonus attack hits for 10 damage
-            - Note: Carlor has Hunter's Mark on G1 and is up next, G1 has 52hp left
+            - Note: Carlor has Hunter's Mark on G4 and is up next, G4 has 52hp left
