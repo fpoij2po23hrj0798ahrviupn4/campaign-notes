@@ -15,7 +15,7 @@ Attendees: Carlor, Dagon, Harix, Oberon
             - Tells us that they are wondering if we'll help them gather more information about the Giants
             - Krowen passes Oberon a document which shows us the Harper's Teleportation Network
                 - He also tells us the specifics of where the actual teleporters are, and how to use them
-            - Krowen takes the join, and gives us (all originally came from Daratha)
+            - Krowen takes the coin, and gives us (all originally came from Daratha)
                 - 6 small rolled up scrolls
                     - Dispel Magic
                     - Another gives the ability to fly

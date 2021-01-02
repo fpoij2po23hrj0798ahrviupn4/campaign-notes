@@ -92,14 +92,14 @@ Attendees: Carlor, Dagon, Harix, Oberon
         - Frost Giant hits G7 for 25 damage
         - Harix does nothing
         - Dagon keeps flying towards the sky yelling "Zephyros!"
-            - As Dagon is flying towards the sly, a big flash of light shoots out of Dagon's chest
+            - As Dagon is flying towards the sly, a big flash of light shoots out of Oberon's chest
         - G7 attacks Frost Giant for 15 damage
         - Carlor eats a Goodberry
         - Frost Giant yells out: "That's enough, time to be done with this"
             - Deals 55 damage, killing G7
         - Combat ends
     - Oberon screams "What are you doing!" at Dagon
-        - Dagon stops Oberon at the bottom, dealing a bit of bludgeoning damage
+        - A startled Dagon drops Oberon, dealing a bit of bludgeoning damage
     - Oberon recognizes the Frost Giant as the character known as Harshnag
         - Friendly
         - Largest member of Forest Grey adventuring party in Waterdeep
