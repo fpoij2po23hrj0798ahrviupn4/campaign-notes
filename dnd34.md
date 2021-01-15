@@ -1,0 +1,43 @@
+# DND day 34
+Attendees: Carlor, Dagon, Harix, Oberon
+
+- (continued at the fancy inn in Silverymoon)
+    - At brunch
+        - Waitstaff tells us that the Margaster tower is on the outskirts of town
+            - Also says there is a "party room" in the shed
+    - Make our way through the town looking for the Margaster tower
+        - At the tower, Dagon makes his way to the carriage house
+        - Oberon peeks through the windows
+        - The gang walks around to the back of the property, doesn't see a door on the ground level
+        - Head to investigate the shack instead
+        - Oberon preps Detect Magic, while he does so Carlor tries to get an idea of how many people have been coming/going, things seem pretty normal & Oberon doesn't detect any magic
+        - Oberon casts Knock on the tower door (makes a crazy loud noise so we wait for 5 minutes just to make sure nobody is there or coming)
+        - Dagon perches on a tree as the lookout
+        - Oberon & Carlor enter the tower (Carlor casts Pass Without Trace)
+            - Scour the first 2 level and find 5 Amber gems
+            - There is no way to the third level except for a potential fire escape outside
+        - Oberon & Carlor leave the tower
+        - Oberon casts Knock on the fire escape, hear wood fall on the inside, and the door falls to the ground
+        - Dagon flies in and searches
+        - Find a weird lantern & mirror
+        - Head out to shed, aren't able to open the door
+        - Oberon casts Speak With Animals to talk to the horse in the shed
+        - Oberon casts Detect Magic on the barn and detects it
+        - Carlor uses the "Dispel Magic" spell scroll, and we enter the barn
+        - As we enter, we see two horses & 2 guards
+            - Combat Begins
+                - Guard A moves forward and whispers something at Dagon, Dagon saves
+                - Dagon flies up and attacks Guard A but misses
+                    - Second attack misses
+                    - Uses Flurry of Blows (1 ki point)
+                    - Third attack hits for 6 damage
+                    - Fourth attack hits for 6 damage
+                    - Uses Stunning Strike (1 ki point), stunning Guard A
+                - Carlor casts Hunter's Mark on Guard A
+                    - Attacks Guard A for 28 damage
+                    - Second attack hits for 17 damage
+                - Guard B approaches Carlor
+                    - Carlor's opportunity attack misses
+                    - Guard B hits for 20 damage (7 fire damage)
+                - Oberon blasts Guard B for 12 (nat 20) + 5 = 18 damage
+                - Guard A is stunned

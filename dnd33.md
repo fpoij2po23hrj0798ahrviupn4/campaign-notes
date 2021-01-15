@@ -1,4 +1,4 @@
-# DND day 31
+# DND day 33
 Attendees: Carlor, Dagon, Oberon
 
 - (continued after battle with Hill Giants which attacked at night on the journey to Silverymoon - multiple true deaths and a giant named Harshnag)
