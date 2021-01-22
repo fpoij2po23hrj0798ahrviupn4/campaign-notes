@@ -1,5 +1,5 @@
 # DND day 34
-Attendees: Carlor, Dagon, Harix, Oberon
+Attendees: Carlor, Dagon, Oberon
 
 - (continued at the fancy inn in Silverymoon)
     - At brunch

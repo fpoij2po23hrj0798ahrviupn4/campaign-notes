@@ -1,0 +1,68 @@
+# DND day 35
+Attendees: Carlor, Dagon, Harix, Oberon
+
+-  (continued inside the Margaster Tower barn battle with 2 guards)
+    - Combat Continues
+        - Dagon hits Guard A or 7 damage
+            - Second strike hits for 9 damage (nat 20)
+            - Third attack hits for 13 damage (nat 20)
+        - Carlor misses 2 attacks and 1 bonus attack
+            - Retreats and B misses an opportunity strike
+        - Guard B whispers in Carlor's direction, Carlor saves
+        - Oberon misses Guard A
+            - Second blast misses as well
+        * Harix comes running though the town. He was walking through the town and after hearing two loud knocking noises, he figured it was the gang
+        * Two other mages who also heard the knocks are approaching the barn
+        - Mage 1 shoots Magic Missiles at Oberon and hits for 12 damage
+            - He then casts a spell on himself
+        - Guard A runs at Dagon
+            - Hits for 9 damage + 3 fire damage = 12 damage
+        - Dagon hits Guard A for 5 damage
+            - Second strike hits for 8 damage
+            - Uses Flurry of Blows (1 ki point) to attack twice, dealing 7 damage
+            - Uses Stunning Strike (1 ki point) but Guard A saves
+        - Harix hits Mage 1 for 14 damage (nat 20)
+            - Second attack hits for 13 damage
+        - Mage 2 casts Firebolt at Harix, Oberon uses Counterspell
+            - Uses bonus action to whistle, which spooks one of the horses, knocking Oberon flying, dealing 4 damage and knocking him prone
+        - Carlor runs outside and misses Mage 1
+            - Bonus attack hits for 12 damage
+            - Second attack hits for 8 damage
+        - Guard B transforms into Demon with wings, flies up and shoots a Fire Rays at Dagon
+            - Fire Ring hits for 6 damage
+        - Oberon walks out and casts Fireball at the Mages
+            - Mage 1 takes 14 damage (is hurting)
+            - Mage 2 takes 14 damage
+        - Guard A whispers at Dagon, Dagon is now charmed
+        - Dagon uses Stillness of Mind to stop being charmed
+            - Uses Step of the Wind (1 ki point) to run away
+        - Harix attacks Mage 1 for 10 damage
+            - Second attack hits for 8 damage, killing Mage 1
+        - Mage 2 screams out maniacally and tries to cast Fireball (Oberon Counterspell fails)
+            - Fireball hits
+                - Carlor takes 32 damage (knocked out)
+                - Harix takes 16 damage
+        - Carlor succeeds a Death Saving Throw
+        - Oberon blasts Mage 2 for 4 damage
+            - Casts Healing Word on Carlor for 8hp
+        - Guard A also transforms then shoots 2 Fire Rays at Dagon but misses
+        - Dagon attacks Mage 2 for 6 damage
+            - Second attack hits for 8 damage
+            - Bonus attack hits for 10 damage
+        - Harix attacks Mage 2 for 11 damage
+            - Second attack hits for 10 damage (Mage 2 is looking hurt)
+        - Mage 2 casts a spell and disappears (Oberon Counterspell fails)
+        - Carlor tosses flour everywhere but it doesn't seem to land on Mage 2
+        - Morphed Gaurd B flies out and attacks Oberon for 18 damage (nat 20)
+        - Oberon uses Faerie Fire but nothing shows up
+        * Horses & carriage move away
+        - Demon A flies a bit, whispers towards Harix, Harix saves
+        - Dagon flies down and punches Demon A for 16 damage (nat 20)
+            - Second attack misses
+            - Uses Flurry of Blows (1 ki point), but both bonus attacks miss
+        - Harix attacks Demon B but misses
+            - Second attack hits for 14 damage (nat 20)
+        - Carlor casts Hunter's Mark no Demon A
+            - Hits Demon A for 18 damage & it bursts into flames
+            - Misses attack on Demon B
+        - Demon B lets out a feral cry, things around it look funny, then it disappears
