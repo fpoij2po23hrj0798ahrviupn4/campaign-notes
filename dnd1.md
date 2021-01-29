@@ -16,7 +16,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Techno, Thor
     - Tribal tatoos and burned scales on right arm
     - Can't breathe fire
     - This is Dagon (Monk - Dragonborn)
-- Harix (Fighter - Goliath) popped out of the woods, scared away the things attacking 
+- Harix (Fighter - Goliath) popped out of the woods, scared away the things attacking
 - Decide to head towards surrounding area of Nightstone to kill Orcs
 - Get to Nightstone at around noon
     - Going to get dark in 3 hours
