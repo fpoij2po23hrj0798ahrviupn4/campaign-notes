@@ -1,0 +1,50 @@
+# DND day 37
+Attendees: Carlor, Dagon, Oberon
+
+- (still at the Margaster Tower post battle)
+    - At the tower
+        - Seems like the candle thingies were used to communicate messages between the barn and the tower
+        - Oberon rearranges the bodies around the horse to appear as if it were some kind of satanic ritual
+        - Carlor and Dagon scour the tower again, manage to find 3 gold 6 silver
+        - The group washes at the tower, Dagon flies off
+        - While Oberon & Carlor are washing off, guards arrive at the property and start investigating
+        - Carlor & Oberon sneak out to the woods
+    - Back at the inn, have supper & go to bed
+    - Oberon remembers that Urgula's friend, a Wealthy Knight named Harthos, has a giant-slaying axe North-West of Silverymoon at Zymorgan Hall
+- Next day
+    - Have breakfast at the inn
+    - Dagon & Oberon walk out of the town
+        - See a wanted board posting offering 1000gp for information on the Margaster Tower incident
+    - From the air, Dagon sees Harshnag surrounded by humanoids
+        - Humanoids appear to be Silverymoon guards
+        - Dagon flies in and tries to pursuade the guards that Harshnag is good, but fails miserably
+        - Harshnag also is trying to convince the guards that he means no harm, even putting down his axe
+        - Dagon uses Sending Stone to send a message to Oberon, then uses patient defence
+        - Carlor casts Longstrider so him and Oberon can run faster, they arrive before much else happens
+        - Oberon manages to 10% convince the guards who Harshnag is
+        - * Harshnag yells TAKE COVER as a giant boulder comes flying - Harshnag smashes the boulder to dust with his Axe *
+        - 3 Giants are approaching from the South
+        - Harix (NPC for this session) yells out "follow me, these guys have this" to the guards, him and the guards disappear
+        - Combat Begins (mid battle we determine that the Giants are Stone Giants)
+            - Another boulder comes flying in straight at Harshnag, hits for 27 damage
+            - Carlor casts Hunter's Mark on Giant 1 then dodges
+            - Oberon casts Fireball
+                - Deals
+                    - Giant 1 takes 11 damage
+                    - Giant 2 takes 11 damage
+                    - Giant 3 takes 22 damage
+            - Giant 1 hits Harshnag for 19 damage
+            - Dagon misses Giant 1 on his first strike
+                - Second attack hits for 10 damage
+                - Stunning Strike (1 ki point) misses
+                - Patient Defence (1 ki point)
+            - Giant 2 hits Dagon for 13 damage
+            - Harshnag hits Giant for 26 damage
+            - Giant 3 hits Dagon for 17 damage
+            - Carlor misses Giant 1
+                - Bonus attack hits for 14 damage
+                - Second attack misses
+            - Oberon casts Hypnotic Pattern, charming Giant 2 & 3
+                - Casts Bardic Inspiration on Harshnag
+            - Giant 1 misses Harshnag
+            - Dagon hits Giant 1 for 10 damage
