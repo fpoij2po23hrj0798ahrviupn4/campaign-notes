@@ -27,24 +27,24 @@ Attendees: Carlor, Dagon, Oberon
         - Harix (NPC for this session) yells out "follow me, these guys have this" to the guards, him and the guards disappear
         - Combat Begins (mid battle we determine that the Giants are Stone Giants)
             - Another boulder comes flying in straight at Harshnag, hits for 27 damage
-            - Carlor casts Hunter's Mark on Giant 1 then dodges
+            - Carlor casts Hunter's Mark on Stone Giant 1 then dodges
             - Oberon casts Fireball
                 - Deals
-                    - Giant 1 takes 11 damage
-                    - Giant 2 takes 11 damage
-                    - Giant 3 takes 22 damage
-            - Giant 1 hits Harshnag for 19 damage
-            - Dagon misses Giant 1 on his first strike
+                    - Stone Giant 1 takes 11 damage
+                    - Stone Giant 2 takes 11 damage
+                    - Stone Giant 3 takes 22 damage
+            - Stone Giant 1 hits Harshnag for 19 damage
+            - Dagon misses Stone Giant 1 on his first strike
                 - Second attack hits for 10 damage
                 - Stunning Strike (1 ki point) misses
                 - Patient Defence (1 ki point)
-            - Giant 2 hits Dagon for 13 damage
-            - Harshnag hits Giant for 26 damage
-            - Giant 3 hits Dagon for 17 damage
-            - Carlor misses Giant 1
+            - Stone Giant 2 hits Dagon for 13 damage
+            - Harshnag hits Stone Giant for 26 damage
+            - Stone Giant 3 hits Dagon for 17 damage
+            - Carlor misses Stone Giant 1
                 - Bonus attack hits for 14 damage
                 - Second attack misses
-            - Oberon casts Hypnotic Pattern, charming Giant 2 & 3
+            - Oberon casts Hypnotic Pattern, charming Stone Giant 2 & Stone Giant 3
                 - Casts Bardic Inspiration on Harshnag
-            - Giant 1 misses Harshnag
-            - Dagon hits Giant 1 for 10 damage
+            - Stone Giant 1 misses Harshnag
+            - Dagon hits Stone Giant 1 for 10 damage

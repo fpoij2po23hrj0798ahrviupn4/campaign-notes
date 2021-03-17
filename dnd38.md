@@ -1,0 +1,60 @@
+# DND day 38
+Attendees: Carlor, Dagon, Harix, Oberon
+
+- (continue battle with Stone Giants outside of Silverymoon)
+    - Combat continues
+        - Stone Giant 2 is charmed
+        - Harshnag kills Stone Giant 1
+        - Stone Giant 3 is charmed
+        - Oberon gives Bardic Inspiration to Carlor
+        - Dagon used Stunning Strike on Stone Giant 3 & deals some damage
+        - Harix appears and runs in
+        - Carlor moves Hunter's Mark to Stone Giant 3 & Dodges
+        - Dagon misses Stone Giant 3
+            - Second attack hits for 5 damage
+            - Bonus attack hits for 7 damage
+        - Harshnag taunts the Stone Giants
+        - Stone Giant 3 deals 18 damage to Harix
+        - Carlor attacks Stone Giant 3 for 15 damage
+            - Second attack hits for 12 damage
+            - Bonus attack misses
+        - Oberon moves around
+        - Dagon attacks Stone Giant 3 for 5 damage
+            - Second attack misses
+        - Stone Giant 2 does nothing
+        - Harshnag tries to taunt Stone Giant 3 again
+        - Harix deals 12 damage to Stone Giant 3, it's looking hurt
+            - Second attack hits for 6 damage, killing Stone Giant 3
+        - Carlor moves Hunter's Mark to Stone Giant 2
+            - First attack hits for 19 damage (Bardic Inspiration used)
+            - Second attack misses
+        - Oberon blasts Stone Giant 2 for 5 damage
+            - Second blast misses
+        - Dagon misses two attacks on Stone Giant 2
+        - Stone Giant 2 hits Carlor for 23 damage
+            - Second attack hits for 24 damage
+            - Carlor loses concentration
+        - Harshnag picks up a rock and throws it at Stone Giant 3, dealing 33 damage
+        - Harix moves around
+        - Carlor deals 28 damage to Stone Giant 3 (nat 20)
+            - Second attack deals 15 damage
+            - Stone Giant 2 deals 21 damage as Carlor moves away, Carlor is knocked unconscious
+        - Oberon casts Fireball, dealing 14 damage to Stone Giant 2
+        - Dagon kills Stone Giant 2
+    - Post-combat
+        - Oberon casts Healing Word on Carlor for 5 hp
+        - Dagon loots Stone Giant 2, finding:
+            - 600gp
+            - 1 Black Pearl
+            - 3 moldy loaves of bread
+        - Dagon eats the moldy bread
+        - Oberon loots Stone Giant 1, finding:
+            - 500gp
+            - 1 Black Pearl
+            - 1 Amber Gemstone
+            - 3ft Tall Idol, Depicting Stone Bones (Oberon is familiar with it, it is something that Stone Giants would worship)
+        - Harix loots Stone Giant 3, finding:
+            - 1200gp
+            - 4 Amber Gemstones
+            - 3 dead trout (Sobeys in Halifax, been there for awhile fresh)
+        - Carlor casts 2x Goodberries and heals 20hp
