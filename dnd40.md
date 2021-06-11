@@ -1,0 +1,32 @@
+# DND day 40
+Attendees: Carlor, Dagon, Harix, Oberon, Thor
+
+- (1/2 way to Zymorgan Hall from Silverymoon, talking to Hill Giant names Mog from Grudhog)
+    - Continue talking to Mog
+        - She says Chiefga has a massive army (he's the leader of the Hill Giants)
+        - Chiefga is "many moons" away
+        - Mog goes a little crazy so we peace out
+    - Harshnag comes up to us, dumps Thor out of his bag
+        - Says Techno is shacked up with a swamp monster
+    - Group decides that continue heading to get the Giant-slaying axe
+    - Take a long rest in the Tiny Hut
+    - Make it to Zymorgan Hall, is a little village with a keep/castle in the center
+        - Walls are closed up, but we haven't been shot at yet
+        - Knock on doors, nothing happens
+        - Push on the gate and it opens
+        - At stable, stablekeeper says Lord Harthos Zymorgan is the only real warrior in this town, he owns/runs the town?
+            - Also says Gertrude runs the inn
+    - Center of Zymorgan Hall is similarly laid out to Tribor, group heads there and enters
+        - No guards/people in sight
+        - Old swords on the walls, dusty carpets, suits of armor, etc
+        - Oberon detects a faint amount of magic on the armor & sword - seems vaguely familiar
+            - The swords have the same magic as the flying swords in Nightstone
+        - Dagon writes a note saying "find us at the inn", and drops it on to a suit of armor
+        - We hear clinking and turn to see 6 flying swords and 2 suits of armor (more in the background) in motion
+        - 3 Carpets jump up and try to grapple Dagon but they all fail
+        - Hear footsteps and then "WHO GOES THERE??" (it's the Lord)
+            - Oberon talks it out, the Lord knows of Urgula, Oberon also tells him about Harshnag and the Giant situation
+            - Lord Harthos disables the trap and we all sit down for some chit-chat
+            - Lord Harthos' son took the axe and left, ran off with a common thief
+            - Says the thief was from Yatar (next to Tribor), son & thief are in Everlund (3 days walk)
+    - (fast-forward the walk to Everlund)
