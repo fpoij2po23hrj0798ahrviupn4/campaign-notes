@@ -35,7 +35,7 @@ Attendees: Carlor, Dagon, Harix, Oberon
                 - Sundabar was pretty well torn to bits during a war and the Lord's Alliance didn't come to their aid
             - Zoar family is a group of nobles which came from Waterdeep about 100 years ago
             - Everlund is South-East of Mirabar
-            - Urgula's friend with the Giant-slaying axe is North-West of Silverymoon (Zymorgan Hall)
+            - Urgula's friend with the Giant Slayer Greataxe is North-West of Silverymoon (Zymorgan Hall)
     - Go to the Everlund Town Square and check it out
     - Stay at an inn
     - Next morning

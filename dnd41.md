@@ -1,0 +1,31 @@
+# DND day 40
+Attendees: Carlor, Dagon, Harix, Oberon, Thor
+
+- (entering Everlund to teleport to Zatar, to try and find the stolen Giant-slaying axe)
+    - Need to find a way to sneak Harshnag into the Moongleam Tower
+    - Walk to Moongleam Tower without Harshnag
+        - Krowen sees us and comes to say hi
+        - Says he would be cool with Harshnag coming into the tower, but he probably wouldn't fit
+        - Oberon and Carlor head to Yatar through the teleportation network to see if it's smaller on the other side
+            - Kolbaz is the Archmage on the Yatar side
+            - Kolbaz doesn't like Oberon and Carlor, tries to shoo them away
+            - Oberon uses Sending Stones to tell the rest of the gang a message that old man is cranky, lots of room though
+            - Group decides to leave Harshnag behind but they give him one of the Sending Stones, then they take the portal
+            - Dagon flies away, rips out some ivy
+            - All of the sudden, Kolbaz waves his hands and the grass & ivy disappear, and all of the wood underneath appears partially rotten
+            - Group leaves the area
+        - Oberon casts Detect Magic as a ritual and then we walk around Yatar
+        - Enter an Armory
+            - 1 male & 2 female Dwarves are running the place
+            - They haven't seen any Giant Slayer Greataxe axes
+            - Thor buys Plate Armor for 3000gp
+            - Weaponsmith is on the other side of town (take a right at the Market Square)
+        - Enter the Weaponsmith
+            - They are also not aware of any unusual greataxes
+            - Knows of Lord Zymorgan's son, his name is Harthral
+            - Lord Zymorgan's son is staying on the outskirts of town (to the West)
+            - Thor decides not to buy a warhammer as the price is a bit steep (2x usual at 30gp)
+        - Head to the West of the city limits to try and find Harthal
+            - See a path leading to a cabin, 5-10 people are around it
+            - Carlor & Oberon sneak around to try to get close to the house to see if Oberon can detect magic
+            - Oberon is able to Detect Magic in the cabin

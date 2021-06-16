@@ -8,7 +8,7 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor
         - Mog goes a little crazy so we peace out
     - Harshnag comes up to us, dumps Thor out of his bag
         - Says Techno is shacked up with a swamp monster
-    - Group decides that continue heading to get the Giant-slaying axe
+    - Group decides that continue heading to get the Giant Slayer Greataxe
     - Take a long rest in the Tiny Hut
     - Make it to Zymorgan Hall, is a little village with a keep/castle in the center
         - Walls are closed up, but we haven't been shot at yet
@@ -25,8 +25,9 @@ Attendees: Carlor, Dagon, Harix, Oberon, Thor
         - We hear clinking and turn to see 6 flying swords and 2 suits of armor (more in the background) in motion
         - 3 Carpets jump up and try to grapple Dagon but they all fail
         - Hear footsteps and then "WHO GOES THERE??" (it's the Lord)
-            - Oberon talks it out, the Lord knows of Urgula, Oberon also tells him about Harshnag and the Giant situation
-            - Lord Harthos disables the trap and we all sit down for some chit-chat
-            - Lord Harthos' son took the axe and left, ran off with a common thief
-            - Says the thief was from Yatar (next to Tribor), son & thief are in Everlund (3 days walk)
+            - Oberon talks it out, the Lord knows of Urgula, Oberon also tells him about Harshnag and the Giant Slayer Greataxe
+            - Lord Zymorgan disables the trap and we all sit down for some chit-chat
+            - Lord Zymorgan' son took the axe and left, ran off with a common thief
+            - Says the thief was in Yatar (next to Tribor) with a thief (3 days walk)
+            - Can walk 3 days to Everlund & take the teleporter thingy to Yatar
     - (fast-forward the walk to Everlund)

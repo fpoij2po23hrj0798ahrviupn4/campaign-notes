@@ -1,7 +1,7 @@
 # DND day 31
 Attendees: Carlor, Harix, Oberon - Dagon played by group
 
-- (continued on journey to Silverymoon to get a Giant-slaying axe North-West of Silverymoon - Zymorgan Hall. Also Othovir's treasure)
+- (continued on journey to Silverymoon to get a Giant Slayer Greataxe North-West of Silverymoon - Zymorgan Hall. Also Othovir's treasure)
     - Walking along the road
         - The season is Fall
         - Road is well used
